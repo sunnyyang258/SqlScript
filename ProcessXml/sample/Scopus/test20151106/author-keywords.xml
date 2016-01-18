@@ -1,0 +1,1590 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-84866617730</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.1109/IRPS.2012.6241935</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>365697102</xocs:pui>
+    <xocs:issn>15417026</xocs:issn>
+    <xocs:volume />
+    <xocs:issue />
+    <xocs:author-surname>ToledanoLuque</xocs:author-surname>
+    <xocs:author-fi>M</xocs:author-fi>
+    <xocs:firstpage>XT.5.6</xocs:firstpage>
+    <xocs:lastpage />
+    <xocs:sort-year>2012</xocs:sort-year>
+    <xocs:sort-yyyymm>201209</xocs:sort-yyyymm>
+    <xocs:pub-year>2012</xocs:pub-year>
+    <xocs:timestamp>2014-09-03T03:37:09.18413-04:00</xocs:timestamp>
+    <cto:doctype>cp</cto:doctype>
+    <cto:group-id>84866617730</cto:group-id>
+    <cto:ref-id>33745723252</cto:ref-id>
+    <cto:ref-id>35949025938</cto:ref-id>
+    <cto:ref-id>84856886641</cto:ref-id>
+    <cto:ref-id>70449089008</cto:ref-id>
+    <cto:ref-id>77957892897</cto:ref-id>
+    <cto:ref-id>79551640965</cto:ref-id>
+    <cto:ref-id>79958031807</cto:ref-id>
+    <cto:ref-id>33744819496</cto:ref-id>
+    <cto:ref-id>51549117124</cto:ref-id>
+    <cto:ref-id>84866597024</cto:ref-id>
+    <cto:ref-id>68349125520</cto:ref-id>
+    <cto:ref-id>0037560876</cto:ref-id>
+    <cto:ref-id>79957441081</cto:ref-id>
+    <cto:ref-id>70350104952</cto:ref-id>
+    <cto:ref-id>80052657103</cto:ref-id>
+    <cto:ref-id>76449095917</cto:ref-id>
+    <cto:ref-id>0003672723</cto:ref-id>
+    <cto:ref-id>0000313253</cto:ref-id>
+    <cto:ref-id>84866608360</cto:ref-id>
+    <cto:ref-id>78651287908</cto:ref-id>
+    <cto:ref-id>79959299688</cto:ref-id>
+    <cto:ref-id>77952405772</cto:ref-id>
+    <cto:ref-id>67349131226</cto:ref-id>
+    <cto:ref-id>79951847514</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>M.</cto:auth-initials>
+      <cto:auth-indexed-name>Toledano-Luque M.</cto:auth-indexed-name>
+      <cto:auth-surname>Toledano-Luque</cto:auth-surname>
+      <cto:auth-id>8986328700</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>B.</cto:auth-initials>
+      <cto:auth-indexed-name>Kaczer B.</cto:auth-indexed-name>
+      <cto:auth-surname>Kaczer</cto:auth-surname>
+      <cto:auth-id>24437996500</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>E.</cto:auth-initials>
+      <cto:auth-indexed-name>Simoen E.</cto:auth-indexed-name>
+      <cto:auth-surname>Simoen</cto:auth-surname>
+      <cto:auth-id>36040456800</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>R.</cto:auth-initials>
+      <cto:auth-indexed-name>Degraeve R.</cto:auth-indexed-name>
+      <cto:auth-surname>Degraeve</cto:auth-surname>
+      <cto:auth-id>7004515261</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>J.</cto:auth-initials>
+      <cto:auth-indexed-name>Franco J.</cto:auth-indexed-name>
+      <cto:auth-surname>Franco</cto:auth-surname>
+      <cto:auth-id>26428075300</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>Ph.J.</cto:auth-initials>
+      <cto:auth-indexed-name>Roussel Ph.J.</cto:auth-indexed-name>
+      <cto:auth-surname>Roussel</cto:auth-surname>
+      <cto:auth-id>35507956900</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>T.</cto:auth-initials>
+      <cto:auth-indexed-name>Grasser T.</cto:auth-indexed-name>
+      <cto:auth-surname>Grasser</cto:auth-surname>
+      <cto:auth-id>56257117600</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>G.</cto:auth-initials>
+      <cto:auth-indexed-name>Groeseneken G.</cto:auth-indexed-name>
+      <cto:auth-surname>Groeseneken</cto:auth-surname>
+      <cto:auth-id>24468044100</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="03" month="09" timestamp="2014-09-03T07:55:59.000059+01:00" year="2014" />
+        <ait:date-sort day="28" month="09" year="2012" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2012 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.1109/IRPS.2012.6241935</ce:doi>
+            <itemid idtype="PUI">365697102</itemid>
+            <itemid idtype="CPX">20123915477343</itemid>
+            <itemid idtype="SCP">84866617730</itemid>
+            <itemid idtype="SGR">84866617730</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="28" month="09" year="2012" />
+          </history>
+          <dbcollection>CPX</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="cp" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>drain current RTN</author-keyword>
+              <author-keyword>Gate current RTN</author-keyword>
+              <author-keyword>gate leakage current</author-keyword>
+              <author-keyword>I <inf>D</inf>-RTN</author-keyword>
+              <author-keyword>I <inf>G</inf>-RTN</author-keyword>
+              <author-keyword>MOSFET</author-keyword>
+              <author-keyword>Random Telegraph Noise current RTN</author-keyword>
+              <author-keyword>reliability</author-keyword>
+              <author-keyword>SiON</author-keyword>
+              <author-keyword>variability</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Correlation of single trapping and detrapping effects in drain and gate currents of nanoscaled nFETs and pFETs</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="8986328700" seq="1">
+              <ce:initials>M.</ce:initials>
+              <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+              <ce:surname>Toledano-Luque</ce:surname>
+              <preferred-name>
+                <ce:initials>M.</ce:initials>
+                <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                <ce:surname>Toledano-Luque</ce:surname>
+                <ce:given-name>M.</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">toleda@imec.be</ce:e-address>
+            </author>
+            <author auid="24437996500" seq="2">
+              <ce:initials>B.</ce:initials>
+              <ce:indexed-name>Kaczer B.</ce:indexed-name>
+              <ce:surname>Kaczer</ce:surname>
+              <preferred-name>
+                <ce:initials>B.</ce:initials>
+                <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                <ce:surname>Kaczer</ce:surname>
+                <ce:given-name>B.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="36040456800" seq="3">
+              <ce:initials>E.</ce:initials>
+              <ce:indexed-name>Simoen E.</ce:indexed-name>
+              <ce:surname>Simoen</ce:surname>
+              <preferred-name>
+                <ce:initials>E.</ce:initials>
+                <ce:indexed-name>Simoen E.</ce:indexed-name>
+                <ce:surname>Simoen</ce:surname>
+                <ce:given-name>E.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="7004515261" seq="4">
+              <ce:initials>R.</ce:initials>
+              <ce:indexed-name>Degraeve R.</ce:indexed-name>
+              <ce:surname>Degraeve</ce:surname>
+              <preferred-name>
+                <ce:initials>R.</ce:initials>
+                <ce:indexed-name>Degraeve R.</ce:indexed-name>
+                <ce:surname>Degraeve</ce:surname>
+                <ce:given-name>R.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="26428075300" seq="5">
+              <ce:initials>J.</ce:initials>
+              <ce:indexed-name>Franco J.</ce:indexed-name>
+              <ce:surname>Franco</ce:surname>
+              <preferred-name>
+                <ce:initials>J.</ce:initials>
+                <ce:indexed-name>Franco J.</ce:indexed-name>
+                <ce:surname>Franco</ce:surname>
+                <ce:given-name>J.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="35507956900" seq="6">
+              <ce:initials>Ph.J.</ce:initials>
+              <ce:indexed-name>Roussel Ph.J.</ce:indexed-name>
+              <ce:surname>Roussel</ce:surname>
+              <preferred-name>
+                <ce:initials>P.J.</ce:initials>
+                <ce:indexed-name>Roussel P.</ce:indexed-name>
+                <ce:surname>Roussel</ce:surname>
+                <ce:given-name>Ph J.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="24468044100" seq="8">
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+              <ce:surname>Groeseneken</ce:surname>
+              <preferred-name>
+                <ce:initials>G.</ce:initials>
+                <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                <ce:surname>Groeseneken</ce:surname>
+                <ce:given-name>G.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60070034" country="bel">
+              <organization>Imec</organization>
+              <address-part>Kapeldreef 78</address-part>
+              <city-group>B-3001 Leuven</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="56257117600" seq="7">
+              <ce:initials>T.</ce:initials>
+              <ce:indexed-name>Grasser T.</ce:indexed-name>
+              <ce:surname>Grasser</ce:surname>
+              <preferred-name>
+                <ce:initials>T.</ce:initials>
+                <ce:indexed-name>Grasser T.</ce:indexed-name>
+                <ce:surname>Grasser</ce:surname>
+                <ce:given-name>T.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60069060" country="aut">
+              <organization>Institute for Microelectronics</organization>
+              <organization>Technische Universität Wien</organization>
+              <address-part>Gußhausstraße 27-29</address-part>
+              <city-group>A-1040 Vienna</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="26428075300" seq="5">
+              <ce:initials>J.</ce:initials>
+              <ce:indexed-name>Franco J.</ce:indexed-name>
+              <ce:surname>Franco</ce:surname>
+              <preferred-name>
+                <ce:initials>J.</ce:initials>
+                <ce:indexed-name>Franco J.</ce:indexed-name>
+                <ce:surname>Franco</ce:surname>
+                <ce:given-name>J.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="24468044100" seq="8">
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+              <ce:surname>Groeseneken</ce:surname>
+              <preferred-name>
+                <ce:initials>G.</ce:initials>
+                <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                <ce:surname>Groeseneken</ce:surname>
+                <ce:given-name>G.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60025063" country="bel" dptid="104264739">
+              <organization>Dept. Elektrotechniek ESAT-MICAS</organization>
+              <organization>KU Leuven</organization>
+              <address-part>Kasteelpark Arenberg 10</address-part>
+              <city-group>B-3001 Leuven</city-group>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>M.</ce:initials>
+              <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+              <ce:surname>Toledano-Luque</ce:surname>
+            </person>
+            <affiliation country="bel">
+              <organization>Imec</organization>
+              <address-part>Kapeldreef 78</address-part>
+              <city-group>B-3001 Leuven</city-group>
+            </affiliation>
+            <ce:e-address type="email">toleda@imec.be</ce:e-address>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>The correlation of discrete gate and drain current fluctuations is revealed in nanoscaled SiON pFETs and nFETs, demonstrating that discrete trapping and detrapping events in the same single states are responsible of both I <inf>D</inf> and I <inf>G</inf> random telegraph noise (RTN). The high and low gate current I <inf>G</inf>-RTN levels are independent of temperature but the switching rates thermally activated indicating that the trapping and detrapping events are consistent with nonradiative multiphonon theory. © 2012 IEEE.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="usa" srcid="700147302" type="p">
+            <sourcetitle>IEEE International Reliability Physics Symposium Proceedings</sourcetitle>
+            <sourcetitle-abbrev>IEEE Int. Reliab. Phys. Symp. Proc.</sourcetitle-abbrev>
+            <issuetitle>2012 IEEE International Reliability Physics Symposium, IRPS 2012</issuetitle>
+            <issn type="print">15417026</issn>
+            <isbn length="13" level="volume">9781457716799</isbn>
+            <volisspag>
+              <pages>XT.5.1-XT.5.6</pages>
+            </volisspag>
+            <article-number>6241935</article-number>
+            <publicationyear first="2012" />
+            <publicationdate>
+              <year>2012</year>
+              <date-text xfab-added="true">2012</date-text>
+            </publicationdate>
+            <additional-srcinfo>
+              <conferenceinfo>
+                <confevent>
+                  <confname>2012 IEEE International Reliability Physics Symposium, IRPS 2012</confname>
+                  <conflocation country="usa">
+                    <city-group>Anaheim, CA</city-group>
+                  </conflocation>
+                  <confdate>
+                    <startdate day="15" month="04" year="2012" />
+                    <enddate day="19" month="04" year="2012" />
+                  </confdate>
+                  <confcatnumber>CFP12RPS-USB</confcatnumber>
+                  <confcode>92800</confcode>
+                </confevent>
+                <confpublication>
+                  <procpagerange>var.pagings</procpagerange>
+                </confpublication>
+              </conferenceinfo>
+            </additional-srcinfo>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="n" type="CFL">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Gate current</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Gate-leakage current</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">MOS-FET</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Random telegraph noise</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">SiON</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">variability</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CMH">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Reliability</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>2200</classification>
+              </classifications>
+              <classifications type="CPXCLASS">
+                <classification>
+                  <classification-code>421</classification-code>
+                  <classification-description>Strength of Building Materials; Mechanical Properties</classification-description>
+                </classification>
+              </classifications>
+              <classifications type="GEOCLASS">
+                <classification>
+                  <classification-code>Related Topics</classification-code>
+                </classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="24">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Degradation and breakdown of 0.9 nm EOT SiO <inf>2</inf>/ALD-HfO <inf>2</inf>/metal gate stacks under positive constant voltage stress</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33745723252</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Degraeve R.</ce:indexed-name>
+                    <ce:surname>Degraeve</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Kauerauf T.</ce:indexed-name>
+                    <ce:surname>Kauerauf</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Cho M.</ce:indexed-name>
+                    <ce:surname>Cho</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Zahid M.</ce:indexed-name>
+                    <ce:surname>Zahid</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>L.Å.</ce:initials>
+                    <ce:indexed-name>Ragnarsson L.A.</ce:indexed-name>
+                    <ce:surname>Ragnarsson</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>D.P.</ce:initials>
+                    <ce:indexed-name>Brunco D.P.</ce:indexed-name>
+                    <ce:surname>Brunco</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>Ph.</ce:initials>
+                    <ce:indexed-name>Roussel Ph.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="9">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>De Gendt S.</ce:indexed-name>
+                    <ce:surname>De Gendt</ce:surname>
+                  </author>
+                  <author seq="10">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Electron Devices Meeting, 2005. IEDM Technical Digest. IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <pagerange first="408" last="411" />
+                </ref-volisspag>
+                <ref-text>Dec.</ref-text>
+              </ref-info>
+              <ref-fulltext>R. Degraeve, T. Kauerauf, M. Cho, M. Zahid, L.Å. Ragnarsson, D.P. Brunco, B. Kaczer, Ph. Roussel, S. De Gendt, G. Groeseneken, "Degradation and breakdown of 0.9 nm EOT SiO <inf>2</inf>/ALD-HfO <inf>2</inf>/metal gate stacks under positive constant voltage stress," in Electron Devices Meeting, 2005. IEDM Technical Digest. IEEE International, pp. 408-411, Dec. 2005.</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Discrete Resistance Switching in Submicrometer Silicon Inversion Layers: Individual Interface Traps and Low-Frequency (1/f?) Noise</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">35949025938</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.S.</ce:initials>
+                    <ce:indexed-name>Ralls K.S.</ce:indexed-name>
+                    <ce:surname>Ralls</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>W.J.</ce:initials>
+                    <ce:indexed-name>Skocpol W.J.</ce:indexed-name>
+                    <ce:surname>Skocpol</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>L.D.</ce:initials>
+                    <ce:indexed-name>Jackel L.D.</ce:indexed-name>
+                    <ce:surname>Jackel</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>R.E.</ce:initials>
+                    <ce:indexed-name>Howard R.E.</ce:indexed-name>
+                    <ce:surname>Howard</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>L.A.</ce:initials>
+                    <ce:indexed-name>Fetter L.A.</ce:indexed-name>
+                    <ce:surname>Fetter</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>R.W.</ce:initials>
+                    <ce:indexed-name>Epworth R.W.</ce:indexed-name>
+                    <ce:surname>Epworth</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>D.M.</ce:initials>
+                    <ce:indexed-name>Tennant D.M.</ce:indexed-name>
+                    <ce:surname>Tennant</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Phys. Rev. Lett.</ref-sourcetitle>
+                <ref-publicationyear first="1984" />
+                <ref-volisspag>
+                  <voliss issue="3" volume="52" />
+                  <pagerange first="228" last="231" />
+                </ref-volisspag>
+                <ref-text>Jan.</ref-text>
+              </ref-info>
+              <ref-fulltext>K.S. Ralls, W.J. Skocpol, L.D. Jackel, R.E. Howard, L.A. Fetter, R.W. Epworth, D.M. Tennant, "Discrete Resistance Switching in Submicrometer Silicon Inversion Layers: Individual Interface Traps and Low-Frequency (1/f?) Noise," Phys. Rev. Lett., vol. 52, no. 3, pp. 228-231, Jan. 1984.</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Random telegraph noise: From a device physicist's dream to a designer's nightmare</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84856886641</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Simoen E.</ce:indexed-name>
+                    <ce:surname>Simoen</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                    <ce:surname>Toledano-Luque</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Claeys C.</ce:indexed-name>
+                    <ce:surname>Claeys</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>ECS Trans.</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <voliss issue="3" volume="39" />
+                  <pagerange first="3" last="15" />
+                </ref-volisspag>
+                <ref-text>Sept.</ref-text>
+              </ref-info>
+              <ref-fulltext>E. Simoen, B. Kaczer, M. Toledano-Luque, and C. Claeys, "Random telegraph noise: from a device physicist's dream to a designer's nightmare," ECS Trans. vol. 39, no. 3, pp. 3-15, Sept. 2011.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>NBTI from the perspective of defect states with widely distributed time scales</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70449089008</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Martin-Martinez J.</ce:indexed-name>
+                    <ce:surname>Martin-Martinez</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Simoen E.</ce:indexed-name>
+                    <ce:surname>Simoen</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Aoulaiche M.</ce:indexed-name>
+                    <ce:surname>Aoulaiche</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>Ph.J.</ce:initials>
+                    <ce:indexed-name>Roussel Ph.J.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Reliability Physics Symposium, 2009 IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <pagerange first="55" last="60" />
+                </ref-volisspag>
+                <ref-text>April</ref-text>
+              </ref-info>
+              <ref-fulltext>B. Kaczer, T. Grasser, J. Martin-Martinez, E. Simoen, M. Aoulaiche, Ph.J.Roussel, G. Groeseneken, "NBTI from the perspective of defect states with widely distributed time scales," in Reliability Physics Symposium, 2009 IEEE International, pp. 55-60, April 2009.</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The time dependent defect spectroscopy (TDDS) for the characterization of the bias temperature instability</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77957892897</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Reisinger H.</ce:indexed-name>
+                    <ce:surname>Reisinger</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Wagner P.</ce:indexed-name>
+                    <ce:surname>Wagner</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Schanovsky F.</ce:indexed-name>
+                    <ce:surname>Schanovsky</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>W.</ce:initials>
+                    <ce:indexed-name>Goes W.</ce:indexed-name>
+                    <ce:surname>Goes</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Reliability Physics Symposium (IRPS), 2010 IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <pagerange first="16" last="25" />
+                </ref-volisspag>
+                <ref-text>May</ref-text>
+              </ref-info>
+              <ref-fulltext>T. Grasser, H. Reisinger, P. Wagner, F. Schanovsky, W. Goes, B. Kaczer, "The time dependent defect spectroscopy (TDDS) for the characterization of the bias temperature instability," in Reliability Physics Symposium (IRPS), 2010 IEEE International, pp. 16-25, May 2010.</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Temperature dependence of the emission and capture times of SiON individual traps after positive bias temperature stress</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">79551640965</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                    <ce:surname>Toledano-Luque</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.J.</ce:initials>
+                    <ce:indexed-name>Roussel P.J.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>M.J.</ce:initials>
+                    <ce:indexed-name>Cho M.J.</ce:indexed-name>
+                    <ce:surname>Cho</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Vacuum Science &amp; Technology B: Microelectronics and Nanometer Structures</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <voliss issue="1" volume="29" />
+                  <pages>01AA04-01AA04-5</pages>
+                </ref-volisspag>
+                <ref-text>Jan</ref-text>
+              </ref-info>
+              <ref-fulltext>M. Toledano-Luque, B. Kaczer, Ph.J. Roussel, M.J. Cho, T. Grasser, G. Groeseneken, "Temperature dependence of the emission and capture times of SiON individual traps after positive bias temperature stress," Journal of Vacuum Science &amp; Technology B: Microelectronics and Nanometer Structures, vol. 29, no.1, pp.01AA04-01AA04-5, Jan 2011.</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Temperature and voltage dependences of the capture and emission times of individual traps in high-k dielectrics</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">79958031807</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                    <ce:surname>Toledano-Luque</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Simoen E.</ce:indexed-name>
+                    <ce:surname>Simoen</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>P.J.</ce:initials>
+                    <ce:indexed-name>Roussel P.J.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Veloso A.</ce:indexed-name>
+                    <ce:surname>Veloso</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Microelectronic Engineering</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <voliss issue="7" volume="88" />
+                  <pagerange first="1243" last="1246" />
+                </ref-volisspag>
+                <ref-text>July</ref-text>
+              </ref-info>
+              <ref-fulltext>M. Toledano-Luque, B. Kaczer, E. Simoen, Ph. J. Roussel, A. Veloso, T. Grasser, G. Groeseneken, "Temperature and voltage dependences of the capture and emission times of individual traps in high-k dielectrics," Microelectronic Engineering, vol. 88, no. 7, pp. 1243-1246, July 2011.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Characteristics and physical mechanisms of positive bias and temperature stressinduced drain current degradation in HfSiON nMOSFETs</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33744819496</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.-T.</ce:initials>
+                    <ce:indexed-name>Chan C.-T.</ce:indexed-name>
+                    <ce:surname>Chan</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.-J.</ce:initials>
+                    <ce:indexed-name>Tang C.-J.</ce:indexed-name>
+                    <ce:surname>Tang</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Wang T.</ce:indexed-name>
+                    <ce:surname>Wang</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>H.C.-H.</ce:initials>
+                    <ce:indexed-name>Wang H.C.-H.</ce:indexed-name>
+                    <ce:surname>Wang</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>D.D.</ce:initials>
+                    <ce:indexed-name>Tang D.D.</ce:indexed-name>
+                    <ce:surname>Tang</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>IEEE Trans.Electron Devices</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss issue="6" volume="53" />
+                  <pagerange first="1340" last="1346" />
+                </ref-volisspag>
+                <ref-text>Jun.</ref-text>
+              </ref-info>
+              <ref-fulltext>C.-T. Chan, C.-J. Tang, T.Wang, H. C.-H.Wang, and D. D. Tang, "Characteristics and physical mechanisms of positive bias and temperature stressinduced drain current degradation in HfSiON nMOSFETs," IEEE Trans.Electron Devices, vol. 53, no. 6, pp. 1340-1346, Jun. 2006.</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>NBTI degradation: From transistor to SRAM arrays</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">51549117124</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>V.</ce:initials>
+                    <ce:indexed-name>Huard V.</ce:indexed-name>
+                    <ce:surname>Huard</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Parthasarathy C.</ce:indexed-name>
+                    <ce:surname>Parthasarathy</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Guerin C.</ce:indexed-name>
+                    <ce:surname>Guerin</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Valentin T.</ce:indexed-name>
+                    <ce:surname>Valentin</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Pion E.</ce:indexed-name>
+                    <ce:surname>Pion</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Mammasse M.</ce:indexed-name>
+                    <ce:surname>Mammasse</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Planes N.</ce:indexed-name>
+                    <ce:surname>Planes</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Camus L.</ce:indexed-name>
+                    <ce:surname>Camus</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Reliability Physics Symposium, 2008. IRPS 2008. IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <pagerange first="289" last="300" />
+                </ref-volisspag>
+                <ref-text>May</ref-text>
+              </ref-info>
+              <ref-fulltext>V. Huard, C. Parthasarathy, C. Guerin, T. Valentin, E. Pion, M. Mammasse, N. Planes, L. Camus, "NBTI degradation: From transistor to SRAM arrays," Reliability Physics Symposium, 2008. IRPS 2008. IEEE International, pp.289-300, May 2008.</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Correlation of I <inf>d</inf>- And I <inf>g</inf>-random telegraph noise to positive bias temperature instability in scaled high-κ/metal gate n-type MOSFETs</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84866597024</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Chia-Yu C.</ce:indexed-name>
+                    <ce:surname>Chia-Yu</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Qiushi R.</ce:indexed-name>
+                    <ce:surname>Qiushi</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Hyun-Jin C.</ce:indexed-name>
+                    <ce:surname>Hyun-Jin</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Kerber A.</ce:indexed-name>
+                    <ce:surname>Kerber</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Yang L.</ce:indexed-name>
+                    <ce:surname>Yang</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Ming-Ren L.</ce:indexed-name>
+                    <ce:surname>Ming-Ren</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>R.W.</ce:initials>
+                    <ce:indexed-name>Dutton R.W.</ce:indexed-name>
+                    <ce:surname>Dutton</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Reliability Physics Symposium (IRPS), 2011 IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <pages>3A.2.1-3A.2.6</pages>
+                </ref-volisspag>
+                <ref-text>April</ref-text>
+              </ref-info>
+              <ref-fulltext>C. Chia-Yu, R. Qiushi, C. Hyun-Jin, A. Kerber, L. Yang, L. Ming-Ren, R.W. Dutton, "Correlation of I <inf>d</inf>- and I <inf>g</inf>-random telegraph noise to positive bias temperature instability in scaled high-κ/metal gate n-type MOSFETs," in Reliability Physics Symposium (IRPS), 2011 IEEE International, pp. 3A.2.1-3A.2.6, April 2011.</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Comprehensive analysis of Random Telegraph Noise instability and its scaling in deca-nanometer Flash memories</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">68349125520</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Ghetti A.</ce:indexed-name>
+                    <ce:surname>Ghetti</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.M.</ce:initials>
+                    <ce:indexed-name>Compagnoni C.M.</ce:indexed-name>
+                    <ce:surname>Compagnoni</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.S.</ce:initials>
+                    <ce:indexed-name>Spinelli A.S.</ce:indexed-name>
+                    <ce:surname>Spinelli</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Visconti A.</ce:indexed-name>
+                    <ce:surname>Visconti</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Electron Devices, IEEE Transactions on</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <voliss issue="8" volume="56" />
+                  <pagerange first="1746" last="1752" />
+                </ref-volisspag>
+                <ref-text>Aug.</ref-text>
+              </ref-info>
+              <ref-fulltext>A. Ghetti, C.M. Compagnoni, A.S. Spinelli, A. Visconti, "Comprehensive analysis of Random Telegraph Noise instability and its scaling in deca-nanometer Flash memories," Electron Devices, IEEE Transactions on, vol. 56, no. 8, pp.1746-1752, Aug. 2009.</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>RTS amplitudes in decananometer MOSFETs: 3-D simulation study</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037560876</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Asenov A.</ce:indexed-name>
+                    <ce:surname>Asenov</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Balasubramaniam R.</ce:indexed-name>
+                    <ce:surname>Balasubramaniam</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.R.</ce:initials>
+                    <ce:indexed-name>Brown A.R.</ce:indexed-name>
+                    <ce:surname>Brown</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>J.H.</ce:initials>
+                    <ce:indexed-name>Davies J.H.</ce:indexed-name>
+                    <ce:surname>Davies</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Electron Devices, IEEE Transactions on</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss issue="3" volume="50" />
+                  <pagerange first="839" last="845" />
+                </ref-volisspag>
+                <ref-text>March</ref-text>
+              </ref-info>
+              <ref-fulltext>A. Asenov, R. Balasubramaniam, A.R. Brown, J.H. Davies, "RTS amplitudes in decananometer MOSFETs: 3-D simulation study," Electron Devices, IEEE Transactions on, vol. 50, no. 3, pp. 839-845, March 2003.</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Depth localization of positive charge trapped in silicon oxynitride field effect transistors after positive and negative gate bias temperature stress</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">79957441081</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                    <ce:surname>Toledano-Luque</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.J.</ce:initials>
+                    <ce:indexed-name>Roussel P.J.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Franco J.</ce:indexed-name>
+                    <ce:surname>Franco</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>L.Å.</ce:initials>
+                    <ce:indexed-name>Ragnarsson L.A.</ce:indexed-name>
+                    <ce:surname>Ragnarsson</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl Phys. Lett.</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <voliss issue="18" volume="98" />
+                  <pagerange first="183506" />
+                </ref-volisspag>
+                <ref-text>May</ref-text>
+              </ref-info>
+              <ref-fulltext>M. Toledano-Luque, B. Kaczer, Ph. J. Roussel, J. Franco, L. Å. Ragnarsson, T. Grasser, and G. Groeseneken, "Depth localization of positive charge trapped in silicon oxynitride field effect transistors after positive and negative gate bias temperature stress," Appl Phys. Lett., vol. 98, no. 18, pp. 183506, May 2011.</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Analytical model for the 1/f noise in the tunneling current through metal-oxide-semiconductor structures</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70350104952</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Crupi F.</ce:indexed-name>
+                    <ce:surname>Crupi</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Giusi G.</ce:indexed-name>
+                    <ce:surname>Giusi</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Iannaccone G.</ce:indexed-name>
+                    <ce:surname>Iannaccone</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Magnone P.</ce:indexed-name>
+                    <ce:surname>Magnone</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Pace C.</ce:indexed-name>
+                    <ce:surname>Pace</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Simoen E.</ce:indexed-name>
+                    <ce:surname>Simoen</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Claeys C.</ce:indexed-name>
+                    <ce:surname>Claeys</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Applied Physics</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <voliss issue="7" volume="106" />
+                  <pages>073710-073710-6</pages>
+                </ref-volisspag>
+                <ref-text>Oct</ref-text>
+              </ref-info>
+              <ref-fulltext>F. Crupi, G. Giusi, G. Iannaccone, P. Magnone, C. Pace, E. Simoen, C. Claeys, "Analytical model for the 1/f noise in the tunneling current through metal-oxide-semiconductor structures," Journal of Applied Physics, vol. 106, no. 7, pp. 073710-073710-6, Oct 2009.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Deterministic and stochastic component in RESET transient of HfSiO/FUSI gate RRAM stack</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">80052657103</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Degraeve R.</ce:indexed-name>
+                    <ce:surname>Degraeve</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Goux L.</ce:indexed-name>
+                    <ce:surname>Goux</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>Ph.</ce:initials>
+                    <ce:indexed-name>Roussel Ph.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>D.J.</ce:initials>
+                    <ce:indexed-name>Wouters D.J.</ce:indexed-name>
+                    <ce:surname>Wouters</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>J.A.</ce:initials>
+                    <ce:indexed-name>Kittl J.A.</ce:indexed-name>
+                    <ce:surname>Kittl</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Altimime L.</ce:indexed-name>
+                    <ce:surname>Altimime</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Jurczak M.</ce:indexed-name>
+                    <ce:surname>Jurczak</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>VLSI Technology (VLSIT), 2011 Symposium on</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <pagerange first="28" last="29" />
+                </ref-volisspag>
+                <ref-text>14-16 June</ref-text>
+              </ref-info>
+              <ref-fulltext>R. Degraeve, L. Goux, Ph. Roussel, D.J. Wouters, J.A. Kittl, L. Altimime, M. Jurczak, G. Groeseneken, "Deterministic and stochastic component in RESET transient of HfSiO/FUSI gate RRAM stack," in VLSI Technology (VLSIT), 2011 Symposium on, pp.28-29, 14-16 June 2011.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Resistance-dependent amplitude of random telegraph signal noise in resistive switching memories</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">76449095917</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Ielmini D.</ce:indexed-name>
+                    <ce:surname>Ielmini</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Nardi F.</ce:indexed-name>
+                    <ce:surname>Nardi</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Cagli C.</ce:indexed-name>
+                    <ce:surname>Cagli</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl Phys. Lett.</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <voliss issue="5" volume="96" />
+                  <pagerange first="053503" />
+                </ref-volisspag>
+                <ref-text>Feb.</ref-text>
+              </ref-info>
+              <ref-fulltext>D. Ielmini, F. Nardi, C. Cagli, "Resistance-dependent amplitude of random telegraph signal noise in resistive switching memories," Appl Phys. Lett., vol. 96, no. 5, pp. 053 503, Feb. 2010.</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003672723</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Degraeve R.</ce:indexed-name>
+                    <ce:surname>Degraeve</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Time Dependent Dielectric Breakdown in Thin Oxides: Mechanisms, Statistics and Oxide Reliability Prediction</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-text>PhD dissertation, K.U. Leuven</ref-text>
+              </ref-info>
+              <ref-fulltext>R. Degraeve, "Time dependent dielectric breakdown in thin oxides: mechanisms, statistics and oxide reliability prediction," PhD dissertation, K.U. Leuven, 1998.</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Model based on trap-assisted tunneling for two-level current fluctuations in submicrometer metal/silicon-dioxide/silicon diodes</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0000313253</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.O.</ce:initials>
+                    <ce:indexed-name>Andersson M.O.</ce:indexed-name>
+                    <ce:surname>Andersson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>Z.</ce:initials>
+                    <ce:indexed-name>Xiao Z.</ce:indexed-name>
+                    <ce:surname>Xiao</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Norrman S.</ce:indexed-name>
+                    <ce:surname>Norrman</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>O.</ce:initials>
+                    <ce:indexed-name>Engstrom O.</ce:indexed-name>
+                    <ce:surname>Engstrom</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Phys. Rev. B</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-volisspag>
+                  <voliss issue="14" volume="41" />
+                  <pagerange first="9836" />
+                </ref-volisspag>
+                <ref-text>May</ref-text>
+              </ref-info>
+              <ref-fulltext>M. O. Andersson, Z. Xiao, S. Norrman, O. Engstrom, "Model based on trap-assisted tunneling for two-level current fluctuations in submicrometer metal/silicon-dioxide/silicon diodes," Phys. Rev. B, vol. 41, no. 14, pp. 9836, May 1990.</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>On the frequency dependence of the Bias Temperature Instability</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84866608360</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Reisinger H.</ce:indexed-name>
+                    <ce:surname>Reisinger</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>P.-J.</ce:initials>
+                    <ce:indexed-name>Wagner P.-J.</ce:indexed-name>
+                    <ce:surname>Wagner</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                    <ce:surname>Toledano-Luque</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Reliability Physics Symposium (IRPS),2012 IEEE International, April 2012</ref-sourcetitle>
+              </ref-info>
+              <ref-fulltext>T. Grasser, B. Kaczer, H. Reisinger, P.-J. Wagner, M. Toledano-Luque, "On the frequency dependence of the Bias Temperature Instability," in Reliability Physics Symposium (IRPS),2012 IEEE International, April 2012.</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Time-dependent defect spectroscopy for characterization of border traps in metal-oxide-semiconductor transistors</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">78651287908</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Reisinger H.</ce:indexed-name>
+                    <ce:surname>Reisinger</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.-J.</ce:initials>
+                    <ce:indexed-name>Wagner P.-J.</ce:indexed-name>
+                    <ce:surname>Wagner</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Phys. Rev. B</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <voliss issue="24" volume="82" />
+                  <pagerange first="245318" last="245318" />
+                </ref-volisspag>
+                <ref-text>Dec.</ref-text>
+              </ref-info>
+              <ref-fulltext>T. Grasser, H. Reisinger, P.-J. Wagner, B. Kaczer, "Time-dependent defect spectroscopy for characterization of border traps in metal-oxide- semiconductor transistors," Phys. Rev. B vol. 82, no. 24, pp. 245318-245318, Dec. 2010.</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Response of a single trap to AC negative Bias Temperature stress</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">79959299688</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Toledano-Luque M.</ce:indexed-name>
+                    <ce:surname>Toledano-Luque</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.J.</ce:initials>
+                    <ce:indexed-name>Roussel P.J.</ce:indexed-name>
+                    <ce:surname>Roussel</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Grasser T.</ce:indexed-name>
+                    <ce:surname>Grasser</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>G.L.</ce:initials>
+                    <ce:indexed-name>Wirth G.L.</ce:indexed-name>
+                    <ce:surname>Wirth</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Franco J.</ce:indexed-name>
+                    <ce:surname>Franco</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Vrancken C.</ce:indexed-name>
+                    <ce:surname>Vrancken</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Horiguchi N.</ce:indexed-name>
+                    <ce:surname>Horiguchi</ce:surname>
+                  </author>
+                  <author seq="9">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Reliability Physics Symposium (IRPS), 2011 IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <pages>4A.2.1-4A.2.8</pages>
+                </ref-volisspag>
+                <ref-text>April</ref-text>
+              </ref-info>
+              <ref-fulltext>M. Toledano-Luque, B. Kaczer, Ph.J. Roussel, T. Grasser, G.L. Wirth, J. Franco, C. Vrancken, N. Horiguchi, G. Groeseneken, "Response of a single trap to AC negative Bias Temperature stress," in Reliability Physics Symposium (IRPS), 2011 IEEE International, pp. 4A.2.1-4A.2.8, April 2011.</ref-fulltext>
+            </reference>
+            <reference id="22">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>New insight on the charge trapping mechanisms of SiN-based memory by atomistic simulations and electrical modeling</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77952405772</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Vianello E.</ce:indexed-name>
+                    <ce:surname>Vianello</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Perniola L.</ce:indexed-name>
+                    <ce:surname>Perniola</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Blaise P.</ce:indexed-name>
+                    <ce:surname>Blaise</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Molas G.</ce:indexed-name>
+                    <ce:surname>Molas</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>J.P.</ce:initials>
+                    <ce:indexed-name>Colonna J.P.</ce:indexed-name>
+                    <ce:surname>Colonna</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Driussi F.</ce:indexed-name>
+                    <ce:surname>Driussi</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Palestri P.</ce:indexed-name>
+                    <ce:surname>Palestri</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Esseni D.</ce:indexed-name>
+                    <ce:surname>Esseni</ce:surname>
+                  </author>
+                  <author seq="9">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Selmi L.</ce:indexed-name>
+                    <ce:surname>Selmi</ce:surname>
+                  </author>
+                  <author seq="10">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Rochat N.</ce:indexed-name>
+                    <ce:surname>Rochat</ce:surname>
+                  </author>
+                  <author seq="11">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Licitra C.</ce:indexed-name>
+                    <ce:surname>Licitra</ce:surname>
+                  </author>
+                  <author seq="12">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Lafond D.</ce:indexed-name>
+                    <ce:surname>Lafond</ce:surname>
+                  </author>
+                  <author seq="13">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Kies R.</ce:indexed-name>
+                    <ce:surname>Kies</ce:surname>
+                  </author>
+                  <author seq="14">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Reimbold G.</ce:indexed-name>
+                    <ce:surname>Reimbold</ce:surname>
+                  </author>
+                  <author seq="15">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>De Salvo B.</ce:indexed-name>
+                    <ce:surname>De Salvo</ce:surname>
+                  </author>
+                  <author seq="16">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Boulanger F.</ce:indexed-name>
+                    <ce:surname>Boulanger</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Electron Devices Meeting (IEDM), 2009 IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <pagerange first="1" last="4" />
+                </ref-volisspag>
+                <ref-text>Dec.</ref-text>
+              </ref-info>
+              <ref-fulltext>E. Vianello, L. Perniola, P. Blaise, G. Molas, J.P. Colonna, F. Driussi, P. Palestri, D. Esseni, L. Selmi, N. Rochat, C. Licitra, D. Lafond, R. Kies, G. Reimbold, B. De Salvo, F. Boulanger, "New insight on the charge trapping mechanisms of SiN-based memory by atomistic simulations and electrical modeling," in Electron Devices Meeting (IEDM), 2009 IEEE International, pp.1-4, Dec. 2009.</ref-fulltext>
+            </reference>
+            <reference id="23">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Trap Spectroscopy by Charge Injection and Sensing (TSCIS): A quantitative electrical technique for studying defects in dielectric stacks</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">67349131226</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Degraeve R.</ce:indexed-name>
+                    <ce:surname>Degraeve</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Cho M.</ce:indexed-name>
+                    <ce:surname>Cho</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Govoreanu B.</ce:indexed-name>
+                    <ce:surname>Govoreanu</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Kaczer B.</ce:indexed-name>
+                    <ce:surname>Kaczer</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>M.B.</ce:initials>
+                    <ce:indexed-name>Zahid M.B.</ce:indexed-name>
+                    <ce:surname>Zahid</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Van Houdt J.</ce:indexed-name>
+                    <ce:surname>Van Houdt</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Jurczak M.</ce:indexed-name>
+                    <ce:surname>Jurczak</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Groeseneken G.</ce:indexed-name>
+                    <ce:surname>Groeseneken</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Electron Devices Meeting, 2008. IEDM 2008. IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <pagerange first="1" last="4" />
+                </ref-volisspag>
+                <ref-text>Dec.</ref-text>
+              </ref-info>
+              <ref-fulltext>R. Degraeve, M. Cho, B. Govoreanu, B. Kaczer, M.B. Zahid, J. Van Houdt, M. Jurczak, G. Groeseneken, "Trap Spectroscopy by Charge Injection and Sensing (TSCIS): A quantitative electrical technique for studying defects in dielectric stacks," in Electron Devices Meeting, 2008. IEDM 2008. IEEE International, pp. 1-4, Dec. 2008.</ref-fulltext>
+            </reference>
+            <reference id="24">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Statistical characterization of trap position, energy, amplitude and time constants by RTN measurement of multiple individual traps</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">79951847514</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Nagumo T.</ce:indexed-name>
+                    <ce:surname>Nagumo</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>K.</ce:initials>
+                    <ce:indexed-name>Takeuchi K.</ce:indexed-name>
+                    <ce:surname>Takeuchi</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Hase T.</ce:indexed-name>
+                    <ce:surname>Hase</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Hayashi Y.</ce:indexed-name>
+                    <ce:surname>Hayashi</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Electron Devices Meeting, 2008. IEDM 2010. IEEE International</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <pages>28.3.1-28.3.4</pages>
+                </ref-volisspag>
+                <ref-text>Dec.</ref-text>
+              </ref-info>
+              <ref-fulltext>T. Nagumo, K. Takeuchi, T. Hase, Y. Hayashi, "Statistical characterization of trap position, energy, amplitude and time constants by RTN measurement of multiple individual traps", in Electron Devices Meeting, 2008. IEDM 2010. IEEE International, pp. 28.3.1-28.3.4, Dec. 2010.</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

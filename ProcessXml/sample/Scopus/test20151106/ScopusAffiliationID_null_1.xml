@@ -1,0 +1,662 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-15244361880</xocs:eid>
+    <xocs:oeid>2-s1.0-4FWV-53W0-TWC1-C04W-00000-00</xocs:oeid>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>602123241</xocs:pui>
+    <xocs:issn>01004042</xocs:issn>
+    <xocs:volume>21</xocs:volume>
+    <xocs:issue>4</xocs:issue>
+    <xocs:author-surname>Schmelzer</xocs:author-surname>
+    <xocs:author-fi>J</xocs:author-fi>
+    <xocs:firstpage>529</xocs:firstpage>
+    <xocs:lastpage>533</xocs:lastpage>
+    <xocs:sort-year>2014</xocs:sort-year>
+    <xocs:sort-yyyymm>201401</xocs:sort-yyyymm>
+    <xocs:pub-year>2014</xocs:pub-year>
+    <xocs:timestamp>2015-02-20T00:15:45.668539-05:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>15244361880</cto:group-id>
+    <cto:ref-id>0020980466</cto:ref-id>
+    <cto:ref-id>33646109512</cto:ref-id>
+    <cto:ref-id>0003520215</cto:ref-id>
+    <cto:ref-id>84922581769</cto:ref-id>
+    <cto:ref-id>0026188714</cto:ref-id>
+    <cto:ref-id>0023364120</cto:ref-id>
+    <cto:ref-id>84922581768</cto:ref-id>
+    <cto:ref-id>0001313683</cto:ref-id>
+    <cto:ref-id>0025698507</cto:ref-id>
+    <cto:ref-id>0025384468</cto:ref-id>
+    <cto:ref-id>0003621057</cto:ref-id>
+    <cto:ref-id>33644574863</cto:ref-id>
+    <cto:ref-id>0026971809</cto:ref-id>
+    <cto:ref-id>0027906420</cto:ref-id>
+    <cto:ref-id>0001617683</cto:ref-id>
+    <cto:ref-id>0028387187</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>J.</cto:auth-initials>
+      <cto:auth-indexed-name>Schmelzer J.</cto:auth-indexed-name>
+      <cto:auth-surname>Schmelzer</cto:auth-surname>
+      <cto:auth-id>7006572324</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>J.</cto:auth-initials>
+      <cto:auth-indexed-name>Moller J.</cto:auth-indexed-name>
+      <cto:auth-surname>Möller</cto:auth-surname>
+      <cto:auth-id>24303004000</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>V.V.</cto:auth-initials>
+      <cto:auth-indexed-name>Slezov V.V.</cto:auth-indexed-name>
+      <cto:auth-surname>Slezov</cto:auth-surname>
+      <cto:auth-id>7006612564</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>I.</cto:auth-initials>
+      <cto:auth-indexed-name>Gutzow I.</cto:auth-indexed-name>
+      <cto:auth-surname>Gutzow</cto:auth-surname>
+      <cto:auth-id>56511574800</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>R.</cto:auth-initials>
+      <cto:auth-indexed-name>Pascova R.</cto:auth-indexed-name>
+      <cto:auth-surname>Pascova</cto:auth-surname>
+      <cto:auth-id>6602072098</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered year="2015" month="02" day="19" timestamp="2015-02-19T14:49:52.000052+00:00" />
+        <ait:date-sort year="2014" month="01" day="01" />
+        <ait:status type="core" state="update" stage="S300" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <itemid idtype="PUI">602123241</itemid>
+            <itemid idtype="CAR-ID">632492573</itemid>
+            <itemid idtype="SNCHEM">2015109385</itemid>
+            <itemid idtype="SCP">15244361880</itemid>
+            <itemid idtype="SGR">15244361880</itemid>
+          </itemidlist>
+          <history>
+            <date-created year="2015" month="02" day="16" />
+          </history>
+          <dbcollection>SNCHEM</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>Coarsening</author-keyword>
+              <author-keyword>Elastic strains</author-keyword>
+              <author-keyword>Phase transformations in solids</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext xml:lang="eng" original="y">Ostwald ripening in porous materials</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="7006572324" seq="1" type="auth">
+              <ce:initials>J.</ce:initials>
+              <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+              <ce:surname>Schmelzer</ce:surname>
+              <ce:given-name>Jürn</ce:given-name>
+              <preferred-name>
+                <ce:initials>J.</ce:initials>
+                <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                <ce:surname>Schmelzer</ce:surname>
+                <ce:given-name>Jürn</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="24303004000" seq="2" type="auth">
+              <ce:initials>J.</ce:initials>
+              <ce:indexed-name>Moller J.</ce:indexed-name>
+              <ce:surname>Möller</ce:surname>
+              <ce:given-name>Jörg</ce:given-name>
+              <preferred-name>
+                <ce:initials>J.</ce:initials>
+                <ce:indexed-name>Möller J.</ce:indexed-name>
+                <ce:surname>Möller</ce:surname>
+                <ce:given-name>Jörg</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation country="deu">
+              <organization>Fachbereich Physik der Universität Rostock</organization>
+              <address-part>Universitätsplatz</address-part>
+              <city>Rostock</city>
+              <postal-code>D-18051</postal-code>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="7006612564" seq="3" type="auth">
+              <ce:initials>V.V.</ce:initials>
+              <ce:indexed-name>Slezov V.V.</ce:indexed-name>
+              <ce:surname>Slezov</ce:surname>
+              <ce:given-name>Vitali V.</ce:given-name>
+              <preferred-name>
+                <ce:initials>V.V.</ce:initials>
+                <ce:indexed-name>Slezov V.</ce:indexed-name>
+                <ce:surname>Slezov</ce:surname>
+                <ce:given-name>Vitali V.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation country="ukr">
+              <organization>National Science Center, Kharkov Institute of Physics and Technology</organization>
+              <address-part>Academician Street 1</address-part>
+              <city>Kharkov</city>
+              <postal-code>310108</postal-code>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="56511574800" seq="4" type="auth">
+              <ce:initials>I.</ce:initials>
+              <ce:indexed-name>Gutzow I.</ce:indexed-name>
+              <ce:surname>Gutzow</ce:surname>
+              <ce:given-name>Iwan</ce:given-name>
+              <preferred-name>
+                <ce:initials>I.</ce:initials>
+                <ce:indexed-name>Gutzow I.</ce:indexed-name>
+                <ce:surname>Gutzow</ce:surname>
+                <ce:given-name>Iwan</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="6602072098" seq="5" type="auth">
+              <ce:initials>R.</ce:initials>
+              <ce:indexed-name>Pascova R.</ce:indexed-name>
+              <ce:surname>Pascova</ce:surname>
+              <preferred-name>
+                <ce:initials>R.</ce:initials>
+                <ce:indexed-name>Pascova R.</ce:indexed-name>
+                <ce:surname>Pascova</ce:surname>
+                <ce:given-name>R.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation country="bgr">
+              <organization>Institute of Physical Chemistry, Bulgarian Academy of Sciences</organization>
+              <city>Sofia</city>
+              <postal-code>1113</postal-code>
+            </affiliation>
+          </author-group>
+          <grantlist complete="y">
+            <grant>
+              <grant-acronym>DFG</grant-acronym>
+              <grant-agency>Deutsche Forschungsgemeinschaft</grant-agency>
+            </grant>
+          </grantlist>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>The process of coarsening of an ensemble of clusters is investigated for the case that elastic strains due to matrix - cluster interactions change the process qualitatively as compared with dependencies established theoretically first by Lifshitz and Slezov. Such a qualitatively different behavior occurs always when the energy of elastic deformation in cluster growth increases more rapidly than linear with the volume of a cluster. Analytic solutions, for limiting cases, as well as numerical solutions, for the general case of coarsening in an ensemble of pores with a given pore size distribution, are presented. Possible applications are discussed.</ce:para>
+            </abstract>
+          </abstracts>
+          <source srcid="21479" type="j" country="bra">
+            <sourcetitle>Quimica Nova</sourcetitle>
+            <sourcetitle-abbrev>Quim. Nova</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng">Quimica Nova</translated-sourcetitle>
+            <issn type="electronic">16787064</issn>
+            <issn type="print">01004042</issn>
+            <volisspag>
+              <voliss volume="21" issue="4" />
+              <pagerange first="529" last="533" />
+            </volisspag>
+            <publicationyear first="2014" />
+            <publicationdate>
+              <year>2014</year>
+              <date-text>1998</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.scielo.br/scielo.php/script_sci_serial/pid_0100-4042/lng_en/nrm_iso</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Sociedade Brasileira de Quimica</publishername>
+              <ce:e-address type="email">sbqsp@quim.ip.usp.br</ce:e-address>
+            </publisher>
+          </source>
+          <enhancement>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>1600</classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="16">
+            <reference id="1">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0020980466</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Pascova R.</ce:indexed-name>
+                    <ce:surname>Pascova</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Gutzow I.</ce:indexed-name>
+                    <ce:surname>Gutzow</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Glastechnische Berichte</ref-sourcetitle>
+                <ref-publicationyear first="1983" />
+                <ref-volisspag>
+                  <voliss volume="56" />
+                  <pagerange first="324" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Pascova, R.; Gutzow, I.; Glastechnische Berichte 1983, 56, 324.</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33646109512</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.M.</ce:initials>
+                    <ce:indexed-name>Lifshitz I.M.</ce:indexed-name>
+                    <ce:surname>Lifshitz</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>V.V.</ce:initials>
+                    <ce:indexed-name>Slezov V.V.</ce:indexed-name>
+                    <ce:surname>Slezov</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Phys. Chem. Solids</ref-sourcetitle>
+                <ref-publicationyear first="1961" />
+                <ref-volisspag>
+                  <voliss volume="19" />
+                  <pagerange first="35" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Lifshitz, I. M.; Slezov, V. V.; J. Phys. Chem. Solids 1961, 19, 35 and references cited therein.</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003520215</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.W.</ce:initials>
+                    <ce:indexed-name>Christian J.W.</ce:indexed-name>
+                    <ce:surname>Christian</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Theory of Transformations in Metals and Alloys</ref-sourcetitle>
+                <ref-publicationyear first="1975" />
+                <ref-text>Oxford</ref-text>
+              </ref-info>
+              <ref-fulltext>Christian, J. W.; The Theory of Transformations in Metals and Alloys, Oxford 1975.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84922581769</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>W.C.</ce:initials>
+                    <ce:indexed-name>Johnson W.C.</ce:indexed-name>
+                    <ce:surname>Johnson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.M.</ce:initials>
+                    <ce:indexed-name>Howe J.M.</ce:indexed-name>
+                    <ce:surname>Howe</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>D.E.</ce:initials>
+                    <ce:indexed-name>Laughlin D.E.</ce:indexed-name>
+                    <ce:surname>Laughlin</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>W.A.</ce:initials>
+                    <ce:indexed-name>Soffa W.A.</ce:indexed-name>
+                    <ce:surname>Soffa</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Solid to Solid Phase Transformations, Proceedings of the International Conference on Solid to Solid Phase Transformations in Inorganic Materials PTM94</ref-sourcetitle>
+                <ref-publicationyear first="1994" />
+                <ref-text>Nemacolin Woodlands, Farmington, July</ref-text>
+              </ref-info>
+              <ref-fulltext>Johnson, W. C.; Howe, J. M.; Laughlin, D. E.; Soffa, W. A. (Eds.): Solid to Solid Phase Transformations, Proceedings of the International Conference on Solid to Solid Phase Transformations in Inorganic Materials PTM94; Nemacolin Woodlands, Farmington, July 1994.</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0026188714</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.D.</ce:initials>
+                    <ce:indexed-name>Zanotto E.D.</ce:indexed-name>
+                    <ce:surname>Zanotto</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Muller E.</ce:indexed-name>
+                    <ce:surname>Müller</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Non-Crystalline Solids</ref-sourcetitle>
+                <ref-publicationyear first="1991" />
+                <ref-volisspag>
+                  <voliss volume="130" />
+                  <pagerange first="220" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Zanotto, E. D.; Müller, E.; J. Non-Crystalline Solids 1991, 130, 220.</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0023364120</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Ulbricht H.</ce:indexed-name>
+                    <ce:surname>Ulbricht</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Colloid Interface Sci</ref-sourcetitle>
+                <ref-publicationyear first="1987" />
+                <ref-volisspag>
+                  <voliss volume="117" />
+                  <pagerange first="325" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Ulbricht, H.; J. Colloid Interface Sci. 1987, 117, 325.</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84922581768</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Thermodynamik Finiter Systeme und Die Kinetik von Thermodynamischen Phasenübergängen</ref-sourcetitle>
+                <ref-publicationyear first="1985" />
+                <ref-volisspag>
+                  <voliss volume="1" />
+                </ref-volisspag>
+                <ref-text>Art Habilarbeit Rostock</ref-text>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Thermodynamik finiter Systeme und die Kinetik von thermodynamischen Phasenübergängen 1. Art, Habilarbeit, Rostock 1985.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0001313683</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Gutzow I.</ce:indexed-name>
+                    <ce:surname>Gutzow</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Z. Phys. Chemie (Leipzig)</ref-sourcetitle>
+                <ref-publicationyear first="1988" />
+                <ref-volisspag>
+                  <voliss volume="269" />
+                  <pagerange first="753" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Gutzow, I.; Z. Phys. Chemie (Leipzig) 1988, 269, 753.</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0025698507</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Gutzow I.</ce:indexed-name>
+                    <ce:surname>Gutzow</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Pascova R.</ce:indexed-name>
+                    <ce:surname>Pascova</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Crystal Growth</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-volisspag>
+                  <voliss volume="104" />
+                  <pagerange first="505" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Gutzow, I.; Pascova, R.; J. Crystal Growth 1990, 104, 505.</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0025384468</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Pascova R.</ce:indexed-name>
+                    <ce:surname>Pascova</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Gutzow I.</ce:indexed-name>
+                    <ce:surname>Gutzow</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Phys. Status Solidi</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-volisspag>
+                  <voliss volume="A 117" />
+                  <pagerange first="363" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Pascova, R.; Gutzow, I.; Phys. Status Solidi 1990, a 117, 363.</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003621057</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Gutzow I.</ce:indexed-name>
+                    <ce:surname>Gutzow</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Vitreous State: Thermodynamics, Structure, Rheology, and Crystallization</ref-sourcetitle>
+                <ref-publicationyear first="1995" />
+                <ref-text>Springer, Berlin</ref-text>
+              </ref-info>
+              <ref-fulltext>Gutzow, I.; Schmelzer, J.: The Vitreous State: Thermodynamics, Structure, Rheology, and Crystallization, Springer, Berlin 1995.</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33644574863</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.</ce:initials>
+                    <ce:indexed-name>Kawasaki K.</ce:indexed-name>
+                    <ce:surname>Kawasaki</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Enomoto Y.</ce:indexed-name>
+                    <ce:surname>Enomoto</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Physica</ref-sourcetitle>
+                <ref-publicationyear first="1988" />
+                <ref-volisspag>
+                  <voliss volume="A 150" />
+                  <pagerange first="463" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Kawasaki, K.; Enomoto, Y.; Physica 1988, A 150, 463.</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0026971809</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Moller J.</ce:indexed-name>
+                    <ce:surname>Möller</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Phase Transitions</ref-sourcetitle>
+                <ref-publicationyear first="1992" />
+                <ref-volisspag>
+                  <voliss volume="38" />
+                  <pagerange first="261" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Möller, J.; Phase Transitions 1992, 38, 261.</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0027906420</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>V.V.</ce:initials>
+                    <ce:indexed-name>Slezov V.V.</ce:indexed-name>
+                    <ce:surname>Slezov</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Moller J.</ce:indexed-name>
+                    <ce:surname>Möller</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Crystal Growth</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-volisspag>
+                  <voliss volume="132" />
+                  <pagerange first="419" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Slezov, V. V.; Schmelzer, J.; Möller, J.; J. Crystal Growth 1993, 132, 419.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0001617683</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Moller J.</ce:indexed-name>
+                    <ce:surname>Möller</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>V.V.</ce:initials>
+                    <ce:indexed-name>Slezov V.V.</ce:indexed-name>
+                    <ce:surname>Slezov</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Phys. Chem. Solids</ref-sourcetitle>
+                <ref-publicationyear first="1995" />
+                <ref-volisspag>
+                  <voliss volume="56" />
+                  <pagerange first="1013" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schmelzer, J.; Möller, J.; Slezov, V. V.; J. Phys. Chem. Solids 1995, 56, 1013.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0028387187</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>V.V.</ce:initials>
+                    <ce:indexed-name>Slezov V.V.</ce:indexed-name>
+                    <ce:surname>Slezov</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Schmelzer J.</ce:indexed-name>
+                    <ce:surname>Schmelzer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Phys. Chem. Solids</ref-sourcetitle>
+                <ref-publicationyear first="1994" />
+                <ref-volisspag>
+                  <voliss volume="55" />
+                  <pagerange first="243" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Slezov, V. V.; Schmelzer, J.; J. Phys. Chem. Solids 1994, 55, 243.</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

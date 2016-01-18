@@ -1,0 +1,1135 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-0000259005</xocs:eid>
+    <xocs:oeid>2-s1.0-498J-CHB0-TWC1-C0Y3-00000-00</xocs:oeid>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>358448573</xocs:pui>
+    <xocs:issn>1559128X</xocs:issn>
+    <xocs:volume>32</xocs:volume>
+    <xocs:issue>13</xocs:issue>
+    <xocs:author-surname>Streekstra</xocs:author-surname>
+    <xocs:author-fi>G</xocs:author-fi>
+    <xocs:firstpage>2266</xocs:firstpage>
+    <xocs:lastpage>2272</xocs:lastpage>
+    <xocs:sort-year>2010</xocs:sort-year>
+    <xocs:sort-yyyymm>201005</xocs:sort-yyyymm>
+    <xocs:pub-year>1993</xocs:pub-year>
+    <xocs:timestamp>2015-02-24T03:47:58.816936-05:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>0000259005</cto:group-id>
+    <cto:ref-id>77949406991</cto:ref-id>
+    <cto:ref-id>77949412518</cto:ref-id>
+    <cto:ref-id>0014834902</cto:ref-id>
+    <cto:ref-id>0018887249</cto:ref-id>
+    <cto:ref-id>0000920359</cto:ref-id>
+    <cto:ref-id>0001415485</cto:ref-id>
+    <cto:ref-id>77949387663</cto:ref-id>
+    <cto:ref-id>0020330956</cto:ref-id>
+    <cto:ref-id>0016701296</cto:ref-id>
+    <cto:ref-id>0018879918</cto:ref-id>
+    <cto:ref-id>0023202426</cto:ref-id>
+    <cto:ref-id>0017666292</cto:ref-id>
+    <cto:ref-id>0346215110</cto:ref-id>
+    <cto:ref-id>21444460118</cto:ref-id>
+    <cto:ref-id>77949368770</cto:ref-id>
+    <cto:ref-id>0016994595</cto:ref-id>
+    <cto:ref-id>0014411259</cto:ref-id>
+    <cto:ref-id>0020373207</cto:ref-id>
+    <cto:ref-id>0018899085</cto:ref-id>
+    <cto:ref-id>0016622089</cto:ref-id>
+    <cto:ref-id>0021204074</cto:ref-id>
+    <cto:ref-id>0023236365</cto:ref-id>
+    <cto:ref-id>0024515027</cto:ref-id>
+    <cto:ref-id>0017662250</cto:ref-id>
+    <cto:ref-id>0017709094</cto:ref-id>
+    <cto:ref-id>77949369211</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>G.J.</cto:auth-initials>
+      <cto:auth-indexed-name>Streekstra G.J.</cto:auth-indexed-name>
+      <cto:auth-surname>Streekstra</cto:auth-surname>
+      <cto:auth-id>6601978485</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>A.G.</cto:auth-initials>
+      <cto:auth-indexed-name>Hoekstra A.G.</cto:auth-indexed-name>
+      <cto:auth-surname>Hoekstra</cto:auth-surname>
+      <cto:auth-id>7007050341</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>E.-J.</cto:auth-initials>
+      <cto:auth-indexed-name>Nijhof E.-J.</cto:auth-indexed-name>
+      <cto:auth-surname>Nijhof</cto:auth-surname>
+      <cto:auth-id>6603749875</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>R.M.</cto:auth-initials>
+      <cto:auth-indexed-name>Heethaar R.M.</cto:auth-indexed-name>
+      <cto:auth-surname>Heethaar</cto:auth-surname>
+      <cto:auth-id>35302290700</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="23" month="02" timestamp="2015-02-23T22:26:29.000029+00:00" year="2015" />
+        <ait:date-sort day="01" month="05" year="2010" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <itemid idtype="PUI">358448573</itemid>
+            <itemid idtype="CAR-ID">74552649</itemid>
+            <itemid idtype="CPX">20101112775852</itemid>
+            <itemid idtype="SCP">0000259005</itemid>
+            <itemid idtype="SGR">0000259005</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="19" month="03" year="2010" />
+          </history>
+          <dbcollection>CPX</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>Anomalous diffraction</author-keyword>
+              <author-keyword>Ektacytometer</author-keyword>
+              <author-keyword>Ellipsoidal red blood cell</author-keyword>
+              <author-keyword>Isointensity curve</author-keyword>
+              <author-keyword>Red cell deformation</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Light scattering by red blood cells in ektacytometry: Fraunhofer versus anomalous diffraction</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="6601978485" seq="1" type="auth">
+              <ce:initials>G.J.</ce:initials>
+              <ce:indexed-name>Streekstra G.J.</ce:indexed-name>
+              <ce:surname>Streekstra</ce:surname>
+              <ce:given-name>Geert J.</ce:given-name>
+              <preferred-name>
+                <ce:initials>G.J.</ce:initials>
+                <ce:indexed-name>Streekstra G.</ce:indexed-name>
+                <ce:surname>Streekstra</ce:surname>
+                <ce:given-name>Geert J.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="6603749875" seq="3" type="auth">
+              <ce:initials>E.-J.</ce:initials>
+              <ce:indexed-name>Nijhof E.-J.</ce:indexed-name>
+              <ce:surname>Nijhof</ce:surname>
+              <ce:given-name>Evert-Jan</ce:given-name>
+              <preferred-name>
+                <ce:initials>E.J.</ce:initials>
+                <ce:indexed-name>Nijhof E.</ce:indexed-name>
+                <ce:surname>Nijhof</ce:surname>
+                <ce:given-name>Evert Jan</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="35302290700" seq="4" type="auth">
+              <ce:initials>R.M.</ce:initials>
+              <ce:indexed-name>Heethaar R.M.</ce:indexed-name>
+              <ce:surname>Heethaar</ce:surname>
+              <ce:given-name>Robert M.</ce:given-name>
+              <preferred-name>
+                <ce:initials>R.M.</ce:initials>
+                <ce:indexed-name>Heethaar R.</ce:indexed-name>
+                <ce:surname>Heethaar</ce:surname>
+                <ce:given-name>Robert M.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60032724" country="nld" dptid="104665169">
+              <organization>Department of Medical and Physiological Physics, State University of Utrecht, University Hospital/H.02.101</organization>
+              <address-part>P.O. Box 85500</address-part>
+              <city-group>3508 GA Utrecht</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="7007050341" seq="2" type="auth">
+              <ce:initials>A.G.</ce:initials>
+              <ce:indexed-name>Hoekstra A.G.</ce:indexed-name>
+              <ce:surname>Hoekstra</ce:surname>
+              <ce:given-name>Alfons G.</ce:given-name>
+              <preferred-name>
+                <ce:initials>A.G.</ce:initials>
+                <ce:indexed-name>Hoekstra A.</ce:indexed-name>
+                <ce:surname>Hoekstra</ce:surname>
+                <ce:given-name>Alfons G.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60002483" country="nld" dptid="103176114">
+              <organization>Department of Computer Systems, Faculty of Mathematics and Computer Science, University of Amsterdam</organization>
+              <address-part>Kruislaan 403</address-part>
+              <city-group>1098 SJ Amsterdam</city-group>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>G. J.</ce:initials>
+              <ce:indexed-name>Streekstra G. J.</ce:indexed-name>
+              <ce:surname>Streekstra</ce:surname>
+            </person>
+            <affiliation country="nld">
+              <organization>Department of Medical and Physiological Physics, State University of Utrecht, University Hospital/H.02.101</organization>
+              <address-part>P.O. Box 85500</address-part>
+              <city-group>3508 GA Utrecht</city-group>
+            </affiliation>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>In the present literature on ektacytometry, small angle light scattering by ellipsoidal red blood cells is commonly approximated by Fraunhofer diffraction. Calculations on a sphere with the size and relative refractive index of a red cell, however, show that Fraunhofer diffraction deviates significantly from exact Mie theory. Anomalous diffraction is found to be a much better approximation. The anomalous diffraction theory is used to calculate the intensity distribution of the light scattered by an ellipsoidally deformed red blood cell. The derived expression shows that the ellipticity of isointensity curves in forward scattered light are equal to the ellipticity of the red blood cell. The theoretical expression is fitted to the intensity patterns measured with an ektacytometer. For the small observation angles used in ektacytometry, the experimental results confirm the validity of the anomalous diffraction approach. © 1993 Optical Society of America.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="usa" srcid="29593" type="j">
+            <sourcetitle>Applied Optics</sourcetitle>
+            <sourcetitle-abbrev>Appl. Opt.</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng">Applied Optics</translated-sourcetitle>
+            <issn type="electronic">15394522</issn>
+            <issn type="print">1559128X</issn>
+            <codencode>APOPA</codencode>
+            <volisspag>
+              <voliss issue="13" volume="32" />
+              <pagerange first="2266" last="2272" />
+            </volisspag>
+            <publicationyear first="1993" />
+            <publicationdate>
+              <year>2010</year>
+              <month>05</month>
+              <day>01</day>
+              <date-text xfab-added="true">1 May 2010</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.opticsinfobase.org/view_article.cfm?gotourl=http%3A%2F%2Fwww%2Eopticsinfobase%2Eorg%2FDirectPDFAccess%2F10E3FB30%2DBDB9%2D137E%2DC906349EF780F7BC%5F40904%2Epdf%3Fda%3D1%26id%3D40904%26seq%3D0&amp;org=Elsevier%20Inc</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Optical Society of American (OSA)</publishername>
+              <ce:e-address type="email">info@osa.org</ce:e-address>
+            </publisher>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="y" type="CCV">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Blood</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Deformation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Forward scattering</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Hemoglobin oxygen saturation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Light</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Light scattering</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Refraction</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Refractive index</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="n" type="CFL">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Anomalous diffraction</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Anomalous diffraction approaches</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Ektacytometer</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Ektacytometry</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Fraunhofer</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Fraunhofer diffraction</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Intensity distribution</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Intensity patterns</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Mie theory</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Observation angle</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Red blood cell</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Red cells</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Scattered light</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Small-angle light scattering</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Theoretical expression</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CMH">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Cells</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>3107</classification>
+              </classifications>
+              <classifications type="CPXCLASS">
+                <classification>
+                  <classification-code>421</classification-code>
+                  <classification-description>Strength of Building Materials; Mechanical Properties</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>422</classification-code>
+                  <classification-description>Strength of Building Materials; Test Equipment and Methods</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>461.2</classification-code>
+                  <classification-description>Biological Materials</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>711</classification-code>
+                  <classification-description>Electromagnetic Waves</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>741.1</classification-code>
+                  <classification-description>Light and Optics</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>801.2</classification-code>
+                  <classification-description>Biochemistry</classification-description>
+                </classification>
+              </classifications>
+              <classifications type="FLXCLASS">
+                <classification>
+                  <classification-code>902</classification-code>
+                  <classification-description>FLUIDEX; Related Topics</classification-description>
+                </classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="26">
+            <reference id="1">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77949406991</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Chien S.</ce:indexed-name>
+                    <ce:surname>Chien</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Dormandy J.</ce:indexed-name>
+                    <ce:surname>Dormandy</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Ernst E.</ce:indexed-name>
+                    <ce:surname>Ernst</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Matrai A.</ce:indexed-name>
+                    <ce:surname>Matrai</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Clinical Hemorheology</ref-sourcetitle>
+                <ref-publicationyear first="1987" />
+                <ref-volisspag>
+                  <pagerange first="129" />
+                </ref-volisspag>
+                <ref-text>Nijhoff, Boston, Mass., Chap. 5</ref-text>
+              </ref-info>
+              <ref-fulltext>S. Chien, J. Dormandy, E. Ernst, and A. Matrai, Clinical Hemorheology (Nijhoff, Boston, Mass., 1987), Chap. 5, p. 129.</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77949412518</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.H.F.I.</ce:initials>
+                    <ce:indexed-name>Van Breugel J.H.F.I.</ce:indexed-name>
+                    <ce:surname>Van Breugel</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Hemorheology and Its Role in Blood Platelet Adhesion Under Flow Conditions</ref-sourcetitle>
+                <ref-publicationyear first="1989" />
+                <ref-text>Ph.D. dissertation State University of Utrecht, Utrecht, The Netherlands</ref-text>
+              </ref-info>
+              <ref-fulltext>J. H. F. I. van Breugel, "Hemorheology and its role in blood platelet adhesion under flow conditions," Ph.D. dissertation (State University of Utrecht, Utrecht, The Netherlands, 1989).</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The small angle light scattering of biological cells</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0014834902</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.F.</ce:initials>
+                    <ce:indexed-name>Mullaney P.F.</ce:indexed-name>
+                    <ce:surname>Mullaney</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.N.</ce:initials>
+                    <ce:indexed-name>Dean P.N.</ce:indexed-name>
+                    <ce:surname>Dean</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Biophys. J.</ref-sourcetitle>
+                <ref-publicationyear first="1970" />
+                <ref-volisspag>
+                  <voliss volume="10" />
+                  <pagerange first="764" last="772" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>P. F. Mullaney and P. N. Dean, "The small angle light scattering of biological cells," Biophys. J. 10, 764-772 (1970).</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>New optical technique for measuring erythrocyte deformability with the ektacytometer</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0018887249</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>W.</ce:initials>
+                    <ce:indexed-name>Groner W.</ce:indexed-name>
+                    <ce:surname>Groner</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Mohandas N.</ce:indexed-name>
+                    <ce:surname>Mohandas</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Bessis M.</ce:indexed-name>
+                    <ce:surname>Bessis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Chin. Chem.</ref-sourcetitle>
+                <ref-publicationyear first="1980" />
+                <ref-volisspag>
+                  <voliss volume="26" />
+                  <pagerange first="1435" last="1442" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>W. Groner, N. Mohandas, and M. Bessis, "New optical technique for measuring erythrocyte deformability with the ektacytometer," Chin. Chem. 26, 1435-1442 (1980).</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Light scattering by ellipsoids</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0000920359</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Latimer P.</ce:indexed-name>
+                    <ce:surname>Latimer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Colloid Interface Sci.</ref-sourcetitle>
+                <ref-publicationyear first="1975" />
+                <ref-volisspag>
+                  <voliss volume="53" />
+                  <pagerange first="102" last="109" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>P. Latimer, "Light scattering by ellipsoids," J. Colloid Interface Sci. 53, 102-109 (1975).</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Scattering by ellipsoids of revolution</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0001415485</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Latimer P.</ce:indexed-name>
+                    <ce:surname>Latimer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Barber P.</ce:indexed-name>
+                    <ce:surname>Barber</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Colloid Interface Sci.</ref-sourcetitle>
+                <ref-publicationyear first="1978" />
+                <ref-volisspag>
+                  <voliss volume="63" />
+                  <pagerange first="310" last="316" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>P. Latimer and P. Barber, "Scattering by ellipsoids of revolution," J. Colloid Interface Sci. 63, 310-316 (1978).</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77949387663</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>H.C.</ce:initials>
+                    <ce:indexed-name>Van De Hulst H.C.</ce:indexed-name>
+                    <ce:surname>Van De Hulst</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Light Scattering by Small Particles</ref-sourcetitle>
+                <ref-publicationyear first="1957" />
+                <ref-volisspag>
+                  <pagerange first="183" />
+                </ref-volisspag>
+                <ref-text>Wiley, New York, Chap. 11</ref-text>
+              </ref-info>
+              <ref-fulltext>H. C. van de Hulst, Light Scattering by Small Particles (Wiley, New York, 1957), Chap. 11, p. 183.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Motion of a tank-treading ellipsoidal particle in a shear flow</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0020330956</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.R.</ce:initials>
+                    <ce:indexed-name>Keller S.R.</ce:indexed-name>
+                    <ce:surname>Keller</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Skalak R.</ce:indexed-name>
+                    <ce:surname>Skalak</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Fluid Mech.</ref-sourcetitle>
+                <ref-publicationyear first="1982" />
+                <ref-volisspag>
+                  <voliss volume="120" />
+                  <pagerange first="27" last="47" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>S. R. Keller and R. Skalak, "Motion of a tank-treading ellipsoidal particle in a shear flow," J. Fluid Mech. 120, 27-47 (1982).</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A diffractometric method for the measurement of cellular deformability</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0016701296</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Bessis M.</ce:indexed-name>
+                    <ce:surname>Bessis</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Mohandas N.</ce:indexed-name>
+                    <ce:surname>Mohandas</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Blood Cells</ref-sourcetitle>
+                <ref-publicationyear first="1975" />
+                <ref-volisspag>
+                  <voliss volume="1" />
+                  <pagerange first="307" last="313" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>M. Bessis and N. Mohandas, "A diffractometric method for the measurement of cellular deformability," Blood Cells 1, 307-313 (1975).</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Analysis of factors regulating erythrocyte deformability</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0018879918</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Mohandas N.</ce:indexed-name>
+                    <ce:surname>Mohandas</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.R.</ce:initials>
+                    <ce:indexed-name>Clark M.R.</ce:indexed-name>
+                    <ce:surname>Clark</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.S.</ce:initials>
+                    <ce:indexed-name>Jacobs M.S.</ce:indexed-name>
+                    <ce:surname>Jacobs</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>S.B.</ce:initials>
+                    <ce:indexed-name>Shohet S.B.</ce:indexed-name>
+                    <ce:surname>Shohet</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Clin. Invest.</ref-sourcetitle>
+                <ref-publicationyear first="1980" />
+                <ref-volisspag>
+                  <voliss volume="66" />
+                  <pagerange first="563" last="573" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>N. Mohandas, M. R. Clark, M. S. Jacobs, and S. B. Shohet, "Analysis of factors regulating erythrocyte deformability," J. Clin. Invest. 66, 563-573 (1980).</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Laser diffraction ellipsometry of erythrocytes under controlled shear stress using a rotational viscosimeter</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0023202426</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.R.</ce:initials>
+                    <ce:indexed-name>Hardeman M.R.</ce:indexed-name>
+                    <ce:surname>Hardeman</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Goedhart P.</ce:indexed-name>
+                    <ce:surname>Goedhart</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Breederveld D.</ce:indexed-name>
+                    <ce:surname>Breederveld</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Clin. Chim. Acta</ref-sourcetitle>
+                <ref-publicationyear first="1987" />
+                <ref-volisspag>
+                  <voliss volume="165" />
+                  <pagerange first="227" last="234" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>M. R. Hardeman, P. Goedhart, and D. Breederveld, "Laser diffraction ellipsometry of erythrocytes under controlled shear stress using a rotational viscosimeter," Clin. Chim. Acta 165, 227-234 (1987).</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Tank tread motion of red cell membranes in viscometric flow: Behavior of intracellular and extracellular markers (with film)</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0017666292</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Fischer T.</ce:indexed-name>
+                    <ce:surname>Fischer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Schmidt-Schonbein H.</ce:indexed-name>
+                    <ce:surname>Schmidt-Schönbein</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Blood Cells</ref-sourcetitle>
+                <ref-publicationyear first="1977" />
+                <ref-volisspag>
+                  <voliss volume="3" />
+                  <pagerange first="351" last="365" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>T. Fischer and H. Schmidt-Schönbein, "Tank tread motion of red cell membranes in viscometric flow: behavior of intracellular and extracellular markers (with film)," Blood Cells 3, 351-365 (1977).</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Scattering matrix elements of biological particles measured in a flow through system: Theory and practice</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0346215110</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.M.A.</ce:initials>
+                    <ce:indexed-name>Sloot P.M.A.</ce:indexed-name>
+                    <ce:surname>Sloot</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.G.</ce:initials>
+                    <ce:indexed-name>Hoekstra A.G.</ce:indexed-name>
+                    <ce:surname>Hoekstra</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>H.V.D.</ce:initials>
+                    <ce:indexed-name>Liet H.V.D.</ce:indexed-name>
+                    <ce:surname>Liet</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>C.G.</ce:initials>
+                    <ce:indexed-name>Figdor C.G.</ce:indexed-name>
+                    <ce:surname>Figdor</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1989" />
+                <ref-volisspag>
+                  <voliss volume="28" />
+                  <pagerange first="1752" last="1762" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>P. M. A. Sloot, A. G. Hoekstra, H. v. d. Liet, and C. G. Figdor, "Scattering matrix elements of biological particles measured in a flow through system: theory and practice," Appl. Opt. 28, 1752-1762 (1989).</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">21444460118</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.F.</ce:initials>
+                    <ce:indexed-name>Bohren C.F.</ce:indexed-name>
+                    <ce:surname>Bohren</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.R.</ce:initials>
+                    <ce:indexed-name>Huffman D.R.</ce:indexed-name>
+                    <ce:surname>Huffman</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Absorption and Scattering of Light by Small Particles</ref-sourcetitle>
+                <ref-publicationyear first="1957" />
+                <ref-volisspag>
+                  <pagerange first="479" />
+                </ref-volisspag>
+                <ref-text>Wiley, New York, App. A</ref-text>
+              </ref-info>
+              <ref-fulltext>C. F. Bohren, D. R. Huffman, Absorption and Scattering of Light by Small Particles (Wiley, New York, 1957), App. A, p. 479.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77949368770</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.C.</ce:initials>
+                    <ce:indexed-name>Fung Y.C.</ce:indexed-name>
+                    <ce:surname>Fung</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Biomechanics</ref-sourcetitle>
+                <ref-publicationyear first="1984" />
+                <ref-volisspag>
+                  <pagerange first="106" />
+                </ref-volisspag>
+                <ref-text>2nd ed. (Springer-Verlag, New York, Chap. 4</ref-text>
+              </ref-info>
+              <ref-fulltext>Y. C. Fung, Biomechanics, 2nd ed. (Springer-Verlag, New York, 1984), Chap. 4, p. 106.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Diffuse reflectance from a finite blood medium: Applications to the modeling of fiber optic catheters</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0016994595</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Reynolds L.</ce:indexed-name>
+                    <ce:surname>Reynolds</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Johnson C.</ce:indexed-name>
+                    <ce:surname>Johnson</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Ishimaru A.</ce:indexed-name>
+                    <ce:surname>Ishimaru</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1976" />
+                <ref-volisspag>
+                  <voliss volume="15" />
+                  <pagerange first="2059" last="2067" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>L. Reynolds, C. Johnson, and A. Ishimaru, "Diffuse reflectance from a finite blood medium: applications to the modeling of fiber optic catheters," Appl. Opt. 15, 2059-2067 (1976).</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Rheological comparison of hemoglobin solutions and erythrocyte suspensions</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0014411259</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.R.</ce:initials>
+                    <ce:indexed-name>Cokelet G.R.</ce:indexed-name>
+                    <ce:surname>Cokelet</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.J.</ce:initials>
+                    <ce:indexed-name>Meiselman H.J.</ce:indexed-name>
+                    <ce:surname>Meiselman</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Science</ref-sourcetitle>
+                <ref-publicationyear first="1968" />
+                <ref-volisspag>
+                  <voliss volume="162" />
+                  <pagerange first="275" last="277" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>G. R. Cokelet and H. J. Meiselman, "Rheological comparison of hemoglobin solutions and erythrocyte suspensions," Science 162, 275-277(1968).</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Determination of undeformable erythrocytes in blood samples using laser light scattering</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0020373207</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Plazek J.</ce:indexed-name>
+                    <ce:surname>Plazek</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Marik T.</ce:indexed-name>
+                    <ce:surname>Marik</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1982" />
+                <ref-volisspag>
+                  <voliss volume="21" />
+                  <pagerange first="4335" last="4338" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>J. Plazek and T. Marik, "Determination of undeformable erythrocytes in blood samples using laser light scattering," Appl. Opt. 21, 4335-4338 (1982).</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>An improved diffractometric method for measurement of cellular deformability</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0018899085</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Storzicky F.</ce:indexed-name>
+                    <ce:surname>Storzicky</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>V.</ce:initials>
+                    <ce:indexed-name>Blazek V.</ce:indexed-name>
+                    <ce:surname>Blazek</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Muzik J.</ce:indexed-name>
+                    <ce:surname>Muzik</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Biomech.</ref-sourcetitle>
+                <ref-publicationyear first="1980" />
+                <ref-volisspag>
+                  <voliss volume="13" />
+                  <pagerange first="417" last="421" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>F. Storzicky, V. Blazek, and J. Muzik, "An improved diffractometric method for measurement of cellular deformability," J. Biomech. 13, 417-421 (1980).</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Scattering of electromagnetic waves by arbitrarily shaped dielectric bodies</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0016622089</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Barber P.</ce:indexed-name>
+                    <ce:surname>Barber</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Yeh C.</ce:indexed-name>
+                    <ce:surname>Yeh</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1975" />
+                <ref-volisspag>
+                  <voliss volume="14" />
+                  <pagerange first="2864" last="2872" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>P. Barber and C. Yeh, "Scattering of electromagnetic waves by arbitrarily shaped dielectric bodies," Appl. Opt. 14,2864-2872 (1975).</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Determination of red blood cell membrane viscosity from rheoscopic observations of tank-treading motion</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0021204074</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Tran-Son-Tay R.</ce:indexed-name>
+                    <ce:surname>Tran-Son-Tay</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.P.</ce:initials>
+                    <ce:indexed-name>Sutera S.P.</ce:indexed-name>
+                    <ce:surname>Sutera</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.R.</ce:initials>
+                    <ce:indexed-name>Rao P.R.</ce:indexed-name>
+                    <ce:surname>Rao</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Biophys. J.</ref-sourcetitle>
+                <ref-publicationyear first="1984" />
+                <ref-volisspag>
+                  <voliss volume="46" />
+                  <pagerange first="65" last="72" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>R. Tran-Son-Tay, S. P. Sutera, and P. R. Rao, "Determination of red blood cell membrane viscosity from rheoscopic observations of tank-treading motion," Biophys. J. 46, 65-72 (1984).</ref-fulltext>
+            </reference>
+            <reference id="22">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Membrane stress and internal pressure in a red blood cell freely suspended in a shear flow</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0023236365</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Tran-Son-Tay R.</ce:indexed-name>
+                    <ce:surname>Tran-Son-Tay</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.P.</ce:initials>
+                    <ce:indexed-name>Sutera S.P.</ce:indexed-name>
+                    <ce:surname>Sutera</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>G.I.</ce:initials>
+                    <ce:indexed-name>Zahalak G.I.</ce:indexed-name>
+                    <ce:surname>Zahalak</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>P.R.</ce:initials>
+                    <ce:indexed-name>Rao P.R.</ce:indexed-name>
+                    <ce:surname>Rao</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Biophys. J.</ref-sourcetitle>
+                <ref-publicationyear first="1987" />
+                <ref-volisspag>
+                  <voliss volume="51" />
+                  <pagerange first="915" last="924" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>R. Tran-Son-Tay, S. P. Sutera, G. I. Zahalak, and P. R. Rao, "Membrane stress and internal pressure in a red blood cell freely suspended in a shear flow," Biophys. J. 51, 915-924 (1987).</ref-fulltext>
+            </reference>
+            <reference id="23">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Deduction of intrinsic mechanical properties of the erythrocyte membrane from observations of tank-treading in the rheoscope</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0024515027</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.P.</ce:initials>
+                    <ce:indexed-name>Sutera S.P.</ce:indexed-name>
+                    <ce:surname>Sutera</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.R.</ce:initials>
+                    <ce:indexed-name>Pierre P.R.</ce:indexed-name>
+                    <ce:surname>Pierre</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>G.I.</ce:initials>
+                    <ce:indexed-name>Zahalak G.I.</ce:indexed-name>
+                    <ce:surname>Zahalak</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Biorheology</ref-sourcetitle>
+                <ref-publicationyear first="1989" />
+                <ref-volisspag>
+                  <voliss volume="26" />
+                  <pagerange first="177" last="197" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>S. P. Sutera, P. R. Pierre, and G. I. Zahalak, "Deduction of intrinsic mechanical properties of the erythrocyte membrane from observations of tank-treading in the rheoscope," Biorheology 26, 177-197 (1989).</ref-fulltext>
+            </reference>
+            <reference id="24">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Red cell deformability changes in hemolytic anemias estimated by diffractometric methods (ektacytometry)</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0017662250</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Allard C.</ce:indexed-name>
+                    <ce:surname>Allard</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Mohandas N.</ce:indexed-name>
+                    <ce:surname>Mohandas</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Bessis M.</ce:indexed-name>
+                    <ce:surname>Bessis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Blood Cells</ref-sourcetitle>
+                <ref-publicationyear first="1977" />
+                <ref-volisspag>
+                  <voliss volume="3" />
+                  <pagerange first="209" last="221" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>C. Allard, N. Mohandas, and M. Bessis, "Red cell deformability changes in hemolytic anemias estimated by diffractometric methods (ektacytometry)," Blood Cells 3, 209-221 (1977).</ref-fulltext>
+            </reference>
+            <reference id="25">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Laser diffraction patterns of sickle cells in fluid shear fields</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0017709094</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Bessis M.</ce:indexed-name>
+                    <ce:surname>Bessis</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Mohandas N.</ce:indexed-name>
+                    <ce:surname>Mohandas</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Blood Cells</ref-sourcetitle>
+                <ref-publicationyear first="1977" />
+                <ref-volisspag>
+                  <voliss volume="3" />
+                  <pagerange first="229" last="239" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>M. Bessis and N. Mohandas, "Laser diffraction patterns of sickle cells in fluid shear fields," Blood Cells 3,229-239 (1977).</ref-fulltext>
+            </reference>
+            <reference id="26">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A bi-plane rheoscope: A new approach in optical determination of red blood cell orientation and deformation in a Couette flow</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77949369211</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.J.</ce:initials>
+                    <ce:indexed-name>Streekstra G.J.</ce:indexed-name>
+                    <ce:surname>Streekstra</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>E.-J.</ce:initials>
+                    <ce:indexed-name>Nijhof E.-J.</ce:indexed-name>
+                    <ce:surname>Nijhof</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>R.M.</ce:initials>
+                    <ce:indexed-name>Heethaar R.M.</ce:indexed-name>
+                    <ce:surname>Heethaar</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Proceedings of the North Sea Conference on Biomedical Engineering</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-text>J. Cornelis and S. Peters, eds. (International Federation for Medical and Biological Engineering, Antwerp</ref-text>
+              </ref-info>
+              <ref-fulltext>G. J. Streekstra, E.-J. Nijhof, and R. M. Heethaar, "A bi-plane rheoscope: a new approach in optical determination of red blood cell orientation and deformation in a Couette flow," in Proceedings of the North Sea Conference on Biomedical Engineering, J. Cornelis and S. Peters, eds. (International Federation for Medical and Biological Engineering, Antwerp, 1990)</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

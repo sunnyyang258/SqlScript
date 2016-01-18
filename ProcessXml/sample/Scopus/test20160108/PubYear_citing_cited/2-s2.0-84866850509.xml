@@ -1,0 +1,771 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-84866850509</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.1080/10286608.2011.640752</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>365741746</xocs:pui>
+    <xocs:issn>10286608</xocs:issn>
+    <xocs:volume>29</xocs:volume>
+    <xocs:issue>3</xocs:issue>
+    <xocs:author-surname>Elms</xocs:author-surname>
+    <xocs:author-fi>D</xocs:author-fi>
+    <xocs:firstpage>165</xocs:firstpage>
+    <xocs:lastpage>175</xocs:lastpage>
+    <xocs:sort-year>2012</xocs:sort-year>
+    <xocs:sort-yyyymm>201209</xocs:sort-yyyymm>
+    <xocs:pub-year>2012</xocs:pub-year>
+    <xocs:timestamp>2015-04-03T08:15:00.934821-04:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>84866850509</cto:group-id>
+    <cto:ref-id>84866847690</cto:ref-id>
+    <cto:ref-id>72749103815</cto:ref-id>
+    <cto:ref-id>0003996693</cto:ref-id>
+    <cto:ref-id>0012062638</cto:ref-id>
+    <cto:ref-id>0343896498</cto:ref-id>
+    <cto:ref-id>0037626732</cto:ref-id>
+    <cto:ref-id>0002489289</cto:ref-id>
+    <cto:ref-id>84857328846</cto:ref-id>
+    <cto:ref-id>79959761458</cto:ref-id>
+    <cto:ref-id>0003422445</cto:ref-id>
+    <cto:ref-id>0003968814</cto:ref-id>
+    <cto:ref-id>0003924345</cto:ref-id>
+    <cto:ref-id>33750985018</cto:ref-id>
+    <cto:ref-id>0003851654</cto:ref-id>
+    <cto:ref-id>0003654618</cto:ref-id>
+    <cto:ref-id>0003654620</cto:ref-id>
+    <cto:ref-id>0343521831</cto:ref-id>
+    <cto:ref-id>0004223940</cto:ref-id>
+    <cto:ref-id>84859236349</cto:ref-id>
+    <cto:ref-id>84866855605</cto:ref-id>
+    <cto:ref-id>0142057065</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>D.G.</cto:auth-initials>
+      <cto:auth-indexed-name>Elms D.G.</cto:auth-indexed-name>
+      <cto:auth-surname>Elms</cto:auth-surname>
+      <cto:auth-id>7004025864</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>C.B.</cto:auth-initials>
+      <cto:auth-indexed-name>Brown C.B.</cto:auth-indexed-name>
+      <cto:auth-surname>Brown</cto:auth-surname>
+      <cto:auth-id>7408311058</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="02" month="04" timestamp="2015-04-02T23:00:25.000025+01:00" year="2015" />
+        <ait:date-sort day="01" month="09" year="2012" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2012 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.1080/10286608.2011.640752</ce:doi>
+            <itemid idtype="PUI">365741746</itemid>
+            <itemid idtype="GEO">3904959</itemid>
+            <itemid idtype="FLX">919451</itemid>
+            <itemid idtype="CPX">20124015503081</itemid>
+            <itemid idtype="SCP">84866850509</itemid>
+            <itemid idtype="SGR">84866850509</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="04" month="10" year="2012" />
+          </history>
+          <dbcollection>GEO</dbcollection>
+          <dbcollection>FLX</dbcollection>
+          <dbcollection>CPX</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>analysis</author-keyword>
+              <author-keyword>decisions</author-keyword>
+              <author-keyword>design</author-keyword>
+              <author-keyword>errors</author-keyword>
+              <author-keyword>failures</author-keyword>
+              <author-keyword>models</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Professional decisions: The central role of models</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="7004025864" seq="1">
+              <ce:initials>D.G.</ce:initials>
+              <ce:indexed-name>Elms D.G.</ce:indexed-name>
+              <ce:surname>Elms</ce:surname>
+              <ce:given-name>David G.</ce:given-name>
+              <preferred-name>
+                <ce:initials>D.G.</ce:initials>
+                <ce:indexed-name>Elms D.</ce:indexed-name>
+                <ce:surname>Elms</ce:surname>
+                <ce:given-name>David G.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60020585" country="nzl" dptid="104045205">
+              <organization>Civil Engineering and Natural Resources Department</organization>
+              <organization>University of Canterbury</organization>
+              <city-group>Christchurch</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="7408311058" seq="2">
+              <ce:initials>C.B.</ce:initials>
+              <ce:indexed-name>Brown C.B.</ce:indexed-name>
+              <ce:surname>Brown</ce:surname>
+              <ce:given-name>Colin B.</ce:given-name>
+              <preferred-name>
+                <ce:initials>C.B.</ce:initials>
+                <ce:indexed-name>Brown C.</ce:indexed-name>
+                <ce:surname>Brown</ce:surname>
+                <ce:given-name>Colin B.</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">cbrown@casco.net</ce:e-address>
+            </author>
+            <affiliation afid="60015481" country="usa" dptid="108237261">
+              <organization>Department of Civil and Environmental Engineering</organization>
+              <organization>University of Washington</organization>
+              <city-group>Seattle, WA</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="7408311058" seq="2">
+              <ce:initials>C.B.</ce:initials>
+              <ce:indexed-name>Brown C.B.</ce:indexed-name>
+              <ce:surname>Brown</ce:surname>
+              <ce:given-name>Colin B.</ce:given-name>
+              <preferred-name>
+                <ce:initials>C.B.</ce:initials>
+                <ce:indexed-name>Brown C.</ce:indexed-name>
+                <ce:surname>Brown</ce:surname>
+                <ce:given-name>Colin B.</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">cbrown@casco.net</ce:e-address>
+            </author>
+            <affiliation afid="60013402" country="usa" dptid="103699539">
+              <organization>School of Civil and Construction Engineering</organization>
+              <organization>Oregon State University</organization>
+              <city-group>Corvallis, OR</city-group>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>C. B.</ce:initials>
+              <ce:indexed-name>Brown C. B.</ce:indexed-name>
+              <ce:surname>Brown</ce:surname>
+            </person>
+            <affiliation country="nzl">
+              <organization>Civil Engineering and Natural Resources Department</organization>
+              <organization>University of Canterbury</organization>
+              <city-group>Christchurch</city-group>
+            </affiliation>
+            <ce:e-address type="email">cbrown@casco.net</ce:e-address>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>Engineering is largely concerned with models and modelling. Models provide a context in which decisions are made. Here, the modelling process is considered in a general sense and then the relationship with engineering models is developed. For understanding, a first step is to differentiate and categorise. Thus, 10 types of engineering models are proposed and their purposes with respect to professional decision-making are discussed. The role of models in engineering failures is also considered. © 2012 Copyright Taylor and Francis Group, LLC.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="gbr" srcid="15020" type="j">
+            <sourcetitle>Civil Engineering and Environmental Systems</sourcetitle>
+            <sourcetitle-abbrev>Civ. Eng. Environ. Syst.</sourcetitle-abbrev>
+            <issn type="print">10286608</issn>
+            <issn type="electronic">10290249</issn>
+            <codencode>CEESF</codencode>
+            <volisspag>
+              <voliss issue="3" volume="29" />
+              <pagerange first="165" last="175" />
+            </volisspag>
+            <publicationyear first="2012" />
+            <publicationdate>
+              <year>2012</year>
+              <month>09</month>
+              <date-text xfab-added="true">September 2012</date-text>
+            </publicationdate>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="n" type="CFL">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">analysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">decisions</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Engineering failures</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Engineering models</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Modelling process</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CCV">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Civil engineering</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Design</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Errors</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Failure (mechanical)</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CMH">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Models</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="GDE">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">civil engineering</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">decision making</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">design</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">error analysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">failure analysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">modeling</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>2205</classification>
+              </classifications>
+              <classifications type="CPXCLASS">
+                <classification>
+                  <classification-code>409</classification-code>
+                  <classification-description>Civil Engineering, General</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>421</classification-code>
+                  <classification-description>Strength of Building Materials; Mechanical Properties</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>731</classification-code>
+                  <classification-description>Automatic Control Principles and Applications</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>902.1</classification-code>
+                  <classification-description>Engineering Graphics</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>921</classification-code>
+                  <classification-description>Applied Mathematics</classification-description>
+                </classification>
+              </classifications>
+              <classifications type="GEOCLASS">
+                <classification>
+                  <classification-code>Related Topics</classification-code>
+                </classification>
+                <classification>
+                  <classification-code>Related Topics</classification-code>
+                </classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="21">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Final report on the Tacoma Narrows bridge</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84866847690</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.E.</ce:initials>
+                    <ce:indexed-name>Andrews C.E.</ce:indexed-name>
+                    <ce:surname>Andrews</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1952" />
+                <ref-text>Olympia, WA, USA: Report to the Washington Toll Bridge Authority</ref-text>
+              </ref-info>
+              <ref-fulltext>Andrews, C. E. 1952. "Final report on the Tacoma Narrows bridge". Olympia, WA, USA: Report to the Washington Toll Bridge Authority.</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Adopting orphans: uncertainty and other neglected aspects of complex problems</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749103815</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Uncertainty and risk: Multidisciplinary perspectives</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <pagerange first="27" last="41" />
+                </ref-volisspag>
+                <ref-text>In: Bammer G., Smithson M., editors London: Earthscan</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. 2008. "Adopting orphans: uncertainty and other neglected aspects of complex problems". In Uncertainty and risk: multidisciplinary perspectives, Edited by: Bammer, G. and Smithson, M. 27-41. London: Earthscan.</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Inquiring man: the theory of personal constructs</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003996693</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Bannister D.</ce:indexed-name>
+                    <ce:surname>Bannister</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Fransella F.</ce:indexed-name>
+                    <ce:surname>Fransella</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1971" />
+                <ref-text>New York, NY: Penguin</ref-text>
+              </ref-info>
+              <ref-fulltext>Bannister, D. and Fransella, F. 1971. "Inquiring man: the theory of personal constructs". New York, NY: Penguin.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The tower and the bridge: the new art of structural engineering</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0012062638</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.P.</ce:initials>
+                    <ce:indexed-name>Billington D.P.</ce:indexed-name>
+                    <ce:surname>Billington</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1983" />
+                <ref-text>New York, NY: Basic Books</ref-text>
+              </ref-info>
+              <ref-fulltext>Billington, D. P. 1983. "The tower and the bridge: the new art of structural engineering". New York, NY: Basic Books.</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Incomplete design paradigms</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0343896498</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.B.</ce:initials>
+                    <ce:indexed-name>Brown C.B.</ce:indexed-name>
+                    <ce:surname>Brown</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Modeling human error in structural design and construction</ref-sourcetitle>
+                <ref-publicationyear first="1986" />
+                <ref-volisspag>
+                  <pagerange first="8" last="11" />
+                </ref-volisspag>
+                <ref-text>In: Nowak A. S., editors New York, NY: American Society of Civil Engineers</ref-text>
+              </ref-info>
+              <ref-fulltext>Brown, C. B. 1986. "Incomplete design paradigms". In Modeling human error in structural design and construction, Edited by: Nowak, A. S. 8-11. New York, NY: American Society of Civil Engineers.</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Semiotics: the basics</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037626732</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Chandler D.</ce:indexed-name>
+                    <ce:surname>Chandler</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="2002" />
+                <ref-text>London: Routledge</ref-text>
+              </ref-info>
+              <ref-fulltext>Chandler, D. 2002. "Semiotics: the basics". London: Routledge.</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Indicator approaches for risk management and appraisal</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0002489289</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.G.</ce:initials>
+                    <ce:indexed-name>Elms D.G.</ce:indexed-name>
+                    <ce:surname>Elms</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Integrated risk assessment</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-volisspag>
+                  <pagerange first="53" last="59" />
+                </ref-volisspag>
+                <ref-text>In: Stewart M., Melchers R., editors Rotterdam: Balkema</ref-text>
+              </ref-info>
+              <ref-fulltext>Elms, D. G. 1998. "Indicator approaches for risk management and appraisal". In Integrated risk assessment, Edited by: Stewart, M. and Melchers, R. 53-59. Rotterdam: Balkema.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Tales of the unexpected</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84857328846</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Elms D.</ce:indexed-name>
+                    <ce:surname>Elms</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.B.</ce:initials>
+                    <ce:indexed-name>Brown C.B.</ce:indexed-name>
+                    <ce:surname>Brown</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Int. J. Risk Assessment and Management</ref-sourcetitle>
+                <ref-publicationyear first="2011" />
+                <ref-volisspag>
+                  <voliss issue="5-6" volume="15" />
+                  <pagerange first="387" last="399" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Elms, D. and Brown, C. B. 2011. Tales of the unexpected. Int. J. Risk Assessment and Management, 15(5/6): 387-399.</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Models in science</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">79959761458</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Frigg R.</ce:indexed-name>
+                    <ce:surname>Frigg</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Hartmann S.</ce:indexed-name>
+                    <ce:surname>Hartmann</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Stanford encyclopedia of philosophy</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-website>
+                  <ce:e-address type="url">http://plato.stanford.edu/archives/sum2009/entries/models-science/</ce:e-address>
+                </ref-website>
+                <ref-text>In: Zalta E. N., editors Available from: [Accessed 15 December 2010]</ref-text>
+              </ref-info>
+              <ref-fulltext>Frigg, R. and Hartmann, S. 2009. "Models in science". In The Stanford encyclopedia of philosophy Edited by: Zalta, E. N. Available from: http://plato.stanford.edu/archives/sum2009/entries/models-science/ [Accessed 15 December 2010]</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Being and time</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003422445</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Heidegger M.</ce:indexed-name>
+                    <ce:surname>Heidegger</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1927" />
+                <ref-text>In: Macquarrie J., Robinson E., editors London: SCM Press Translated from the German</ref-text>
+              </ref-info>
+              <ref-fulltext>Heidegger, M. 1927. "Being and time". Edited by: Macquarrie, J. and Robinson, E. London: SCM Press. Translated from the German.</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Investigation into the Clapham Junction railway accident</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003968814</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Hidden A.</ce:indexed-name>
+                    <ce:surname>Hidden</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1989" />
+                <ref-text>London: HMSO</ref-text>
+              </ref-info>
+              <ref-fulltext>Hidden, A. 1989. "Investigation into the Clapham Junction railway accident". London: HMSO.</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Homo ludens: a study of the play element in culture</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003924345</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Huizinga J.</ce:indexed-name>
+                    <ce:surname>Huizinga</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1955" />
+                <ref-text>Boston, MA: Beacon Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Huizinga, J. 1955. "Homo ludens: a study of the play element in culture". Boston, MA: Beacon Press.</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>In search of memory: the emergence of a new science of mind</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33750985018</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.R.</ce:initials>
+                    <ce:indexed-name>Kandel E.R.</ce:indexed-name>
+                    <ce:surname>Kandel</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="2006" />
+                <ref-text>New York, NY: W.W. Norton &amp; Co</ref-text>
+              </ref-info>
+              <ref-fulltext>Kandel, E. R. 2006. "In search of memory: the emergence of a new science of mind". New York, NY: W.W. Norton &amp; Co.</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Critique of pure reason</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003851654</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Kant I.</ce:indexed-name>
+                    <ce:surname>Kant</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1781" />
+                <ref-volisspag>
+                  <pagerange first="1966" />
+                </ref-volisspag>
+                <ref-text>New York, NY: Anchor Books Trans. F.M. Muller</ref-text>
+              </ref-info>
+              <ref-fulltext>Kant, I. 1781. "Critique of pure reason". 1966New York, NY: Anchor Books. Trans. F.M. Muller</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003654618</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.A.</ce:initials>
+                    <ce:indexed-name>Kelly G.A.</ce:indexed-name>
+                    <ce:surname>Kelly</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The psychology of personal constructs</ref-sourcetitle>
+                <ref-publicationyear first="1955" />
+                <ref-volisspag>
+                  <voliss volume="2" />
+                </ref-volisspag>
+                <ref-text>New York, NY: W.W. Norton &amp; Co</ref-text>
+              </ref-info>
+              <ref-fulltext>Kelly, G. A. 1955. "The psychology of personal constructs". vol. 2., New York, NY: W.W. Norton &amp; Co.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A theory of personality: the psychology of personal constructs</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003654620</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.A.</ce:initials>
+                    <ce:indexed-name>Kelly G.A.</ce:indexed-name>
+                    <ce:surname>Kelly</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1963" />
+                <ref-text>New York, NY: W.W. Norton &amp; Co</ref-text>
+              </ref-info>
+              <ref-fulltext>Kelly, G. A. 1963. "A theory of personality: the psychology of personal constructs". New York, NY: W.W. Norton &amp; Co.</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0343521831</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.D.</ce:initials>
+                    <ce:indexed-name>Marshall R.D.</ce:indexed-name>
+                    <ce:surname>Marshall</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Investigation of the Kansas City Hyatt Regency walkways collapse. NBSIR 82-2465</ref-sourcetitle>
+                <ref-publicationyear first="1982" />
+                <ref-text>Washington, D.C: National Bureau of Standards</ref-text>
+              </ref-info>
+              <ref-fulltext>Marshall, R. D. 1982. "Investigation of the Kansas City Hyatt Regency walkways collapse. NBSIR 82-2465". Washington, D.C: National Bureau of Standards.</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Human error</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004223940</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.T.</ce:initials>
+                    <ce:indexed-name>Reason J.T.</ce:indexed-name>
+                    <ce:surname>Reason</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1990" />
+                <ref-text>New York, NY: Cambridge University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Reason, J. T. 1990. "Human error". New York, NY: Cambridge University Press.</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Introducing ethics using structured controversies</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84859236349</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.G.</ce:initials>
+                    <ce:indexed-name>Wareham D.G.</ce:indexed-name>
+                    <ce:surname>Wareham</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.T.</ce:initials>
+                    <ce:indexed-name>Elefsiniotis P.T.</ce:indexed-name>
+                    <ce:surname>Elefsiniotis</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>D.G.</ce:initials>
+                    <ce:indexed-name>Elms D.G.</ce:indexed-name>
+                    <ce:surname>Elms</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>European Journal of Engineering Education</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss issue="6" volume="31" />
+                  <pagerange first="651" last="660" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Wareham, D. G., Elefsiniotis, P. T. and Elms, D. G. 2006. Introducing ethics using structured controversies. European Journal of Engineering Education, 31(6): 651-660.</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Logisch-philosophisch Abhandlung, German and English</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84866855605</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Wittgenstein L.</ce:indexed-name>
+                    <ce:surname>Wittgenstein</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="1971" />
+                <ref-text>Ithaca, NY: Cornell University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Wittgenstein, L. 1971. "Logisch-philosophisch Abhandlung, German and English". Ithaca, NY: Cornell University Press.</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Social cognition and the prefrontal cortex</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0142057065</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.N.</ce:initials>
+                    <ce:indexed-name>Wood J.N.</ce:indexed-name>
+                    <ce:surname>Wood</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Behavioral and Cognitive Neuroscience Reviews</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss issue="2" volume="2" />
+                  <pagerange first="97" last="114" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Wood, J. N. 2003. Social cognition and the prefrontal cortex. Behavioral and Cognitive Neuroscience Reviews, 2(2): 97-114.</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

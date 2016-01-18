@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Elsevier shared OpsBank schema elements
+     Version 5.12.3 dated 30 July 2015
+
+     Copyright © 2008-2015 Elsevier B.V.
+     This is open access material under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+<!--
+     Typical invocation:
+    
+     <bibdataset xmlns="http://www.elsevier.com/xml/ani/ani"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:ce="http://www.elsevier.com/xml/ani/common"
+         xmlns:ait="http://www.elsevier.com/xml/ani/ait"
+         xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani512.xsd">
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="http://www.elsevier.com/xml/ani/ani" xmlns:ait="http://www.elsevier.com/xml/ani/ait"
+    xmlns:ani="http://www.elsevier.com/xml/ani/ani" xmlns:ce="http://www.elsevier.com/xml/ani/common">
+
+    <xs:import namespace="http://www.elsevier.com/xml/ani/ait" schemaLocation="ait.xsd"/>
+    <xs:import namespace="http://www.elsevier.com/xml/ani/common" schemaLocation="ce.xsd"/>
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+    <xs:include schemaLocation="ani-ce.xsd"/>
+
+    <!-- ========== Citation types ==========
+        ab  Abstract Report
+        ar  Article
+        ba
+        bk  Book
+        br  Book Review
+        bz  Business Article
+        cb  Conference Abstract
+        ch  Chapter
+        cp  Conference Paper
+        cr  Conference Review
+        di  Dissertation
+        ed  Editorial
+        er  Erratum
+        ip  Article in Press
+        le  Letter
+        no  Note
+        pa  Patent
+        pr  Press Release
+        re  Review
+        rf
+        rp  Report
+        sh  Short Survey
+        wp  Working Paper
+    -->
+    <xs:simpleType name="citationtype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="ab"/>
+            <xs:enumeration value="ar"/>
+            <xs:enumeration value="ba"/>
+            <xs:enumeration value="bk"/>
+            <xs:enumeration value="br"/>
+            <xs:enumeration value="bz"/>
+            <xs:enumeration value="cb"/>
+            <xs:enumeration value="ch"/>
+            <xs:enumeration value="cp"/>
+            <xs:enumeration value="cr"/>
+            <xs:enumeration value="di"/>
+            <xs:enumeration value="ed"/>
+            <xs:enumeration value="er"/>
+            <xs:enumeration value="ip"/>
+            <xs:enumeration value="le"/>
+            <xs:enumeration value="no"/>
+            <xs:enumeration value="pa"/>
+            <xs:enumeration value="pr"/>
+            <xs:enumeration value="re"/>
+            <xs:enumeration value="rf"/>
+            <xs:enumeration value="rp"/>
+            <xs:enumeration value="sh"/>
+            <xs:enumeration value="wp"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== GenCitation types ==========
+        bk  Book
+        ch  Chapter
+        co  Conference Proceeding
+        cp  Conference Paper
+        di  Dissertation
+        ep  E-print
+        ot  Other
+        pa  Patent
+        st  Standard
+        tr  Technical Report
+    -->
+    <xs:simpleType name="gencitationtype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="bk"/>
+            <xs:enumeration value="ch"/>
+            <xs:enumeration value="co"/>
+            <xs:enumeration value="cp"/>
+            <xs:enumeration value="di"/>
+            <xs:enumeration value="ep"/>
+            <xs:enumeration value="ot"/>
+            <xs:enumeration value="pa"/>
+            <xs:enumeration value="st"/>
+            <xs:enumeration value="tr"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Sequencebank types ==========
+    -->
+    <xs:simpleType name="sequencebanktype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="DDBJ"/>
+            <xs:enumeration value="EMBL"/>
+            <xs:enumeration value="GENBANK"/>
+            <xs:enumeration value="PIR"/>
+            <xs:enumeration value="SWISSPROT"/>
+            <xs:enumeration value="UNNAMED"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Descriptor types ==========
+    -->
+    <xs:simpleType name="descriptortype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="AUD"/>
+            <xs:enumeration value="AUT"/>
+            <xs:enumeration value="BLS"/>
+            <xs:enumeration value="BTC"/>
+            <xs:enumeration value="CBA"/>
+            <xs:enumeration value="CBB"/>
+            <xs:enumeration value="CBC"/>
+            <xs:enumeration value="CBE"/>
+            <xs:enumeration value="CCV"/>
+            <xs:enumeration value="CFL"/>
+            <xs:enumeration value="CLU"/>
+            <xs:enumeration value="CMH"/>
+            <xs:enumeration value="CNC"/>
+            <xs:enumeration value="CSL"/>
+            <xs:enumeration value="CSS"/>
+            <xs:enumeration value="CSW"/>
+            <xs:enumeration value="CTB"/>
+            <xs:enumeration value="CTC"/>
+            <xs:enumeration value="CTN"/>
+            <xs:enumeration value="DID"/>
+            <xs:enumeration value="DRA"/>
+            <xs:enumeration value="DRG"/>
+            <xs:enumeration value="ECN"/>
+            <xs:enumeration value="FDE"/>
+            <xs:enumeration value="GDE"/>
+            <xs:enumeration value="GLY"/>
+            <xs:enumeration value="KWD"/>
+            <xs:enumeration value="MDV"/>
+            <xs:enumeration value="MEA"/>
+            <xs:enumeration value="MED"/>
+            <xs:enumeration value="MGS"/>
+            <xs:enumeration value="MKW"/>
+            <xs:enumeration value="MLA"/>
+            <xs:enumeration value="MMS"/>
+            <xs:enumeration value="MSC"/>
+            <xs:enumeration value="MSF"/>
+            <xs:enumeration value="MSH"/>
+            <xs:enumeration value="MUD"/>
+            <xs:enumeration value="OZR"/>
+            <xs:enumeration value="PCV"/>
+            <xs:enumeration value="REA"/>
+            <xs:enumeration value="RGI"/>
+            <xs:enumeration value="SID"/>
+            <xs:enumeration value="SPC"/>
+            <xs:enumeration value="SPO"/>
+            <xs:enumeration value="SUA"/>
+            <xs:enumeration value="TRP"/>
+            <xs:enumeration value="WDE"/>
+            <xs:enumeration value="SCO"/>
+            <xs:enumeration value="SCT"/>
+            <xs:enumeration value="IBT"/>
+            <xs:enumeration value="IGI"/>
+            <xs:enumeration value="SCC"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Classification types ==========
+    -->
+    <xs:simpleType name="classificationtype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="ASJC"/>
+            <xs:enumeration value="AUTARC-CONFIGURATION"/>
+            <xs:enumeration value="CABSCLASS"/>
+            <xs:enumeration value="CBNBGEO"/>
+            <xs:enumeration value="CBNBSCOPE"/>
+            <xs:enumeration value="CBNBSECTOR"/>
+            <xs:enumeration value="CBNBSIC"/>
+            <xs:enumeration value="CONFIGURATION-VALUE"/>
+            <xs:enumeration value="CPXCLASS"/>
+            <xs:enumeration value="EMCLASS"/>
+            <xs:enumeration value="ESBD"/>
+            <xs:enumeration value="ENCOMPASSCLASS"/>
+            <xs:enumeration value="FLXCLASS"/>
+            <xs:enumeration value="GEOCLASS"/>
+            <xs:enumeration value="PATAUTO"/>
+            <xs:enumeration value="PATENT-FAMILY"/>
+            <xs:enumeration value="PATMANU"/>
+            <xs:enumeration value="REAXYS-PRIORITY"/>
+            <xs:enumeration value="SATURATION"/>
+            <xs:enumeration value="SUBJECT"/>
+            <xs:enumeration value="SUPPORT-INFORMATION"/>
+            <xs:enumeration value="WTACLASS"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Tradename types ==========
+    -->
+    <xs:simpleType name="tradenametype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="TNM"/>
+            <xs:enumeration value="TNV"/>
+            <xs:enumeration value="TNW"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Manufacturer types ==========
+    -->
+    <xs:simpleType name="manufacturertype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="MNF"/>
+            <xs:enumeration value="MNV"/>
+            <xs:enumeration value="MNW"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Chemical source types ==========
+    -->
+    <xs:simpleType name="chemicalsourcetype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="esbd"/>
+            <xs:enumeration value="nlm"/>
+            <xs:enumeration value="cbnb"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Source Types ==========
+        b  Book
+        d  Trade Journal
+        j  Journal
+        k  Book Series
+        m  Multi-volume Reference Works
+        p  Conference Proceeding
+        r  Report
+        n  Newsletter
+        w  Newspaper
+    -->
+    <xs:simpleType name="sourcetype.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="b"/>
+            <xs:enumeration value="d"/>
+            <xs:enumeration value="j"/>
+            <xs:enumeration value="k"/>
+            <xs:enumeration value="m"/>
+            <xs:enumeration value="p"/>
+            <xs:enumeration value="r"/>
+            <xs:enumeration value="n"/>
+            <xs:enumeration value="w"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ========== Contributor Roles ==========
+        auth  author
+        comp  compiler
+        edit  editor
+        illu  illustrator
+        phot  photographer
+        publ  publisher
+        revi  reviewer
+        tran  translator
+    -->
+    <xs:simpleType name="contributorrole.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="auth"/>
+            <xs:enumeration value="comp"/>
+            <xs:enumeration value="edit"/>
+            <xs:enumeration value="illu"/>
+            <xs:enumeration value="phot"/>
+            <xs:enumeration value="publ"/>
+            <xs:enumeration value="revi"/>
+            <xs:enumeration value="tran"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="yesno.att">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="y"/>
+            <xs:enumeration value="n"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:group name="pubdateType">
+        <xs:sequence>
+            <xs:element ref="ani:year" minOccurs="0"/>
+            <xs:element ref="ani:month" minOccurs="0"/>
+            <xs:element ref="ani:day" minOccurs="0"/>
+            <xs:element ref="ani:date-text" minOccurs="0"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:element name="year" type="xs:string"/>
+    <xs:element name="month" type="xs:string"/>
+    <xs:element name="day" type="xs:string"/>
+    <xs:element name="date-text" type="xs:string"/>
+
+    <xs:complexType name="personalnameType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="ce:initials"/>
+            <xs:element ref="ce:indexed-name"/>
+            <xs:choice minOccurs="0">
+                <xs:sequence>
+                    <xs:element minOccurs="0" ref="ce:degrees"/>
+                    <xs:element ref="ce:surname"/>
+                    <xs:element minOccurs="0" ref="ce:given-name"/>
+                    <xs:element minOccurs="0" ref="ce:suffix"/>
+                </xs:sequence>
+                <xs:element ref="ani:nametext"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="nametext" type="xs:string"/>
+
+    <xs:complexType name="affiliationType">
+        <xs:choice>
+            <xs:element ref="ce:text"/>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:organization"/>
+                <xs:element minOccurs="0" ref="ani:address-part"/>
+                <xs:choice minOccurs="0">
+                    <xs:element ref="ani:city-group"/>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" ref="ani:city"/>
+                        <xs:element minOccurs="0" ref="ani:state"/>
+                        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:postal-code"/>
+                    </xs:sequence>
+                </xs:choice>
+            </xs:sequence>
+        </xs:choice>
+    </xs:complexType>
+
+    <xs:complexType name="classificationType" mixed="true">
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element ref="ani:classification-code"/>
+            <xs:element ref="ani:classification-description"/>
+        </xs:choice>
+        <xs:attribute name="weight">
+            <xs:simpleType>
+                <xs:restriction base="xs:token">
+                    <xs:enumeration value="-"/>
+                    <xs:enumeration value="?"/>
+                    <xs:enumeration value="+"/>
+                    <xs:enumeration value="++"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <!-- ========== Wrapper and process info ========== -->
+
+    <xs:element name="bibdataset">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:item"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="item">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ait:process-info"/>
+                <xs:element ref="ani:bibrecord"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="bibrecord">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:item-info"/>
+                <xs:element minOccurs="0" ref="ani:itemfilelinks"/>
+                <xs:element ref="ani:head"/>
+                <xs:element minOccurs="0" ref="ani:tail"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- ========== Bibliographic record ========== -->
+
+    <xs:element name="item-info">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:copyright"/>
+                <xs:element ref="ani:itemidlist"/>
+                <xs:element ref="ani:history"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:dbcollection"/>
+                <xs:element minOccurs="0" ref="ani:external-source"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="itemfilelinks">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:itemfilelink"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="itemfilelink">
+        <xs:complexType>
+            <xs:attribute name="href" use="required"/>
+            <xs:attribute name="MIME-type"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="copyright">
+        <xs:complexType mixed="true">
+            <xs:attribute name="type"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="itemidlist">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ce:pii"/>
+                <xs:element minOccurs="0" ref="ce:doi"/>
+                <xs:element maxOccurs="unbounded" ref="ani:itemid"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="itemid">
+        <xs:complexType mixed="true">
+            <xs:attribute name="idtype" type="xs:NMTOKEN" use="required"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="dbcollection" type="xs:string"/>
+
+    <xs:element name="external-source" type="xs:string"/>
+
+    <!-- Item history elements -->
+
+    <xs:element name="history">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:date-created"/>
+                <xs:element minOccurs="0" ref="ani:date-completed"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:date-revised"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="date-created">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="date-completed">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="date-revised">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- ========== head ========== -->
+
+    <xs:element name="head" type="ani:headType"/>
+
+    <xs:complexType name="headType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="ani:citation-info"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:related-item"/>
+            <xs:element minOccurs="0" ref="ani:citation-title"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:author-group"/>
+            <xs:element minOccurs="0" ref="ani:correspondence"/>
+            <xs:element minOccurs="0" ref="ani:grantlist"/>
+            <xs:element minOccurs="0" ref="ani:abstracts"/>
+            <xs:element minOccurs="0" ref="ani:source"/>
+            <xs:element minOccurs="0" ref="ani:enhancement"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Citation elements -->
+
+    <xs:element name="citation-info" type="ani:citationinfoType"/>
+
+    <xs:complexType name="citationinfoType">
+        <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:citation-type"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:citation-language"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:abstract-language"/>
+            <xs:element minOccurs="0" ref="ani:patent"/>
+            <xs:element minOccurs="0" ref="ani:author-keywords"/>
+            <xs:element minOccurs="0" ref="ani:dummy-link"/>
+            <xs:element minOccurs="0" ref="ani:figure-information"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="citation-type">
+        <xs:complexType>
+            <xs:attribute name="code" use="required" type="ani:citationtype.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="citation-language">
+        <xs:complexType>
+            <xs:attribute ref="xml:lang" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="abstract-language">
+        <xs:complexType>
+            <xs:attribute ref="xml:lang" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="author-keywords">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:author-keyword"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="author-keyword">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="dummy-link">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:gen-citationtype"/>
+                <xs:element ref="ani:itemlink"/>
+            </xs:sequence>
+            <xs:attribute name="restricted-access" type="ani:yesno.att" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="gen-citationtype">
+        <xs:complexType>
+            <xs:attribute name="code" use="required" type="ani:gencitationtype.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="itemlink" type="xs:string"/>
+    <xs:element name="figure-information" type="xs:string"/>
+
+    <xs:element name="related-item">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ce:pii"/>
+                <xs:element minOccurs="0" ref="ce:doi"/>
+                <xs:element minOccurs="0" ref="ani:citation-info"/>
+                <xs:element minOccurs="0" ref="ani:citation-title"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:contributor-group"/>
+                <xs:element minOccurs="0" ref="ani:source"/>
+            </xs:sequence>
+            <xs:attribute name="type" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="citation-title">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:titletext"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="titletext">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute ref="xml:lang" default="eng"/>
+            <xs:attribute name="original" type="ani:yesno.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="contributor-group">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element ref="ani:contributor"/>
+                    <xs:element ref="ani:collaboration"/>
+                </xs:choice>
+                <xs:element minOccurs="0" ref="ani:et-al"/>
+                <xs:element minOccurs="0" ref="ani:affiliation"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="contributor">
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="ani:personalnameType">
+                    <xs:sequence>
+                        <xs:element minOccurs="0" ref="ce:e-address"/>
+                    </xs:sequence>
+                    <xs:attribute name="role" use="required" type="ani:contributorrole.att"/>
+                    <xs:attribute name="auid"/>
+                    <xs:attribute name="seq" use="required"/>
+                    <xs:attribute name="type"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- AuthorGroup elements -->
+
+    <xs:element name="author-group">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element ref="ani:author"/>
+                    <xs:element ref="ani:collaboration"/>
+                </xs:choice>
+                <xs:element minOccurs="0" ref="ani:et-al"/>
+                <xs:element minOccurs="0" ref="ani:affiliation"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="author">
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="ani:personalnameType">
+                    <xs:sequence>
+                        <xs:element minOccurs="0" ref="ani:preferred-name"/>
+                        <xs:element minOccurs="0" ref="ce:e-address"/>
+                    </xs:sequence>
+                    <xs:attribute name="auid"/>
+                    <xs:attribute name="seq" use="required"/>
+                    <xs:attribute name="type"/>
+                    <xs:attribute name="orcid"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="preferred-name" type="ani:personalnameType"/>
+    <xs:element name="collaboration">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ce:indexed-name"/>
+                <xs:element ref="ce:text"/>
+            </xs:sequence>
+            <xs:attribute name="seq" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="et-al">
+        <xs:complexType/>
+    </xs:element>
+    <xs:element name="affiliation">
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="ani:affiliationType">
+                    <xs:attribute name="afid"/>
+                    <xs:attribute name="dptid"/>
+                    <xs:attribute name="country"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="organization">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="address-part">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="city-group" type="xs:string"/>
+    <xs:element name="city" type="xs:string"/>
+    <xs:element name="state" type="xs:string"/>
+    <xs:element name="postal-code">
+        <xs:complexType mixed="true">
+            <xs:attribute name="type">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="pre"/>
+                        <xs:enumeration value="post"/>
+                        <xs:enumeration value="zip"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="country">
+        <xs:complexType>
+            <xs:attribute name="iso-code" use="required"/>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Correspondence Address elements -->
+
+    <xs:element name="correspondence">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:person"/>
+                <xs:element minOccurs="0" ref="ani:affiliation"/>
+                <xs:element minOccurs="0" ref="ce:e-address"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="person" type="ani:personalnameType"/>
+
+    <!-- Grant elements -->
+
+    <xs:element name="grantlist">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:grant"/>
+            </xs:sequence>
+            <xs:attribute name="complete" default="y" type="ani:yesno.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="grant">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:grant-id"/>
+                <xs:element minOccurs="0" ref="ani:grant-acronym"/>
+                <xs:element ref="ani:grant-agency"/>
+                <xs:element minOccurs="0" ref="ani:grant-agency-id"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="grant-id" type="xs:string"/>
+    <xs:element name="grant-acronym" type="xs:string"/>
+    <xs:element name="grant-agency">
+        <xs:complexType mixed="true">
+            <xs:attribute name="iso-code"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="grant-agency-id" type="xs:string"/>
+
+    <!-- Source elements -->
+
+    <xs:element name="source" type="ani:sourceType"/>
+
+    <xs:complexType name="sourceType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="ani:sourcetitle"/>
+            <xs:element minOccurs="0" ref="ani:preferred-sourcetitle"/>
+            <xs:element minOccurs="0" ref="ani:sourcetitle-abbrev"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:translated-sourcetitle"/>
+            <xs:element minOccurs="0" ref="ani:volumetitle"/>
+            <xs:element minOccurs="0" ref="ani:issuetitle"/>
+            <xs:element minOccurs="0" ref="ani:issue-designation"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:issn"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:isbn"/>
+            <xs:element minOccurs="0" ref="ani:codencode"/>
+            <xs:element minOccurs="0" ref="ani:part"/>
+            <xs:element minOccurs="0" ref="ani:volisspag"/>
+            <xs:element minOccurs="0" ref="ani:article-number"/>
+            <xs:element minOccurs="0" ref="ani:publicationyear"/>
+            <xs:element minOccurs="0" ref="ani:publicationdate"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:website"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:contributor-group"/>
+            <xs:element minOccurs="0" ref="ani:editors"/>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:publisher"/>
+            <xs:element minOccurs="0" ref="ani:additional-srcinfo"/>
+            <xs:element minOccurs="0" ref="ani:bib-text"/>
+        </xs:sequence>
+        <xs:attribute name="srcid"/>
+        <xs:attribute name="type" type="ani:sourcetype.att"/>
+        <xs:attribute name="country"/>
+    </xs:complexType>
+
+    <xs:element name="sourcetitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="preferred-sourcetitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="sourcetitle-abbrev">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="translated-sourcetitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute ref="xml:lang"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="volumetitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="issuetitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="issue-designation">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="issn">
+        <xs:complexType mixed="true">
+            <xs:attribute name="type">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="print"/>
+                        <xs:enumeration value="electronic"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="isbn">
+        <xs:complexType mixed="true">
+            <xs:attribute name="type"/>
+            <xs:attribute name="length">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="10"/>
+                        <xs:enumeration value="13"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="level">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="set"/>
+                        <xs:enumeration value="volume"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="codencode" type="xs:string"/>
+    <xs:element name="part" type="xs:string"/>
+
+    <xs:element name="volisspag">
+        <xs:complexType>
+            <xs:choice>
+                <xs:sequence>
+                    <xs:element ref="ani:voliss"/>
+                    <xs:element minOccurs="0" ref="ani:supplement"/>
+                    <xs:choice minOccurs="0">
+                        <xs:element ref="ani:pagerange"/>
+                        <xs:element ref="ani:pages"/>
+                    </xs:choice>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:pagecount"/>
+                </xs:sequence>
+                <xs:sequence>
+                    <xs:choice>
+                        <xs:element ref="ani:pagerange"/>
+                        <xs:element ref="ani:pages"/>
+                        <xs:element ref="ani:pagecount"/>
+                    </xs:choice>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:pagecount"/>
+                </xs:sequence>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="voliss">
+        <xs:complexType>
+            <xs:attribute name="volume"/>
+            <xs:attribute name="issue"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="supplement" type="xs:string"/>
+
+    <xs:element name="pagerange">
+        <xs:complexType>
+            <xs:attribute name="first" use="required"/>
+            <xs:attribute name="last"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="pages" type="xs:string"/>
+    <xs:element name="pagecount">
+        <xs:complexType mixed="true">
+            <xs:attribute name="type" default="arabic">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="arabic"/>
+                        <xs:enumeration value="roman"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="article-number" type="xs:string"/>
+    <xs:element name="publicationyear">
+        <xs:complexType>
+            <xs:attribute name="first" use="required"/>
+            <xs:attribute name="last"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="publicationdate">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:group ref="ani:pubdateType"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="website">
+        <xs:complexType>
+            <xs:choice>
+                <xs:sequence>
+                    <xs:element ref="ani:websitename"/>
+                    <xs:element minOccurs="0" ref="ce:e-address"/>
+                </xs:sequence>
+                <xs:element ref="ce:e-address"/>
+            </xs:choice>
+            <xs:attribute name="type">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="item"/>
+                        <xs:enumeration value="source"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="websitename" type="xs:string"/>
+
+    <xs:element name="editors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:editor"/>
+            </xs:sequence>
+            <xs:attribute name="complete" type="ani:yesno.att" default="y"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="editor">
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="ani:personalnameType">
+                    <xs:attribute name="role"/>
+                    <xs:attribute name="type"/>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="publisher">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:publishername"/>
+                <xs:choice minOccurs="0">
+                    <xs:element ref="ani:publisheraddress"/>
+                    <xs:element ref="ani:affiliation"/>
+                </xs:choice>
+                <xs:element minOccurs="0" ref="ce:e-address"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="publishername" type="xs:string"/>
+    <xs:element name="publisheraddress" type="xs:string"/>
+
+    <xs:element name="additional-srcinfo" type="ani:additionalsrcinfoType"/>
+
+    <xs:complexType name="additionalsrcinfoType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="ani:secondaryjournal"/>
+            <xs:element minOccurs="0" ref="ani:conferenceinfo"/>
+            <xs:element minOccurs="0" ref="ani:reportinfo"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="secondaryjournal">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:sourcetitle"/>
+                <xs:element minOccurs="0" ref="ani:sourcetitle-abbrev"/>
+                <xs:element minOccurs="0" ref="ani:issn"/>
+                <xs:element minOccurs="0" ref="ani:publicationyear"/>
+                <xs:element minOccurs="0" ref="ani:publicationdate"/>
+                <xs:element minOccurs="0" ref="ani:voliss"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="conferenceinfo">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:confevent"/>
+                <xs:element minOccurs="0" ref="ani:confpublication"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confevent">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:confname"/>
+                <xs:element minOccurs="0" ref="ani:confnumber"/>
+                <xs:element minOccurs="0" ref="ani:conftheme"/>
+                <xs:element minOccurs="0" ref="ani:confseriestitle"/>
+                <xs:element minOccurs="0" ref="ani:conflocation"/>
+                <xs:element minOccurs="0" ref="ani:confdate"/>
+                <xs:element minOccurs="0" ref="ani:conforganization"/>
+                <xs:element minOccurs="0" ref="ani:confURL"/>
+                <xs:element minOccurs="0" ref="ani:confcatnumber"/>
+                <xs:element minOccurs="0" ref="ani:confcode"/>
+                <xs:element minOccurs="0" ref="ani:confsponsors"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confname">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confnumber">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="conftheme">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confseriestitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="conflocation">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:venue"/>
+                <xs:element minOccurs="0" ref="ani:address-part"/>
+                <xs:choice minOccurs="0">
+                    <xs:element ref="ani:city-group"/>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" ref="ani:city"/>
+                        <xs:element minOccurs="0" ref="ani:state"/>
+                        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:postal-code"/>
+                    </xs:sequence>
+                </xs:choice>
+            </xs:sequence>
+            <xs:attribute name="country"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="venue" type="xs:string"/>
+    <xs:element name="confdate">
+        <xs:complexType>
+            <xs:choice>
+                <xs:sequence>
+                    <xs:element ref="ani:startdate"/>
+                    <xs:element minOccurs="0" ref="ani:enddate"/>
+                </xs:sequence>
+                <xs:element ref="ani:date-text"/>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="startdate">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="enddate">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="conforganization">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confURL" type="xs:string"/>
+    <xs:element name="confcatnumber" type="xs:string"/>
+    <xs:element name="confcode" type="xs:string"/>
+    <xs:element name="confsponsors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:confsponsor"/>
+            </xs:sequence>
+            <xs:attribute name="complete" type="ani:yesno.att" default="y"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confsponsor" type="xs:string"/>
+    <xs:element name="confpublication">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:confeditors"/>
+                <xs:element minOccurs="0" ref="ani:procpartno"/>
+                <xs:element minOccurs="0" ref="ani:procpagerange"/>
+                <xs:element minOccurs="0" ref="ani:procpagecount"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="confeditors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:editors"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:editororganization"/>
+                <xs:element minOccurs="0" ref="ani:editoraddress"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="editororganization" type="xs:string"/>
+    <xs:element name="editoraddress" type="xs:string"/>
+    <xs:element name="procpartno" type="xs:string"/>
+    <xs:element name="procpagerange" type="xs:string"/>
+    <xs:element name="procpagecount" type="xs:string"/>
+
+    <xs:element name="reportinfo" type="ani:reportnumber"/>
+    <xs:complexType name="reportnumber">
+        <xs:sequence>
+            <xs:element ref="ani:reportnumber"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="reportnumber" type="xs:string"/>
+
+    <xs:element name="bib-text" type="xs:string"/>
+
+    <!-- Patent elements -->
+
+    <xs:element name="patent">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:registrations"/>
+                <xs:element minOccurs="0" ref="ani:localapplications"/>
+                <xs:element minOccurs="0" ref="ani:prioapplications"/>
+                <xs:element minOccurs="0" ref="ani:assignees"/>
+                <xs:element minOccurs="0" ref="ani:designatedcountries"/>
+                <xs:element minOccurs="0" ref="ani:ipc-codes"/>
+                <xs:element minOccurs="0" ref="ani:inventors"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="registrations">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:registration"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="registration" type="xs:string"/>
+    <xs:element name="localapplications">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:localapplication"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="localapplication" type="xs:string"/>
+    <xs:element name="prioapplications">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:prioapplication"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="prioapplication" type="xs:string"/>
+    <xs:element name="assignees">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:assignee"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="assignee" type="xs:string"/>
+    <xs:element name="designatedcountries">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:country"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ipc-codes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:ipc-code"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ipc-code">
+        <xs:complexType mixed="true">
+            <xs:attribute name="seq" type="xs:positiveInteger"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="inventors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:inventor"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="inventor" type="xs:string"/>
+
+    <!-- ========== Abstract elements ========== -->
+
+    <xs:element name="abstracts">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:abstract"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="abstract">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:publishercopyright"/>
+                <xs:element maxOccurs="unbounded" ref="ce:para"/>
+            </xs:sequence>
+            <xs:attribute name="perspective"/>
+            <xs:attribute ref="xml:lang" default="eng"/>
+            <xs:attribute name="original" use="required" type="ani:yesno.att"/>
+            <xs:attribute name="source"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="publishercopyright">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- ========== Enhancements elements ========== -->
+
+    <xs:element name="enhancement" type="ani:enhancementType"/>
+
+    <xs:complexType name="enhancementType">
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="ani:patent"/>
+            <xs:element minOccurs="0" ref="ani:descriptorgroup"/>
+            <xs:element minOccurs="0" ref="ani:API-descriptorgroup"/>
+            <xs:element minOccurs="0" ref="ani:classificationgroup"/>
+            <xs:element minOccurs="0" ref="ani:manufacturergroup"/>
+            <xs:element minOccurs="0" ref="ani:tradenamegroup"/>
+            <xs:element minOccurs="0" ref="ani:sequencebanks"/>
+            <xs:element minOccurs="0" ref="ani:chemicalgroup"/>
+        </xs:sequence>
+        <xs:attribute name="status">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="001"/>
+                    <xs:enumeration value="002"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="type">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="17"/>
+                    <xs:enumeration value="8"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <!-- Descriptor elements -->
+
+    <xs:element name="descriptorgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:descriptors"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="descriptors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:descriptor"/>
+            </xs:sequence>
+            <xs:attribute name="controlled" type="ani:yesno.att" use="required"/>
+            <xs:attribute name="type" type="ani:descriptortype.att" use="required"/>
+            <xs:attribute name="name"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="descriptor" type="ani:descriptorType"/>
+    <xs:complexType name="descriptorType">
+        <xs:sequence>
+            <xs:element ref="ani:mainterm"/>
+            <xs:sequence minOccurs="0" maxOccurs="unbounded">
+                <xs:element ref="ani:link"/>
+                <xs:sequence minOccurs="0" maxOccurs="unbounded">
+                    <xs:element ref="ani:sublink"/>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:subsublink"/>
+                </xs:sequence>
+            </xs:sequence>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="mainterm">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute name="weight" default="b">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="a"/>
+                        <xs:enumeration value="b"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="candidate" type="ani:yesno.att" default="n"/>
+            <xs:attribute name="sort-pos"/>
+            <xs:attribute name="code"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="link">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute name="linknr"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="sublink">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute name="linknr"/>
+        	<xs:attribute name="weight" default="not-defined">
+        		<xs:simpleType>
+        			<xs:restriction base="xs:token">
+        				<xs:enumeration value="a"/>
+        				<xs:enumeration value="b"/>
+        				<xs:enumeration value="not-defined"/>
+        			</xs:restriction>
+        		</xs:simpleType>
+        	</xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="subsublink">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute name="linknr"/>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- API descriptor group elements -->
+
+    <xs:element name="API-descriptorgroup">
+        <xs:complexType>
+            <xs:choice>
+                <xs:element ref="ani:autoposting"/>
+                <xs:sequence>
+                    <xs:element ref="ani:API-groups"/>
+                    <xs:element minOccurs="0" ref="ani:autoposting"/>
+                </xs:sequence>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-groups">
+        <xs:complexType>
+            <xs:choice maxOccurs="unbounded">
+                <xs:element ref="ani:API-ATM-termgroup"/>
+                <xs:element ref="ani:API-LTM-termgroup"/>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-ATM-termgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:ATM-template"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:API-term"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:ATM-Vgroup"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:ATM-Sgroup"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ATM-template">
+        <xs:complexType mixed="true">
+            <xs:attribute name="template-role">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="A"/>
+                        <xs:enumeration value="P"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-term">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+            <xs:attribute name="major-term-indicator">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="M"/>
+                        <xs:enumeration value="N"/>
+                        <xs:enumeration value="P"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="role">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="A"/>
+                        <xs:enumeration value="I"/>
+                        <xs:enumeration value="P"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="group-indicator"/>
+            <xs:attribute name="sort-pos"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ATM-Vgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-term"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:API-termgroup"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ATM-Sgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-term"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:API-termgroup"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-termgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-LTM-termgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="autoposting">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:API-CC"/>
+                <xs:element minOccurs="0" ref="ani:API-LTM"/>
+                <xs:element minOccurs="0" ref="ani:API-ALC"/>
+                <xs:element minOccurs="0" ref="ani:API-ATM-group"/>
+                <xs:element minOccurs="0" ref="ani:API-AMS"/>
+                <xs:element minOccurs="0" ref="ani:API-APC"/>
+                <xs:element minOccurs="0" ref="ani:API-ANC"/>
+                <xs:element minOccurs="0" ref="ani:API-AT"/>
+                <xs:element minOccurs="0" ref="ani:API-CT"/>
+                <xs:element minOccurs="0" ref="ani:API-LT"/>
+                <xs:element minOccurs="0" ref="ani:API-CRN"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-CC">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:classification"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-LTM">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-LTM-group"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-LTM-group">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:autoposting-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-ALC">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:LTM-count"/>
+                <xs:element ref="ani:LT-count"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="LTM-count" type="xs:string"/>
+    <xs:element name="LT-count" type="xs:string"/>
+    <xs:element name="API-ATM-group">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-ATM"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-ATM">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:ATM-template"/>
+                <xs:element minOccurs="0" ref="ani:LT-count"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:API-term"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:ATM-Vgroup"/>
+                <xs:element minOccurs="0" ref="ani:ATM-Sgroup"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-AMS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:API-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-APC">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-ANC">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-AT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:autoposting-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="autoposting-term">
+        <xs:complexType mixed="true">
+            <xs:attribute name="prefix"/>
+            <xs:attribute name="postfix"/>
+            <xs:attribute name="CAS-nr" default="n">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="n"/>
+                        <xs:enumeration value="y"/>
+                        <xs:enumeration value="b"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-CT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:autoposting-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-LT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:API-LT-group"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-LT-group">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:autoposting-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="API-CRN">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:autoposting-term"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Classification elements -->
+
+    <xs:element name="classificationgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:classifications"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="classifications">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:classification"/>
+            </xs:sequence>
+            <xs:attribute name="type" type="ani:classificationtype.att" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="classification" type="ani:classificationType"/>
+    <xs:element name="classification-code" type="xs:string"/>
+    <xs:element name="classification-description" type="xs:string"/>
+
+    <!-- Manufacturer elements -->
+
+    <xs:element name="manufacturergroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:manufacturers"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="manufacturers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:manufacturer"/>
+            </xs:sequence>
+            <xs:attribute name="type" type="ani:manufacturertype.att" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="manufacturer">
+        <xs:complexType mixed="true">
+            <xs:attribute name="country"/>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Tradename elements -->
+
+    <xs:element name="tradenamegroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:tradenames"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="tradenames">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:trademanuitem"/>
+            </xs:sequence>
+            <xs:attribute name="type" type="ani:tradenametype.att" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="trademanuitem">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:tradename"/>
+                <xs:element minOccurs="0" ref="ani:manufacturer"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="tradename" type="xs:string"/>
+
+    <!-- SequenceBankList elements -->
+
+    <xs:element name="sequencebanks">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:sequencebank"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="sequencebank">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:sequence-number"/>
+            </xs:sequence>
+            <xs:attribute name="name" use="required" type="ani:sequencebanktype.att"/>
+            <xs:attribute name="complete" type="ani:yesno.att" default="y"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="sequence-number">
+        <xs:complexType mixed="true">
+            <xs:attributeGroup ref="ani:sequence-number.attlist"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:attributeGroup name="sequence-number.attlist">
+        <xs:attribute name="type" default="referenced">
+            <xs:simpleType>
+                <xs:restriction base="xs:token">
+                    <xs:enumeration value="submitted"/>
+                    <xs:enumeration value="referenced"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:attributeGroup>
+
+    <!-- Chemical group elements -->
+
+    <xs:element name="chemicalgroup">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:chemicals"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="chemicals">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:chemical"/>
+            </xs:sequence>
+            <xs:attribute name="source" type="ani:chemicalsourcetype.att" default="esbd"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="chemical">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:chemical-name"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:cas-registry-number"/>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:enzyme-commission-number"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="chemical-name" type="xs:string"/>
+    <xs:element name="cas-registry-number" type="xs:string"/>
+    <xs:element name="enzyme-commission-number" type="xs:string"/>
+
+
+    <!-- ========== tail ========== -->
+
+    <xs:element name="tail">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:bibliography"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- ReferenceList elements -->
+
+    <xs:element name="bibliography" type="ani:bibliographyType"/>
+
+    <xs:complexType name="bibliographyType">
+        <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:reference"/>
+        </xs:sequence>
+        <xs:attribute name="refcount" use="required"/>
+    </xs:complexType>
+
+    <xs:element name="reference">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ani:ref-info"/>
+                <xs:element minOccurs="0" ref="ani:ref-fulltext"/>
+                <xs:element minOccurs="0" ref="ani:refd-itemcitation"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:NMTOKEN"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ref-info">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:ref-title"/>
+                <xs:element minOccurs="0" ref="ani:refd-itemidlist"/>
+                <xs:element minOccurs="0" ref="ani:ref-authors"/>
+                <xs:element minOccurs="0" ref="ani:ref-sourcetitle"/>
+                <xs:element minOccurs="0" ref="ani:ref-publicationyear"/>
+                <xs:element minOccurs="0" ref="ani:ref-volisspag"/>
+                <xs:element minOccurs="0" ref="ani:ref-website"/>
+                <xs:element minOccurs="0" ref="ani:ref-text"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-title">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:ref-titletext"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-titletext">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="refd-itemidlist">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="ani:itemid"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-authors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element ref="ani:author"/>
+                    <xs:element ref="ani:collaboration"/>
+                </xs:choice>
+                <xs:element minOccurs="0" ref="ani:et-al"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-sourcetitle">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-publicationyear">
+        <xs:complexType>
+            <xs:attribute name="first" use="required"/>
+            <xs:attribute name="last"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-volisspag">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="ani:voliss"/>
+                <xs:choice minOccurs="0">
+                    <xs:element ref="ani:pagerange"/>
+                    <xs:element ref="ani:pages"/>
+                    <xs:element ref="ani:pagecount"/>
+                </xs:choice>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-website">
+        <xs:complexType>
+            <xs:choice>
+                <xs:sequence>
+                    <xs:element ref="ani:websitename"/>
+                    <xs:element minOccurs="0" ref="ce:e-address"/>
+                </xs:sequence>
+                <xs:element ref="ce:e-address"/>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-text">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ref-fulltext">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="refd-itemcitation">
+        <xs:complexType>
+            <xs:choice>
+                <xs:sequence>
+                    <xs:element minOccurs="0" ref="ce:pii"/>
+                    <xs:element minOccurs="0" ref="ce:doi"/>
+                    <xs:element minOccurs="0" ref="ani:citation-title"/>
+                    <xs:element minOccurs="0" ref="ani:author-group"/>
+                    <xs:element minOccurs="0" ref="ani:sourcetitle"/>
+                    <xs:element minOccurs="0" ref="ani:sourcetitle-abbrev"/>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:issn"/>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:isbn"/>
+                    <xs:element minOccurs="0" ref="ani:codencode"/>
+                    <xs:element minOccurs="0" ref="ani:part"/>
+                    <xs:element minOccurs="0" ref="ani:publicationyear"/>
+                    <xs:element minOccurs="0" ref="ani:volisspag"/>
+                    <xs:element minOccurs="0" ref="ani:article-number"/>
+                    <xs:element minOccurs="0" ref="ani:website"/>
+                </xs:sequence>
+                <xs:element ref="ani:ref-text"/>
+            </xs:choice>
+            <xs:attribute name="type"/>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Elsevier shared OpsBank schema elements
+     Version 5.12.3
+    
+     Copyright © 2008-2015 Elsevier B.V.
+     This is open access material under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.elsevier.com/xml/ani/common" xmlns:ani="http://www.elsevier.com/xml/ani/ani" xmlns:ce="http://www.elsevier.com/xml/ani/common">
+
+    <xs:import namespace="http://www.elsevier.com/xml/ani/ani" schemaLocation="ani-ce.xsd"/>
+
+    <xs:element name="initials" type="xs:string"/>
+    <xs:element name="indexed-name" type="xs:string"/>
+    <xs:element name="degrees" type="xs:string"/>
+    <xs:element name="given-name" type="xs:string"/>
+    <xs:element name="surname" type="xs:string"/>
+    <xs:element name="suffix" type="xs:string"/>
+    <xs:element name="pii" type="xs:string"/>
+    <xs:element name="doi" type="xs:string"/>
+
+    <xs:element name="text">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="para">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="e-address">
+        <xs:complexType mixed="true">
+            <xs:attribute name="type" default="email" type="ce:e-addressType"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="e-addressType">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="email"/>
+            <xs:enumeration value="url"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:attributeGroup name="date.att">
+        <xs:attribute name="year" use="required" type="xs:NMTOKEN"/>
+        <xs:attribute name="month" use="required" type="xs:NMTOKEN"/>
+        <xs:attribute name="day" use="required" type="xs:NMTOKEN"/>
+        <xs:attribute name="timestamp"/>
+    </xs:attributeGroup>
+
+</xs:schema>

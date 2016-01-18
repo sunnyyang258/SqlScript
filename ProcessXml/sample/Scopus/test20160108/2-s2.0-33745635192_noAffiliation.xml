@@ -1,0 +1,108 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-33745635192</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.4324/9780203022863</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>600550626</xocs:pui>
+    <xocs:issn />
+    <xocs:volume />
+    <xocs:issue />
+    <xocs:author-surname>DeCarlo</xocs:author-surname>
+    <xocs:author-fi>G</xocs:author-fi>
+    <xocs:firstpage>3</xocs:firstpage>
+    <xocs:lastpage>22</xocs:lastpage>
+    <xocs:sort-year>2013</xocs:sort-year>
+    <xocs:sort-yyyymm>201301</xocs:sort-yyyymm>
+    <xocs:pub-year>2013</xocs:pub-year>
+    <xocs:timestamp>2015-01-20T03:50:19.88832-05:00</xocs:timestamp>
+    <cto:doctype>ch</cto:doctype>
+    <cto:group-id>33745635192</cto:group-id>
+    <cto:unique-author>
+      <cto:auth-initials>G.</cto:auth-initials>
+      <cto:auth-indexed-name>De Carlo G.</cto:auth-indexed-name>
+      <cto:auth-surname>De Carlo</cto:auth-surname>
+      <cto:auth-id>37105841400</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="20" month="01" timestamp="2015-01-20T00:06:43.000043+00:00" year="2015" />
+        <ait:date-sort day="01" month="01" year="2013" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.4324/9780203022863</ce:doi>
+            <itemid idtype="PUI">600550626</itemid>
+            <itemid idtype="CAR-ID">630139630</itemid>
+            <itemid idtype="SNBOOK">2014441023</itemid>
+            <itemid idtype="SCP">33745635192</itemid>
+            <itemid idtype="SGR">33745635192</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="28" month="11" year="2014" />
+          </history>
+          <dbcollection>SNBOOK</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ch" />
+            <citation-language xml:lang="eng" />
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Architecture's public</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="37105841400" seq="1" type="auth">
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>De Carlo G.</ce:indexed-name>
+              <ce:surname>De Carlo</ce:surname>
+              <ce:given-name>Giancarlo</ce:given-name>
+              <preferred-name>
+                <ce:initials>G.</ce:initials>
+                <ce:indexed-name>De Carlo G.</ce:indexed-name>
+                <ce:surname>De Carlo</ce:surname>
+                <ce:given-name>Giancarlo</ce:given-name>
+              </preferred-name>
+            </author>
+          </author-group>
+          <source country="usa" srcid="21100351500" type="b">
+            <sourcetitle>Architecture and Participation</sourcetitle>
+            <sourcetitle-abbrev>Architecture and Participation</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng" />
+            <isbn length="13" type="electronic">9780203022863</isbn>
+            <volisspag>
+              <pagerange first="3" last="22" />
+            </volisspag>
+            <publicationyear first="2013" />
+            <publicationdate>
+              <year>2013</year>
+              <month>01</month>
+              <day>01</day>
+              <date-text xfab-added="true">1 January 2013</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.taylorandfrancis.com/books/details/9780203022863/</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Taylor and Francis</publishername>
+            </publisher>
+          </source>
+          <enhancement>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>2200</classification>
+                <classification>1200</classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

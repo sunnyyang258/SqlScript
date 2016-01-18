@@ -1,0 +1,443 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-0033224742</xocs:eid>
+    <xocs:oeid>2-s1.0-49HK-XHY0-TWC1-C1HK-00000-00</xocs:oeid>
+    <xocs:doi>10.1023/A:1022657929526</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>601039022</xocs:pui>
+    <xocs:issn>0195928X</xocs:issn>
+    <xocs:volume>20</xocs:volume>
+    <xocs:issue>6</xocs:issue>
+    <xocs:author-surname>Chernyak</xocs:author-surname>
+    <xocs:author-fi>Y</xocs:author-fi>
+    <xocs:firstpage>1711</xocs:firstpage>
+    <xocs:lastpage>1719</xocs:lastpage>
+    <xocs:sort-year>2014</xocs:sort-year>
+    <xocs:sort-yyyymm>201401</xocs:sort-yyyymm>
+    <xocs:pub-year>2014</xocs:pub-year>
+    <xocs:timestamp>2015-01-11T07:58:26.963329-05:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>0033224742</cto:group-id>
+    <cto:ref-id>0343583254</cto:ref-id>
+    <cto:ref-id>0040243046</cto:ref-id>
+    <cto:ref-id>0002694188</cto:ref-id>
+    <cto:ref-id>84919900087</cto:ref-id>
+    <cto:ref-id>0003928119</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>Y.</cto:auth-initials>
+      <cto:auth-indexed-name>Chernyak Y.</cto:auth-indexed-name>
+      <cto:auth-surname>Chernyak</cto:auth-surname>
+      <cto:auth-id>7005743016</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>V.P.</cto:auth-initials>
+      <cto:auth-indexed-name>Zhelezny V.P.</cto:auth-indexed-name>
+      <cto:auth-surname>Zhelezny</cto:auth-surname>
+      <cto:auth-id>6603845154</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>A.</cto:auth-initials>
+      <cto:auth-indexed-name>Yokozeki A.</cto:auth-indexed-name>
+      <cto:auth-surname>Yokozeki</cto:auth-surname>
+      <cto:auth-id>12803784900</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="10" month="01" timestamp="2015-01-10T15:02:16.000016+00:00" year="2015" />
+        <ait:date-sort day="01" month="01" year="2014" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.1023/A:1022657929526</ce:doi>
+            <itemid idtype="PUI">601039022</itemid>
+            <itemid idtype="CAR-ID">630949590</itemid>
+            <itemid idtype="CHEM">2015574225</itemid>
+            <itemid idtype="CPX">20150100396353</itemid>
+            <itemid idtype="SCP">0033224742</itemid>
+            <itemid idtype="SGR">0033224742</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="05" month="01" year="2015" />
+          </history>
+          <dbcollection>CHEM</dbcollection>
+          <dbcollection>CPX</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>adsorption</author-keyword>
+              <author-keyword>capillary condensation</author-keyword>
+              <author-keyword>HFC-134a</author-keyword>
+              <author-keyword>HFC-134a/ FC-218 mixture</author-keyword>
+              <author-keyword>phase transition</author-keyword>
+              <author-keyword>PVT measurements</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">The Influence of Adsorption on PVT Measurements in the Gaseous Phase</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="7005743016" seq="1" type="auth">
+              <ce:initials>Y.</ce:initials>
+              <ce:indexed-name>Chernyak Y.</ce:indexed-name>
+              <ce:surname>Chernyak</ce:surname>
+              <preferred-name>
+                <ce:initials>Y.</ce:initials>
+                <ce:indexed-name>Chernyak Y.</ce:indexed-name>
+                <ce:surname>Chernyak</ce:surname>
+                <ce:given-name>Y.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="12803784900" seq="3" type="auth">
+              <ce:initials>A.</ce:initials>
+              <ce:indexed-name>Yokozeki A.</ce:indexed-name>
+              <ce:surname>Yokozeki</ce:surname>
+              <preferred-name>
+                <ce:initials>A.</ce:initials>
+                <ce:indexed-name>Yokozeki A.</ce:indexed-name>
+                <ce:surname>Yokozeki</ce:surname>
+                <ce:given-name>A.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60013676" country="usa">
+              <organization>E. I. du Pont de Nemours and Company, Inc,Wilmington</organization>
+              <city>Delaware</city>
+              <postal-code>19898</postal-code>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <affiliation country="usa">
+              <organization>Chemical Engineering Department, North Carolina State University</organization>
+              <address-part>Box 7905</address-part>
+              <city>Raleigh</city>
+              <state>NC</state>
+              <postal-code>27695</postal-code>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="6603845154" seq="2" type="auth">
+              <ce:initials>V.P.</ce:initials>
+              <ce:indexed-name>Zhelezny V.P.</ce:indexed-name>
+              <ce:surname>Zhelezny</ce:surname>
+              <preferred-name>
+                <ce:initials>V.P.</ce:initials>
+                <ce:indexed-name>Zhelezny V.</ce:indexed-name>
+                <ce:surname>Zhelezny</ce:surname>
+                <ce:given-name>V. P.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="100331942" country="ukr">
+              <organization>State Academy of Refrigeration</organization>
+              <city>Odessa</city>
+              <postal-code>270100</postal-code>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>Y.</ce:initials>
+              <ce:indexed-name>Chernyak Y.</ce:indexed-name>
+              <ce:surname>Chernyak</ce:surname>
+            </person>
+            <affiliation country="usa">
+              <organization>E. I. du Pont de Nemours and Company, Inc,Wilmington</organization>
+              <city>Delaware</city>
+              <postal-code>19898</postal-code>
+            </affiliation>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <publishercopyright>© 1999, Plenum Publishing Corporation.</publishercopyright>
+              <ce:para>PVT measurements of 1,1,1,2-tetrafluoroethane (C<inf>2</inf>H<inf>2</inf>F<inf>4</inf>, HFC-134a) and its blend with octofluoropropane (C<inf>3</inf>F<inf>8</inf>, FC-218) have been performed in the gas phase near the dew curve. The experimental data were obtained by variable-volume and vibrating tube methods. Discrepancies in the behavior of isotherms from their classical behavior were experimentally observed. It was found that the phase transition does not go to completion at a single point of the thermodynamic surface but extends over a limited range of conditions. Obtained results are in accordance with a concept of adsorption of the vapor sample on the surface of the experimental cell. An increase in adsorption under the conditions close to condensation is caused by capillary condensation of the sample at the walls of the cell that initiates an early phase transition. The ranges of diffuse phase transitions were determined for 1,1,1,2-tetrafluoroethane as well as for its mixture with octofluoropropane at different thermodynamic parameters. The influence of selective adsorption on the change in the conditions of phase transition of the 1,1,1,2-tetrafluoroethane/octofluoropropane mixture was also experimentally studied.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="usa" srcid="13762" type="j">
+            <sourcetitle>International Journal of Thermophysics</sourcetitle>
+            <sourcetitle-abbrev>Int J Thermophys</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng">International Journal of Thermophysics</translated-sourcetitle>
+            <issn type="print">0195928X</issn>
+            <codencode>IJTHD</codencode>
+            <volisspag>
+              <voliss issue="6" volume="20" />
+              <pagerange first="1711" last="1719" />
+            </volisspag>
+            <publicationyear first="2014" />
+            <publicationdate>
+              <year>2014</year>
+              <date-text xfab-added="true">2014</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.kluweronline.com/issn/0195-928X</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Springer New York LLC</publishername>
+              <ce:e-address type="email">journals@springer-sbm.com</ce:e-address>
+            </publisher>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="y" type="CCV">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Condensation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Mixtures</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Phase transitions</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Polyols</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Adsorption</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Adsorption isotherms</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Binary mixtures</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Capillarity</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Condensation reactions</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Equations of state</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Thermodynamic properties</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Thermodynamic stability</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="n" type="CFL">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">1 ,1 ,1 ,2-tetrafluoroethane</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Capillary condensation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Classical behavior</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Diffuse phase transitions</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">HFC-134A</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Selective adsorption</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Thermodynamic parameter</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Thermodynamic surface</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CMH">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Adsorption</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Refrigerants</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="n" type="CLU">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Capillary condensation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Octofluoropropane</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Tetrafluoroethane</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Variable volume method</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Vibrating tube method</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>3104</classification>
+                <classification>1507</classification>
+                <classification>1606</classification>
+                <classification>2206</classification>
+                <classification>2211</classification>
+                <classification>3101</classification>
+              </classifications>
+              <classifications type="CPXCLASS">
+                <classification>
+                  <classification-code>801.4</classification-code>
+                  <classification-description>Physical Chemistry</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>802.3</classification-code>
+                  <classification-description>Chemical Operations</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>804.1</classification-code>
+                  <classification-description>Organic Compounds</classification-description>
+                </classification>
+                <classification>631.1</classification>
+                <classification>641.1</classification>
+                <classification>644.2</classification>
+                <classification>802.3</classification>
+                <classification>804.1</classification>
+                <classification>931.2</classification>
+              </classifications>
+              <classifications type="FLXCLASS">
+                <classification>
+                  <classification-code>78.23</classification-code>
+                  <classification-description>MIXING AND SEPARATION</classification-description>
+                </classification>
+              </classifications>
+              <classifications type="SUBJECT">
+                <classification>Engineering and Technology</classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="5">
+            <reference id="1">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0343583254</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.G.</ce:initials>
+                    <ce:indexed-name>Kuleshov G.G.</ce:indexed-name>
+                    <ce:surname>Kuleshov</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Russian J. Phys. Chem.</ref-sourcetitle>
+                <ref-publicationyear first="1984" />
+                <ref-volisspag>
+                  <voliss volume="58" />
+                  <pagerange first="1455" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>G. G. Kuleshov, Russian J. Phys. Chem.58:1455 (1984).</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0040243046</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>B.N.</ce:initials>
+                    <ce:indexed-name>Rolov B.N.</ce:indexed-name>
+                    <ce:surname>Rolov</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Diffuse Phase Transitions</ref-sourcetitle>
+                <ref-publicationyear first="1972" />
+                <ref-text>Zinatne, Riga:</ref-text>
+              </ref-info>
+              <ref-fulltext>B. N. Rolov, Diffuse Phase Transitions (Zinatne, Riga, 1972).</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0002694188</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>V.</ce:initials>
+                    <ce:indexed-name>Zhelezny V.</ce:indexed-name>
+                    <ce:surname>Zhelezny</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Chernyak Y.</ce:indexed-name>
+                    <ce:surname>Chernyak</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Zhelezny P.</ce:indexed-name>
+                    <ce:surname>Zhelezny</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Proc. 4th Asian Thermophys. Prop. Conf.</ref-sourcetitle>
+                <ref-publicationyear first="1995" />
+                <ref-volisspag>
+                  <voliss volume="2" />
+                  <pagerange first="291" last="294" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>V. Zhelezny, Y. Chernyak, and P. Zhelezny, Proc. 4th Asian Thermophys. Prop. Conf,Vol. 2, Tokyo (1995), pp. 291–294.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Presented at 13th Symp. Thermophys. Prop,Boulder</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919900087</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Chernyak Y.</ce:indexed-name>
+                    <ce:surname>Chernyak</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.-P.</ce:initials>
+                    <ce:indexed-name>Chai Kao C.-P.</ce:indexed-name>
+                    <ce:surname>Chai Kao</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Yokozeki A.</ce:indexed-name>
+                    <ce:surname>Yokozeki</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>CO</ref-sourcetitle>
+                <ref-publicationyear first="1997" />
+              </ref-info>
+              <ref-fulltext>Y. Chernyak, C.-P. Chai Kao, and A. Yokozeki, Presented at 13th Symp. Thermophys. Prop,Boulder, CO (1997).</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003928119</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Clark A.</ce:indexed-name>
+                    <ce:surname>Clark</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Theory of Adsorption and Catalysis</ref-sourcetitle>
+                <ref-publicationyear first="1970" />
+                <ref-text>Academic Press, New York/London:</ref-text>
+              </ref-info>
+              <ref-fulltext>A. Clark, The Theory of Adsorption and Catalysis (Academic Press, New York/London, 1970).</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

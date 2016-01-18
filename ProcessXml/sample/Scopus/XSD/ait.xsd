@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Elsevier shared OpsBank schema elements
+     Version 5.12.3
+    
+     Copyright © 2008-2015 Elsevier B.V.
+     This is open access material under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+<!--
+     Permission to copy and distribute verbatim copies of this document is granted,
+     provided this notice is included in all copies, but changing it is not allowed.
+    
+     Documentation is available at http://www.elsevier.com/locate/xml
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.elsevier.com/xml/ani/ait" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common">
+
+    <xs:import namespace="http://www.elsevier.com/xml/ani/common" schemaLocation="ce.xsd"/>
+
+    <xs:element name="process-info">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ait:date-delivered"/>
+                <xs:element ref="ait:date-sort"/>
+                <xs:element ref="ait:status"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="date-delivered">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="date-sort">
+        <xs:complexType>
+            <xs:attributeGroup ref="ce:date.att"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="status">
+        <xs:complexType>
+            <xs:attribute name="type" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="core"/>
+                        <xs:enumeration value="dummy"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="state" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="new"/>
+                        <xs:enumeration value="update"/>
+                        <xs:enumeration value="delete"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="stage" default="S300">
+                <xs:simpleType>
+                    <xs:restriction base="xs:token">
+                        <xs:enumeration value="S100"/>
+                        <xs:enumeration value="S200"/>
+                        <xs:enumeration value="S300"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="priority" type="xs:NMTOKEN"/>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

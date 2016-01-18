@@ -1,0 +1,1060 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-84922481219</xocs:eid>
+    <xocs:oeid />
+    <xocs:pmid>25262506</xocs:pmid>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>603560419</xocs:pui>
+    <xocs:issn>1011601X</xocs:issn>
+    <xocs:volume>27</xocs:volume>
+    <xocs:issue>5</xocs:issue>
+    <xocs:author-surname>Yang</xocs:author-surname>
+    <xocs:author-fi>Q</xocs:author-fi>
+    <xocs:firstpage>1611</xocs:firstpage>
+    <xocs:lastpage>1616</xocs:lastpage>
+    <xocs:sort-year>2014</xocs:sort-year>
+    <xocs:sort-yyyymm>201409</xocs:sort-yyyymm>
+    <xocs:pub-year>2014</xocs:pub-year>
+    <xocs:timestamp>2015-06-15T01:48:42.74709-04:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>84922481219</cto:group-id>
+    <cto:ref-id>84863895298</cto:ref-id>
+    <cto:ref-id>84896876116</cto:ref-id>
+    <cto:ref-id>84866109476</cto:ref-id>
+    <cto:ref-id>11944264183</cto:ref-id>
+    <cto:ref-id>75649090089</cto:ref-id>
+    <cto:ref-id>0037420367</cto:ref-id>
+    <cto:ref-id>10044258525</cto:ref-id>
+    <cto:ref-id>0037958720</cto:ref-id>
+    <cto:ref-id>50849113728</cto:ref-id>
+    <cto:ref-id>84861640593</cto:ref-id>
+    <cto:ref-id>78649695779</cto:ref-id>
+    <cto:ref-id>39449097504</cto:ref-id>
+    <cto:ref-id>66949174348</cto:ref-id>
+    <cto:ref-id>84893430984</cto:ref-id>
+    <cto:ref-id>84878154938</cto:ref-id>
+    <cto:ref-id>77952334434</cto:ref-id>
+    <cto:ref-id>68149183726</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>Q.</cto:auth-initials>
+      <cto:auth-indexed-name>Yang Q.</cto:auth-indexed-name>
+      <cto:auth-surname>Yang</cto:auth-surname>
+      <cto:auth-id>56509730900</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>Z.</cto:auth-initials>
+      <cto:auth-indexed-name>Dai Z.</cto:auth-indexed-name>
+      <cto:auth-surname>Dai</cto:auth-surname>
+      <cto:auth-id>26643629600</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>W.</cto:auth-initials>
+      <cto:auth-indexed-name>Guo W.</cto:auth-indexed-name>
+      <cto:auth-surname>Guo</cto:auth-surname>
+      <cto:auth-id>55278258000</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>Y.</cto:auth-initials>
+      <cto:auth-indexed-name>Chu Y.</cto:auth-indexed-name>
+      <cto:auth-surname>Chu</cto:auth-surname>
+      <cto:auth-id>56583254800</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>G.</cto:auth-initials>
+      <cto:auth-indexed-name>Chen G.</cto:auth-indexed-name>
+      <cto:auth-surname>Chen</cto:auth-surname>
+      <cto:auth-id>56582863300</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered year="2015" month="06" day="14" timestamp="2015-06-14T00:46:25.000025+01:00" />
+        <ait:date-sort year="2014" month="09" day="01" />
+        <ait:status type="core" state="update" stage="S300" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <itemid idtype="PUI">603560419</itemid>
+            <itemid idtype="CAR-ID">634641116</itemid>
+            <itemid idtype="EMBASE">2015899865</itemid>
+            <itemid idtype="MEDL">25262506</itemid>
+            <itemid idtype="SCP">84922481219</itemid>
+            <itemid idtype="SGR">84922481219</itemid>
+          </itemidlist>
+          <history>
+            <date-created year="2015" month="04" day="21" />
+          </history>
+          <dbcollection>EMBASE</dbcollection>
+          <dbcollection>MEDL</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>Catalyst</author-keyword>
+              <author-keyword>Cell-Like particles</author-keyword>
+              <author-keyword>N-isopropylacrylamide</author-keyword>
+              <author-keyword>Temperature-Responsive</author-keyword>
+              <author-keyword>α-Fe&lt;inf&gt;2&lt;/inf&gt;O&lt;inf&gt;3&lt;/inf&gt;</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext xml:lang="eng" original="y">Preparation and catalytic performance of temperature-responsive cell-like particles</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="56509730900" seq="1" type="auth">
+              <ce:initials>Q.</ce:initials>
+              <ce:indexed-name>Yang Q.</ce:indexed-name>
+              <ce:surname>Yang</ce:surname>
+              <ce:given-name>Qiufeng</ce:given-name>
+              <preferred-name>
+                <ce:initials>Q.</ce:initials>
+                <ce:indexed-name>Yang Q.</ce:indexed-name>
+                <ce:surname>Yang</ce:surname>
+                <ce:given-name>Qiufeng</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="26643629600" seq="2" type="auth">
+              <ce:initials>Z.</ce:initials>
+              <ce:indexed-name>Dai Z.</ce:indexed-name>
+              <ce:surname>Dai</ce:surname>
+              <ce:given-name>Zhao</ce:given-name>
+              <preferred-name>
+                <ce:initials>Z.</ce:initials>
+                <ce:indexed-name>Dai Z.</ce:indexed-name>
+                <ce:surname>Dai</ce:surname>
+                <ce:given-name>Zhao</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">daizhao@gmail.com</ce:e-address>
+            </author>
+            <author auid="55278258000" seq="3" type="auth">
+              <ce:initials>W.</ce:initials>
+              <ce:indexed-name>Guo W.</ce:indexed-name>
+              <ce:surname>Guo</ce:surname>
+              <ce:given-name>Wenjuan</ce:given-name>
+              <preferred-name>
+                <ce:initials>W.</ce:initials>
+                <ce:indexed-name>Guo W.</ce:indexed-name>
+                <ce:surname>Guo</ce:surname>
+                <ce:given-name>Wenjuan</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="56583254800" seq="4" type="auth">
+              <ce:initials>Y.</ce:initials>
+              <ce:indexed-name>Chu Y.</ce:indexed-name>
+              <ce:surname>Chu</ce:surname>
+              <ce:given-name>Yuanyuan</ce:given-name>
+              <preferred-name>
+                <ce:initials>Y.</ce:initials>
+                <ce:indexed-name>Chu Y.</ce:indexed-name>
+                <ce:surname>Chu</ce:surname>
+                <ce:given-name>Yuanyuan</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60025569" dptid="104295833" country="chn">
+              <organization>Key Laboratory of Hollow Fiber Membrane Materials and Processes, School of Environmental and Chemical Engineering, Tianjin Polytechnic University</organization>
+              <city>Tianjin</city>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="56582863300" seq="5" type="auth">
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>Chen G.</ce:indexed-name>
+              <ce:surname>Chen</ce:surname>
+              <ce:given-name>Guangping</ce:given-name>
+              <preferred-name>
+                <ce:initials>G.</ce:initials>
+                <ce:indexed-name>Chen G.</ce:indexed-name>
+                <ce:surname>Chen</ce:surname>
+                <ce:given-name>Guangping</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60006514" dptid="109018032" country="usa">
+              <organization>Department of Physiological Sciences, College of Veterinary Medicine, Oklahoma State University</organization>
+              <city>Stillwater</city>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>Z.</ce:initials>
+              <ce:indexed-name>Dai Z.</ce:indexed-name>
+              <ce:surname>Dai</ce:surname>
+              <ce:given-name>Zhao</ce:given-name>
+            </person>
+            <affiliation country="chn">
+              <organization>Key Laboratory of Hollow Fiber Membrane Materials and Processes, School of Environmental and Chemical Engineering, Tianjin Polytechnic University</organization>
+              <city>Tianjin</city>
+            </affiliation>
+          </correspondence>
+          <grantlist complete="y">
+            <grant>
+              <grant-id>21172171</grant-id>
+              <grant-acronym>NSFC</grant-acronym>
+              <grant-agency>National Natural Science Foundation of China</grant-agency>
+            </grant>
+            <grant>
+              <grant-id>21206124</grant-id>
+              <grant-acronym>NSFC</grant-acronym>
+              <grant-agency>National Natural Science Foundation of China</grant-agency>
+            </grant>
+          </grantlist>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>A novel kind of cell-like particles as temperature-responsive catalysts was presented in this paper. First, uniform α-Fe&lt;inf&gt;2&lt;/inf&gt;O&lt;inf&gt;3&lt;/inf&gt; shuttle-like nanoparticles were prepared by homogeneous hydrolysis. Then, these α-Fe&lt;inf&gt;2&lt;/inf&gt;O&lt;inf&gt;3&lt;/inf&gt; particles were coated by Au nanoparticles (AuNPs), SiO&lt;inf&gt;2&lt;/inf&gt; and poly (N-isopropylacrylamide) (PNIPAM), respectively. After the removal of SiO&lt;inf&gt;2&lt;/inf&gt; layer by etching with HF solution, the cell-like particles were prepared when the α-Fe&lt;inf&gt;2&lt;/inf&gt;O&lt;inf&gt;3&lt;/inf&gt;, AuNPs, and PNIPAM were as cell nucleus, catalysts, and cell membranes, respectively. These cell-like particles showed a novel temperature-responsively catalytic performance because the PNIPAM shell could change its hydrophilicity and swelling capacity under different temperature. When the temperature was 25°C, the yield of 4-aminophenol (4-AP) from 4-nitrophenol (4-NP) by reduction of NaBH&lt;inf&gt;4&lt;/inf&gt; was about 100% in 15 min, while the yield of 4-AP was about 90.5% in 40 min. when the temperature was 40°C.</ce:para>
+            </abstract>
+          </abstracts>
+          <source srcid="4000148204" type="j" country="pak">
+            <sourcetitle>Pakistan Journal of Pharmaceutical Sciences</sourcetitle>
+            <sourcetitle-abbrev>Pak. J. Pharma. Sci.</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng">Pakistan Journal of Pharmaceutical Sciences</translated-sourcetitle>
+            <issn type="print">1011601X</issn>
+            <volisspag>
+              <voliss volume="27" issue="5" />
+              <pagerange first="1611" last="1616" />
+            </volisspag>
+            <publicationyear first="2014" />
+            <publicationdate>
+              <year>2014</year>
+              <month>09</month>
+              <day>01</day>
+              <date-text xfab-added="true">1 September 2014</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.pjps.pk/wp-content/uploads/pdfs/27/5/Supplementary/3-SUP-74.pdf</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Pakistan Journal of Pharmaceutical Sciences</publishername>
+            </publisher>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="y" type="DRG">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">4 aminophenol</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="y">ferric oxide nanoparticle</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">gold nanoparticle</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">metal nanoparticle</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">microsphere</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">molecular layer</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">nanocoating</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">poly(n isopropylacrylamide)</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">silica nanoparticle</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">sodium borohydride</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">unclassified drug</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">acrylic acid resin</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">gold</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">metal nanoparticle</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm candidate="y" weight="b">poly-N-isopropylacrylamide</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="MED">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">aqueous solution</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Article</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">cell membrane</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">cell nucleus</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">distillation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">hydrolysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">hydrophilicity</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">nanocatalysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">nanocatalyst</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">nanoencapsulation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">nanofabrication</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">polymerization</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">precipitation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">temperature sensitivity</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">ultraviolet spectroscopy</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">catalysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">chemistry</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">temperature</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="n" type="MSH">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Acrylic Resins</mainterm>
+                  <link>chemistry</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Catalysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Gold</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Metal Nanoparticles</mainterm>
+                  <link>chemistry</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Temperature</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>3003</classification>
+                <classification>2700</classification>
+              </classifications>
+              <classifications type="EMCLASS">
+                <classification>
+                  <classification-code>29</classification-code>
+                  <classification-description>Clinical and Experimental Biochemistry</classification-description>
+                </classification>
+              </classifications>
+            </classificationgroup>
+            <chemicalgroup>
+              <chemicals source="esbd">
+                <chemical>
+                  <chemical-name>4 aminophenol</chemical-name>
+                  <cas-registry-number>123-30-8</cas-registry-number>
+                </chemical>
+                <chemical>
+                  <chemical-name>poly(n isopropylacrylamide)</chemical-name>
+                  <cas-registry-number>25189-55-3</cas-registry-number>
+                </chemical>
+                <chemical>
+                  <chemical-name>sodium borohydride</chemical-name>
+                  <cas-registry-number>16940-66-2</cas-registry-number>
+                </chemical>
+                <chemical>
+                  <chemical-name>gold</chemical-name>
+                  <cas-registry-number>7440-57-5</cas-registry-number>
+                </chemical>
+              </chemicals>
+              <chemicals source="nlm">
+                <chemical>
+                  <chemical-name>Acrylic Resins</chemical-name>
+                </chemical>
+                <chemical>
+                  <chemical-name>Gold</chemical-name>
+                </chemical>
+                <chemical>
+                  <chemical-name>poly-N-isopropylacrylamide</chemical-name>
+                </chemical>
+              </chemicals>
+            </chemicalgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="17">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>An exhaustive review on recent advancement in pharmaceutical bioadhesive used for systemic drug delivery through oral mucosa for achieving maximum pharmacological response and effect</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84863895298</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Behra A.</ce:indexed-name>
+                    <ce:surname>Behra</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.K.</ce:initials>
+                    <ce:indexed-name>Giri T.K.</ce:indexed-name>
+                    <ce:surname>Giri</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>D.T.</ce:initials>
+                    <ce:indexed-name>Krishna D.T.</ce:indexed-name>
+                    <ce:surname>Krishna</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.A.</ce:initials>
+                    <ce:indexed-name>Alexander A.A.</ce:indexed-name>
+                    <ce:surname>Alexander</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Int. J. Pharm.</ref-sourcetitle>
+                <ref-publicationyear first="2012" />
+                <ref-volisspag>
+                  <voliss volume="8" />
+                  <pagerange first="283" last="305" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Behra A, Giri TK, Krishna DT and Alexander AA (2012). An exhaustive review on recent advancement in pharmaceutical bioadhesive used for systemic drug delivery through oral mucosa for achieving maximum pharmacological response and effect. Int. J. Pharm., 8: 283-305.</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ultrafast synthesis of yolk-shell and cubic NiO nanopowders and application in lithium ion batteries</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84896876116</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.H.</ce:initials>
+                    <ce:indexed-name>Choi S.H.</ce:indexed-name>
+                    <ce:surname>Choi</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>Y.C.</ce:initials>
+                    <ce:indexed-name>Kang Y.C.</ce:indexed-name>
+                    <ce:surname>Kang</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>ACS Appl. Mater. Interfaces</ref-sourcetitle>
+                <ref-publicationyear first="2014" />
+                <ref-volisspag>
+                  <voliss volume="6" issue="4" />
+                  <pagerange first="2312" last="2316" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Choi SH and Kang YC (2014). Ultrafast synthesis of yolk-shell and cubic NiO nanopowders and application in lithium ion batteries. ACS Appl. Mater. Interfaces, 6(4): 2312-2316.</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Immunomodulatory effects of poly (ethylene glycol) microspheres adsorbed with cortisol on activity of colostrum phagocytes</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84866109476</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.L.G.</ce:initials>
+                    <ce:indexed-name>Fagundes D.L.G.</ce:indexed-name>
+                    <ce:surname>Fagundes</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>E.L.</ce:initials>
+                    <ce:indexed-name>Franca E.L.</ce:indexed-name>
+                    <ce:surname>Franca</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>C.C.P.</ce:initials>
+                    <ce:indexed-name>Hara C.C.P.</ce:indexed-name>
+                    <ce:surname>Hara</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.C.</ce:initials>
+                    <ce:indexed-name>Honorio-Franca A.C.</ce:indexed-name>
+                    <ce:surname>Honorio-Franca</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Int. J. Pharm.</ref-sourcetitle>
+                <ref-publicationyear first="2012" />
+                <ref-volisspag>
+                  <voliss volume="8" />
+                  <pagerange first="510" last="518" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Fagundes DLG, Franca EL, Hara CCP and Honorio-Franca AC (2012). Immunomodulatory effects of poly (ethylene glycol) microspheres adsorbed with cortisol on activity of colostrum phagocytes. Int. J. Pharm., 8: 510-518.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Preparation and characterization of Au colloid monolayers</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">11944264183</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.C.</ce:initials>
+                    <ce:indexed-name>Grabar K.C.</ce:indexed-name>
+                    <ce:surname>Grabar</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.G.</ce:initials>
+                    <ce:indexed-name>Freeman R.G.</ce:indexed-name>
+                    <ce:surname>Freeman</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.B.</ce:initials>
+                    <ce:indexed-name>Hommer M.B.</ce:indexed-name>
+                    <ce:surname>Hommer</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>M.J.</ce:initials>
+                    <ce:indexed-name>Natan M.J.</ce:indexed-name>
+                    <ce:surname>Natan</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Anal. Chem.</ref-sourcetitle>
+                <ref-publicationyear first="1995" />
+                <ref-volisspag>
+                  <voliss volume="67" />
+                  <pagerange first="735" last="743" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Grabar KC, Freeman RG, Hommer MB and Natan MJ (1995). Preparation and characterization of Au colloid monolayers. Anal. Chem., 67: 735-743.</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ex-post size control of high-temperature-stable yolk-shell Au, @ ZrO2 catalysts</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">75649090089</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Guttel R.</ce:indexed-name>
+                    <ce:surname>Güttel</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Paul M.</ce:indexed-name>
+                    <ce:surname>Paul</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Schuth F.</ce:indexed-name>
+                    <ce:surname>Schüth</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Chem. Commun.</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <voliss volume="46" />
+                  <pagerange first="895" last="897" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Güttel R, Paul M and Schüth F (2010). Ex-post size control of high-temperature-stable yolk-shell Au, @ ZrO2 catalysts. Chem. Commun., 46: 895-897.</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Synthesis and characterization of monodispersed core-shell spherical colloids with movable cores</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037420367</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.</ce:initials>
+                    <ce:indexed-name>Kamata K.</ce:indexed-name>
+                    <ce:surname>Kamata</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Lu Y.</ce:indexed-name>
+                    <ce:surname>Lu</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>Y.N.</ce:initials>
+                    <ce:indexed-name>Xia Y.N.</ce:indexed-name>
+                    <ce:surname>Xia</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Am. Chem. Soc.</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="125" />
+                  <pagerange first="2384" last="2385" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Kamata K, Lu Y and Xia YN (2003). Synthesis and characterization of monodispersed core-shell spherical colloids with movable cores. J. Am. Chem. Soc., 125: 2384-2385.</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Integrated nanoparticlebiomolecule hybrid systems: Synthesis, properties and applications</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">10044258525</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Katz E.</ce:indexed-name>
+                    <ce:surname>Katz</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Willner I.</ce:indexed-name>
+                    <ce:surname>Willner</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Angew. Chem., Int. Ed.</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="43" />
+                  <pagerange first="6042" last="6108" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Katz E and Willner I (2004). Integrated nanoparticlebiomolecule hybrid systems: Synthesis, properties and applications. Angew. Chem., Int. Ed., 43: 6042-6108.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Synthesis of tinencapsulated spherical hollow carbon for anode material in lithium secondary batteries</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037958720</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.T.</ce:initials>
+                    <ce:indexed-name>Lee K.T.</ce:indexed-name>
+                    <ce:surname>Lee</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>Y.S.</ce:initials>
+                    <ce:indexed-name>Jung Y.S.</ce:indexed-name>
+                    <ce:surname>Jung</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.M.</ce:initials>
+                    <ce:indexed-name>Oh S.M.</ce:indexed-name>
+                    <ce:surname>Oh</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Am. Chem. Soc.</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="125" />
+                  <pagerange first="5652" last="5653" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Lee KT, Jung YS and Oh SM (2003). Synthesis of tinencapsulated spherical hollow carbon for anode material in lithium secondary batteries. J. Am. Chem. Soc., 125: 5652-5653.</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>pH-responsive hollow polymeric microspheres and concentric hollow silica microspheres from silicapolymer core-shell microspheres</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">50849113728</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.L.</ce:initials>
+                    <ce:indexed-name>Li G.L.</ce:indexed-name>
+                    <ce:surname>Li</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Liu G.</ce:indexed-name>
+                    <ce:surname>Liu</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>E.T.</ce:initials>
+                    <ce:indexed-name>Kang E.T.</ce:indexed-name>
+                    <ce:surname>Kang</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>K.G.</ce:initials>
+                    <ce:indexed-name>Neoh K.G.</ce:indexed-name>
+                    <ce:surname>Neoh</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>X.L.</ce:initials>
+                    <ce:indexed-name>Yang X.L.</ce:indexed-name>
+                    <ce:surname>Yang</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Langmuir</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="24" />
+                  <pagerange first="9050" last="9055" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Li GL, Liu G, Kang ET, Neoh KG and Yang XL (2008). pH-responsive hollow polymeric microspheres and concentric hollow silica microspheres from silicapolymer core-shell microspheres. Langmuir, 24 : 9050-9055.</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Synthesis of thermoresponsive core-shell microgels cross-linked with acryloyloxyethylaminopolysuccinim-ide</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84861640593</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.Q.</ce:initials>
+                    <ce:indexed-name>Li J.Q.</ce:indexed-name>
+                    <ce:surname>Li</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Asian J. Chem.</ref-sourcetitle>
+                <ref-publicationyear first="2012" />
+                <ref-volisspag>
+                  <voliss volume="24" issue="1" />
+                  <pagerange first="150" last="156" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Li JQ (2012). Synthesis of thermoresponsive core-shell microgels cross-linked with acryloyloxyethylaminopolysuccinim-ide. Asian J. Chem., 24(1): 150-156.</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Synthesis of ellipsoidal hematite/polymer/titania hybrid materials and the corresponding hollow ellipsoidal particles</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">78649695779</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>L.Y.</ce:initials>
+                    <ce:indexed-name>Li L.Y.</ce:indexed-name>
+                    <ce:surname>Li</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.B.</ce:initials>
+                    <ce:indexed-name>Qin D.B.</ce:indexed-name>
+                    <ce:surname>Qin</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>X.L.</ce:initials>
+                    <ce:indexed-name>Yang X.L.</ce:indexed-name>
+                    <ce:surname>Yang</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>G.Y.</ce:initials>
+                    <ce:indexed-name>Liu G.Y.</ce:indexed-name>
+                    <ce:surname>Liu</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Polym. Chem.</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <voliss volume="1" />
+                  <pagerange first="289" last="295" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Li LY, Qin DB, Yang XL and Liu GY (2010). Synthesis of ellipsoidal hematite/polymer/titania hybrid materials and the corresponding hollow ellipsoidal particles. Polym. Chem., 1: 289-295.</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Synthesis of a Au/silica/polymer trilayer composite and the corresponding hollow polymer microsphere with a movable Au core</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">39449097504</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.Y.</ce:initials>
+                    <ce:indexed-name>Liu G.Y.</ce:indexed-name>
+                    <ce:surname>Liu</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.F.</ce:initials>
+                    <ce:indexed-name>Ji H.F.</ce:indexed-name>
+                    <ce:surname>Ji</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>X.L.</ce:initials>
+                    <ce:indexed-name>Yang X.L.</ce:indexed-name>
+                    <ce:surname>Yang</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>Y.M.</ce:initials>
+                    <ce:indexed-name>Wang Y.M.</ce:indexed-name>
+                    <ce:surname>Wang</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Langmuir</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="24" />
+                  <pagerange first="1019" last="1025" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Liu GY, Ji HF, Yang XL and Wang YM (2008). Synthesis of a Au/silica/polymer trilayer composite and the corresponding hollow polymer microsphere with a movable Au core. Langmuir, 24: 1019-1025.</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Synthesis of tri-layer hybrid microspheres with magnetic core and functional polymer shell</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">66949174348</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.Y.</ce:initials>
+                    <ce:indexed-name>Liu G.Y.</ce:indexed-name>
+                    <ce:surname>Liu</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Wang H.</ce:indexed-name>
+                    <ce:surname>Wang</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>X.L.</ce:initials>
+                    <ce:indexed-name>Yang X.L.</ce:indexed-name>
+                    <ce:surname>Yang</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>L.Y.</ce:initials>
+                    <ce:indexed-name>Li L.Y.</ce:indexed-name>
+                    <ce:surname>Li</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Eur. Polym. J.</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <voliss volume="45" />
+                  <pagerange first="2023" last="2032" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Liu GY, Wang H, Yang XL and Li LY (2009). Synthesis of tri-layer hybrid microspheres with magnetic core and functional polymer shell. Eur. Polym. J., 45: 2023-2032.</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Designable yolk-shell nanoparticle @MOF petalous heterostructures</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84893430984</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.Y.</ce:initials>
+                    <ce:indexed-name>Liu Y.Y.</ce:indexed-name>
+                    <ce:surname>Liu</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>W.N.</ce:initials>
+                    <ce:indexed-name>Zhang W.N.</ce:indexed-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.Z.</ce:initials>
+                    <ce:indexed-name>Li S.Z.</ce:indexed-name>
+                    <ce:surname>Li</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>C.L.</ce:initials>
+                    <ce:indexed-name>Cui C.L.</ce:indexed-name>
+                    <ce:surname>Cui</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Wu J.</ce:indexed-name>
+                    <ce:surname>Wu</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>H.Y.</ce:initials>
+                    <ce:indexed-name>Chen H.Y.</ce:indexed-name>
+                    <ce:surname>Chen</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>F.W.</ce:initials>
+                    <ce:indexed-name>Huo F.W.</ce:indexed-name>
+                    <ce:surname>Huo</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Chem. Mater</ref-sourcetitle>
+                <ref-publicationyear first="2014" />
+                <ref-volisspag>
+                  <voliss volume="26" issue="2" />
+                  <pagerange first="1119" last="1125" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Liu YY, Zhang WN, Li SZ, Cui CL, Wu J, Chen HY and Huo FW (2014). Designable yolk-shell nanoparticle @MOF petalous heterostructures. Chem. Mater, 26(2): 1119-1125.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ammonium persulfate-induced graft copolymer based on carboxymethyl cellulose-g-PMAAm-co-PNIPAAm</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84878154938</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Soleimani F.</ce:indexed-name>
+                    <ce:surname>Soleimani</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Sadeghi H.</ce:indexed-name>
+                    <ce:surname>Sadeghi</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Shahsavari H.</ce:indexed-name>
+                    <ce:surname>Shahsavari</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Soleimani A.</ce:indexed-name>
+                    <ce:surname>Soleimani</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Sadeghi F.</ce:indexed-name>
+                    <ce:surname>Sadeghi</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Asian J. Chem.</ref-sourcetitle>
+                <ref-publicationyear first="2013" />
+                <ref-volisspag>
+                  <voliss volume="25" issue="9" />
+                  <pagerange first="5025" last="5028" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Soleimani F, Sadeghi H, Shahsavari H, Soleimani A and Sadeghi F (2013). Ammonium persulfate-induced graft copolymer based on carboxymethyl cellulose-g-PMAAm-co-PNIPAAm. Asian J. Chem., 25(9): 5025-5028.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Kinetic analysis of catalytic reduction of 4-nitrophenol by metallic nanoparticles immobilized in spherical polyelectrolyte brushes</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77952334434</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Wunder S.</ce:indexed-name>
+                    <ce:surname>Wunder</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Polzer F.</ce:indexed-name>
+                    <ce:surname>Polzer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Lu Y.</ce:indexed-name>
+                    <ce:surname>Lu</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Mei Y.</ce:indexed-name>
+                    <ce:surname>Mei</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Ballauff M.</ce:indexed-name>
+                    <ce:surname>Ballauff</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Phys. Chem. C.</ref-sourcetitle>
+                <ref-publicationyear first="2010" />
+                <ref-volisspag>
+                  <voliss volume="114" />
+                  <pagerange first="8814" last="8820" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Wunder S, Polzer F, Lu Y, Mei Y and Ballauff M (2010). Kinetic analysis of catalytic reduction of 4-nitrophenol by metallic nanoparticles immobilized in spherical polyelectrolyte brushes. J. Phys. Chem. C., 114: 8814-8820.</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A general, one-step and template-free route to rattle-type hollow carbon spheres and their application in lithium battery anodes</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">68149183726</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Zheng R.</ce:indexed-name>
+                    <ce:surname>Zheng</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>X.</ce:initials>
+                    <ce:indexed-name>Meng X.</ce:indexed-name>
+                    <ce:surname>Meng</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Tang F.</ce:indexed-name>
+                    <ce:surname>Tang</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Zhang L.</ce:indexed-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Ren J.</ce:indexed-name>
+                    <ce:surname>Ren</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Phys. Chem. C</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <voliss volume="113" issue="30" />
+                  <pagerange first="13065" last="13069" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Zheng R, Meng X, Tang F, Zhang L and Ren J (2009). A general, one-step and template-free route to rattle-type hollow carbon spheres and their application in lithium battery anodes. J. Phys. Chem. C, 113(30): 13065-13069.</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

@@ -1,0 +1,1689 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-70249145010</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.1016/j.buildenv.2009.05.012</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>50558747</xocs:pui>
+    <xocs:pii>S0360132309001310</xocs:pii>
+    <xocs:fulltext-eid score="97">1-s2.0-S0360132309001310</xocs:fulltext-eid>
+    <xocs:issn>03601323</xocs:issn>
+    <xocs:volume>45</xocs:volume>
+    <xocs:issue>1</xocs:issue>
+    <xocs:author-surname>Zengin</xocs:author-surname>
+    <xocs:author-fi>M</xocs:author-fi>
+    <xocs:firstpage>158</xocs:firstpage>
+    <xocs:lastpage>164</xocs:lastpage>
+    <xocs:sort-year>2010</xocs:sort-year>
+    <xocs:sort-yyyymm>201001</xocs:sort-yyyymm>
+    <xocs:pub-year>2010</xocs:pub-year>
+    <xocs:timestamp>2014-08-03T10:32:21.630011-04:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>70249145010</cto:group-id>
+    <cto:ref-id>70249120054</cto:ref-id>
+    <cto:ref-id>70249148060</cto:ref-id>
+    <cto:ref-id>70249126589</cto:ref-id>
+    <cto:ref-id>0011697573</cto:ref-id>
+    <cto:ref-id>70249142552</cto:ref-id>
+    <cto:ref-id>0035498807</cto:ref-id>
+    <cto:ref-id>0037400604</cto:ref-id>
+    <cto:ref-id>34147139932</cto:ref-id>
+    <cto:ref-id>33746020517</cto:ref-id>
+    <cto:ref-id>70249107195</cto:ref-id>
+    <cto:ref-id>17644379944</cto:ref-id>
+    <cto:ref-id>70249094015</cto:ref-id>
+    <cto:ref-id>70249124263</cto:ref-id>
+    <cto:ref-id>70249093673</cto:ref-id>
+    <cto:ref-id>70249118234</cto:ref-id>
+    <cto:ref-id>0036170711</cto:ref-id>
+    <cto:ref-id>1642570453</cto:ref-id>
+    <cto:ref-id>70249088767</cto:ref-id>
+    <cto:ref-id>0003459452</cto:ref-id>
+    <cto:ref-id>0035974517</cto:ref-id>
+    <cto:ref-id>4344644781</cto:ref-id>
+    <cto:ref-id>34249940626</cto:ref-id>
+    <cto:ref-id>33751176074</cto:ref-id>
+    <cto:ref-id>0031139815</cto:ref-id>
+    <cto:ref-id>0030785919</cto:ref-id>
+    <cto:ref-id>0033401230</cto:ref-id>
+    <cto:ref-id>0037332980</cto:ref-id>
+    <cto:ref-id>4744372592</cto:ref-id>
+    <cto:ref-id>23144433069</cto:ref-id>
+    <cto:ref-id>70249094701</cto:ref-id>
+    <cto:ref-id>26444614659</cto:ref-id>
+    <cto:ref-id>70249141708</cto:ref-id>
+    <cto:ref-id>33749054058</cto:ref-id>
+    <cto:ref-id>43949121934</cto:ref-id>
+    <cto:ref-id>67349130799</cto:ref-id>
+    <cto:ref-id>70249083845</cto:ref-id>
+    <cto:ref-id>42149089204</cto:ref-id>
+    <cto:ref-id>34447311380</cto:ref-id>
+    <cto:ref-id>70249124653</cto:ref-id>
+    <cto:ref-id>70249145122</cto:ref-id>
+    <cto:ref-id>0022219973</cto:ref-id>
+    <cto:ref-id>70249130195</cto:ref-id>
+    <cto:ref-id>70249127974</cto:ref-id>
+    <cto:ref-id>70249085626</cto:ref-id>
+    <cto:ref-id>70249097065</cto:ref-id>
+    <cto:ref-id>70249121502</cto:ref-id>
+    <cto:ref-id>70249131543</cto:ref-id>
+    <cto:ref-id>70249109438</cto:ref-id>
+    <cto:ref-id>70249103190</cto:ref-id>
+    <cto:ref-id>70249115639</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>M.</cto:auth-initials>
+      <cto:auth-indexed-name>Zengin M.</cto:auth-indexed-name>
+      <cto:auth-surname>Zengin</cto:auth-surname>
+      <cto:auth-id>6701651311</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>I.</cto:auth-initials>
+      <cto:auth-indexed-name>Kopar I.</cto:auth-indexed-name>
+      <cto:auth-surname>Kopar</cto:auth-surname>
+      <cto:auth-id>26653498800</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>F.</cto:auth-initials>
+      <cto:auth-indexed-name>Karahan F.</cto:auth-indexed-name>
+      <cto:auth-surname>Karahan</cto:auth-surname>
+      <cto:auth-id>56286389100</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="03" month="08" timestamp="2014-08-03T12:47:11.000011+01:00" year="2014" />
+        <ait:date-sort day="01" month="01" year="2010" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2009 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:pii>S0360132309001310</ce:pii>
+            <ce:doi>10.1016/j.buildenv.2009.05.012</ce:doi>
+            <itemid idtype="PUI">50558747</itemid>
+            <itemid idtype="GEO">3355075</itemid>
+            <itemid idtype="FLX">753070</itemid>
+            <itemid idtype="CPX">20093812322051</itemid>
+            <itemid idtype="EMBIO">2009259098</itemid>
+            <itemid idtype="SCP">70249145010</itemid>
+            <itemid idtype="SGR">70249145010</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="24" month="06" year="2009" />
+          </history>
+          <dbcollection>GEO</dbcollection>
+          <dbcollection>FLX</dbcollection>
+          <dbcollection>CPX</dbcollection>
+          <dbcollection>EMBIO</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>Bioclimatic comfort</author-keyword>
+              <author-keyword>Expressway corridor</author-keyword>
+              <author-keyword>Geographic information system (GIS)</author-keyword>
+              <author-keyword>Inverse distance weighted (IDW)</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Determination of bioclimatic comfort in Erzurum-Rize expressway corridor using GIS</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="6701651311" seq="1">
+              <ce:initials>M.</ce:initials>
+              <ce:indexed-name>Zengin M.</ce:indexed-name>
+              <ce:surname>Zengin</ce:surname>
+              <ce:given-name>Murat</ce:given-name>
+              <preferred-name>
+                <ce:initials>M.</ce:initials>
+                <ce:indexed-name>Zengin M.</ce:indexed-name>
+                <ce:surname>Zengin</ce:surname>
+                <ce:given-name>Murat</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="56286389100" seq="3">
+              <ce:initials>F.</ce:initials>
+              <ce:indexed-name>Karahan F.</ce:indexed-name>
+              <ce:surname>Karahan</ce:surname>
+              <ce:given-name>Faris</ce:given-name>
+              <preferred-name>
+                <ce:initials>F.</ce:initials>
+                <ce:indexed-name>Karahan F.</ce:indexed-name>
+                <ce:surname>Karahan</ce:surname>
+                <ce:given-name>Faris</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">fkarahan@atauni.edu.tr</ce:e-address>
+            </author>
+            <affiliation afid="60000021" country="tur" dptid="103034885">
+              <organization>Department of Landscape Architecture</organization>
+              <organization>Faculty of Agriculture</organization>
+              <organization>Atatürk University</organization>
+              <city-group>25240 Erzurum</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="26653498800" seq="2">
+              <ce:initials>I.</ce:initials>
+              <ce:indexed-name>Kopar I.</ce:indexed-name>
+              <ce:surname>Kopar</ce:surname>
+              <ce:given-name>Ibrahim</ce:given-name>
+              <preferred-name>
+                <ce:initials>I.</ce:initials>
+                <ce:indexed-name>Kopar I.</ce:indexed-name>
+                <ce:surname>Kopar</ce:surname>
+                <ce:given-name>Ibrahim</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60000021" country="tur" dptid="107879638">
+              <organization>Department of Physical Geography</organization>
+              <organization>Faculty of Literature</organization>
+              <organization>Atatürk University</organization>
+              <city-group>25240 Erzurum</city-group>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>F.</ce:initials>
+              <ce:indexed-name>Karahan F.</ce:indexed-name>
+              <ce:surname>Karahan</ce:surname>
+            </person>
+            <affiliation country="tur">
+              <organization>Department of Landscape Architecture</organization>
+              <organization>Faculty of Agriculture</organization>
+              <organization>Atatürk University</organization>
+              <city-group>25240 Erzurum</city-group>
+            </affiliation>
+            <ce:e-address type="email">fkarahan@atauni.edu.tr</ce:e-address>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>In this study, topographical and climatical conditions are prescinded all along Erzurum-Rize expressway corridors to appoint the areas which have bioclimatic comfort in summer season (June, July, August). For this purpose, the climate data (temperature, relative humidity, wind speed) from nine different stations was entered in the digital data base. By dint of ArcGIS 9.1 software, climatic data were analysed and numerological maps were produced by Inverse Distance Weighted (IDW) interpolation method. As a method, bioclimatically comfortable areas consists of: relative humidity between 30 and 65%, temperature between 15 and 20 °C, and wind speed up to 5 m/s. The maps were scored as 0 for uncomfortable and 1 for comfortable and superposed, and bioclimatic comfort area (temperature: 1-relative humidity: 1-wind speed: 1) were determined. Besides, topographic factors were appreciated. As a result of this study, it is concerned that the area (452749 ha. % 63); beginning from south of the Mountains Mescit which is started by Black Sea coastline to Mountain Mescit (3230 m) is out of bioclimatic comfort region; the Erzurum depression (1758 m) beginning from the Mountains Mescit has been determined that area has bioclimatic comfort conditions. As a consequence, it is confirmed that one of the ideal area which has bioclimatic comfort is the Erzurum depression area in Turkey. © 2009 Elsevier Ltd. All rights reserved.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="gbr" srcid="26874" type="j">
+            <sourcetitle>Building and Environment</sourcetitle>
+            <sourcetitle-abbrev>Build. Environ.</sourcetitle-abbrev>
+            <issn type="print">03601323</issn>
+            <codencode>BUEND</codencode>
+            <volisspag>
+              <voliss issue="1" volume="45" />
+              <pagerange first="158" last="164" />
+            </volisspag>
+            <publicationyear first="2010" />
+            <publicationdate>
+              <year>2010</year>
+              <month>01</month>
+              <date-text xfab-added="true">January 2010</date-text>
+            </publicationdate>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="n" type="CFL">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Bioclimatic comfort</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Black sea</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Climate data</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Climatic data</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Comfort conditions</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Digital datas</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Erzurum</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Expressway corridor</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Interpolation method</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Inverse distance weighted</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Inverse distance weighted (IDW)</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Relative humidities</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Summer season</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Wind speed</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Wind speed-up</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CCV">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Geographic information systems</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Information systems</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Landforms</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Moisture</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Wind effects</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CMH">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Atmospheric humidity</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="GDE">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">air temperature</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">bioclimatology</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">climate conditions</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">database</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">GIS</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">interpolation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">map</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">relative humidity</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">software</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">topography</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">wind velocity</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="RGI">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Erzurum [Turkey]</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Eurasia</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Turkey</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>2205</classification>
+                <classification>2305</classification>
+                <classification>3305</classification>
+                <classification>2215</classification>
+              </classifications>
+              <classifications type="CPXCLASS">
+                <classification>
+                  <classification-code>903.3</classification-code>
+                  <classification-description>Information Retrieval and Use</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>903.2</classification-code>
+                  <classification-description>Information Dissemination</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>801.4</classification-code>
+                  <classification-description>Physical Chemistry</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>723.3</classification-code>
+                  <classification-description>Database Systems</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>481.1</classification-code>
+                  <classification-description>Geology</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>443.1</classification-code>
+                  <classification-description>Atmospheric Properties</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>408.1</classification-code>
+                  <classification-description>Structural Design, General</classification-description>
+                </classification>
+              </classifications>
+              <classifications type="GEOCLASS">
+                <classification>
+                  <classification-code>software and systems</classification-code>
+                </classification>
+                <classification>
+                  <classification-code>79.22</classification-code>
+                  <classification-description>THE ATMOSPHERE</classification-description>
+                </classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="50">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Determining of bioclimatic comfort structure of Suleyman Demirel University East Campuses situated in the back of Mediterranean Region</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249120054</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Topay M.</ce:indexed-name>
+                    <ce:surname>Topay</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Cinar I.</ce:indexed-name>
+                    <ce:surname>Çinar</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Geophysical Research Abstracts</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="10" />
+                </ref-volisspag>
+                <ref-text>[EGU General Assembly]</ref-text>
+              </ref-info>
+              <ref-fulltext>Topay M., and Çi{dotless}nar I. Determining of bioclimatic comfort structure of Suleyman Demirel University East Campuses situated in the back of Mediterranean Region. Geophysical Research Abstracts 10 (2008) [EGU General Assembly]</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Perceptions and expectations of thermal comfort in the Philippines</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249148060</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.M.</ce:initials>
+                    <ce:indexed-name>Andamon M.M.</ce:indexed-name>
+                    <ce:surname>Andamon</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.J.</ce:initials>
+                    <ce:indexed-name>Williamson T.J.</ce:indexed-name>
+                    <ce:surname>Williamson</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>V.I.</ce:initials>
+                    <ce:indexed-name>Soebarto V.I.</ce:indexed-name>
+                    <ce:surname>Soebarto</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Proceedings of conference: Comfort and energy use in buildings-getting them right. Cumberland Lodge</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <pagerange first="1" last="20" />
+                </ref-volisspag>
+                <ref-text>Windsor, UK;</ref-text>
+              </ref-info>
+              <ref-fulltext>Andamon MM, Williamson TJ, Soebarto VI. Perceptions and expectations of thermal comfort in the Philippines. In: Proceedings of conference: comfort and energy use in buildings-getting them right. Cumberland Lodge, Windsor, UK; 2006. p. 1-20.</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Climate and bioclimate information for tourism in Greece; in Developments in Tourism Climatology</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249126589</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Matzarakis A.</ce:indexed-name>
+                    <ce:surname>Matzarakis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>third International Workshop on Climate, Tourism and Recreation, Alexandroupolis</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Greece;</ref-text>
+              </ref-info>
+              <ref-fulltext>Matzarakis A. Climate and bioclimate information for tourism in Greece; in Developments in Tourism Climatology. In: third International Workshop on Climate, Tourism and Recreation, Alexandroupolis, Greece; 2007.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0011697573</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Humphreys M.</ce:indexed-name>
+                    <ce:surname>Humphreys</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Nicol F.</ce:indexed-name>
+                    <ce:surname>Nicol</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Roaf S.</ce:indexed-name>
+                    <ce:surname>Roaf</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>O.</ce:initials>
+                    <ce:indexed-name>Sykes O.</ce:indexed-name>
+                    <ce:surname>Sykes</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Standards for thermal comfort: indoor air temperature standards for the 21st century. Taylor &amp; Francis Press:</ref-sourcetitle>
+                <ref-publicationyear first="1995" />
+                <ref-text>ISBN: 978-0419-20420-6</ref-text>
+              </ref-info>
+              <ref-fulltext>Humphreys M., Nicol F., Roaf S., and Sykes O. Standards for thermal comfort: indoor air temperature standards for the 21st century. Taylor &amp; Francis Press: (1995) ISBN: 978-0419-20420-6</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Determination and evaluation of climate parameters effecting landscape features of Bartin and its environs</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249142552</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Yilmaz B.</ce:indexed-name>
+                    <ce:surname>Yilmaz</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Forest Faculty of ZKU Bartin</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="9" />
+                  <pagerange first="33" last="41" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Yilmaz B. Determination and evaluation of climate parameters effecting landscape features of Bartin and its environs. Journal of Forest Faculty of ZKU Bartin 9 (2006) 33-41</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Biometeorology and recreation in east Mediterranean forests</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0035498807</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Schiller G.</ce:indexed-name>
+                    <ce:surname>Schiller</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Landscape and Urban Planning</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-volisspag>
+                  <voliss volume="57" />
+                  <pagerange first="1" last="12" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Schiller G. Biometeorology and recreation in east Mediterranean forests. Landscape and Urban Planning 57 (2001) 1-12</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A field study of thermal comfort in outdoor and semi-outdoor environments in subtropical Sydney Australia</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037400604</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Spagnolo J.</ce:indexed-name>
+                    <ce:surname>Spagnolo</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>de Dear R.</ce:indexed-name>
+                    <ce:surname>de Dear</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="38" />
+                  <pagerange first="721" last="738" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Spagnolo J., and de Dear R. A field study of thermal comfort in outdoor and semi-outdoor environments in subtropical Sydney Australia. Building and Environment 38 (2003) 721-738</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thermal mass activation by hollow core slab coupled with night ventilation to reduce summer cooling loads</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34147139932</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.P.</ce:initials>
+                    <ce:indexed-name>Corgnati S.P.</ce:indexed-name>
+                    <ce:surname>Corgnati</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Kindinis A.</ce:indexed-name>
+                    <ce:surname>Kindinis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="42" />
+                  <pagerange first="3285" last="3297" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Corgnati S.P., and Kindinis A. Thermal mass activation by hollow core slab coupled with night ventilation to reduce summer cooling loads. Building and Environment 42 (2007) 3285-3297</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Assessment of the microclimatic and human comfort conditions in a complex urban environment: modelling and measurements</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33746020517</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Gulyas A.</ce:indexed-name>
+                    <ce:surname>Gulyas</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Unger J.</ce:indexed-name>
+                    <ce:surname>Unger</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Matzarakis A.</ce:indexed-name>
+                    <ce:surname>Matzarakis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="41" />
+                  <pagerange first="1713" last="1722" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gulyas A., Unger J., and Matzarakis A. Assessment of the microclimatic and human comfort conditions in a complex urban environment: modelling and measurements. Building and Environment 41 (2006) 1713-1722</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Selected examples of bioclimatic analysis applying the physiologically equivalent temperature in Hungary</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249107195</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Gulyas A.</ce:indexed-name>
+                    <ce:surname>Gulyas</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Matzarakis A.</ce:indexed-name>
+                    <ce:surname>Matzarakis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Acta Climatologica et Chorologica</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="40-41" />
+                  <pagerange first="37" last="46" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gulyas A., and Matzarakis A. Selected examples of bioclimatic analysis applying the physiologically equivalent temperature in Hungary. Acta Climatologica et Chorologica 40-41 (2007) 37-46</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Acoustic, thermal and luminous comfort in classrooms</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">17644379944</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.L.</ce:initials>
+                    <ce:indexed-name>Kruger E.L.</ce:indexed-name>
+                    <ce:surname>Krüger</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.H.T.</ce:initials>
+                    <ce:indexed-name>Zannin P.H.T.</ce:indexed-name>
+                    <ce:surname>Zannin</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="39" />
+                  <pagerange first="1055" last="1063" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Krüger E.L., and Zannin P.H.T. Acoustic, thermal and luminous comfort in classrooms. Building and Environment 39 (2004) 1055-1063</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249094015</itemid>
+                </refd-itemidlist>
+                <ref-text>Shakir AK. Thermal Comfort Modelling of an Open Space (Sport Stadium) A thesis submitted for the degree: MSc Energy Systems &amp; the Environment Faculty of Engineering, Department of Mechanical Engineering Energy Systems, Research Unit University of Strathclyde, Glasgow UK; 2006.</ref-text>
+              </ref-info>
+              <ref-fulltext>Shakir AK. Thermal Comfort Modelling of an Open Space (Sport Stadium) A thesis submitted for the degree: MSc Energy Systems &amp; the Environment Faculty of Engineering, Department of Mechanical Engineering Energy Systems, Research Unit University of Strathclyde, Glasgow UK; 2006.</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Effects of climatical changes on landscape design and applications</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249124263</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Aklanoglu F.</ce:indexed-name>
+                    <ce:surname>Aklanoglu</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>International conference of global climate change and its environmental impacts</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <pagerange first="3" last="102" />
+                </ref-volisspag>
+                <ref-text>Konya, Turkey;</ref-text>
+              </ref-info>
+              <ref-fulltext>Aklanoglu F. Effects of climatical changes on landscape design and applications. In: International conference of global climate change and its environmental impacts. Konya, Turkey; 2007. p. 3-102.</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Bioclimate and tourism potential in national parks of Taiwan, in developments in tourism climatology</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249093673</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.P.</ce:initials>
+                    <ce:indexed-name>Lin T.P.</ce:indexed-name>
+                    <ce:surname>Lin</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Matzarakis A.</ce:indexed-name>
+                    <ce:surname>Matzarakis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>third international workshop on climate, tourism and recreation, Alexandroupolis</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Greece;</ref-text>
+              </ref-info>
+              <ref-fulltext>Lin TP, Matzarakis A. Bioclimate and tourism potential in national parks of Taiwan, in developments in tourism climatology. In: third international workshop on climate, tourism and recreation, Alexandroupolis, Greece; 2007.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>New climatological-and-physiological model of the human heat balance outdoor and its applications in bioclimatological studies in different sites</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249118234</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.</ce:initials>
+                    <ce:indexed-name>Blazejczyk K.</ce:indexed-name>
+                    <ce:surname>Blazejczyk</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Bioclimatic Research of the Human Heat Balance</ref-sourcetitle>
+                <ref-publicationyear first="1994" />
+                <ref-volisspag>
+                  <pages>29, 34, 37</pages>
+                </ref-volisspag>
+                <ref-text>Warszawa;</ref-text>
+              </ref-info>
+              <ref-fulltext>Blazejczyk K. New climatological-and-physiological model of the human heat balance outdoor and its applications in bioclimatological studies in different sites, in Bioclimatic Research of the Human Heat Balance, Warszawa; 1994. pp. 29, 34, 37.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A comparative simple method for human bioclimatic conditions applies to seasonally hot/warm cities of Mexico</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0036170711</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Tejeda-Martinez A.</ce:indexed-name>
+                    <ce:surname>Tejeda-Martinez</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>O.R.</ce:initials>
+                    <ce:indexed-name>Garcia-Cueto O.R.</ce:indexed-name>
+                    <ce:surname>Garcia-Cueto</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Atmosfera</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-volisspag>
+                  <voliss volume="15" />
+                  <pagerange first="55" last="66" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Tejeda-Martinez A., and Garcia-Cueto O.R. A comparative simple method for human bioclimatic conditions applies to seasonally hot/warm cities of Mexico. Atmosfera 15 (2002) 55-66</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thermal bioclimatic conditions and patterns of behavior in an urban park in Göteborg, Sweden</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">1642570453</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Thorsson S.</ce:indexed-name>
+                    <ce:surname>Thorsson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Lindqvist M.</ce:indexed-name>
+                    <ce:surname>Lindqvist</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Lindqvist S.</ce:indexed-name>
+                    <ce:surname>Lindqvist</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>International Journal of Biometeorology</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="48" />
+                  <pagerange first="149" last="156" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Thorsson S., Lindqvist M., and Lindqvist S. Thermal bioclimatic conditions and patterns of behavior in an urban park in Göteborg, Sweden. International Journal of Biometeorology 48 (2004) 149-156</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The possibilities to benefit GIS in determining bioclimatic comfort areas; a case study of Muǧla province</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249088767</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Topay M.</ce:indexed-name>
+                    <ce:surname>Topay</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Yilmaz B.</ce:indexed-name>
+                    <ce:surname>Yilmaz</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>third International Geographical Information Systems: IT Days</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <pagerange first="1" last="12" />
+                </ref-volisspag>
+                <ref-text>İstanbul, Turkey</ref-text>
+              </ref-info>
+              <ref-fulltext>Topay M, Yilmaz B. The possibilities to benefit GIS in determining bioclimatic comfort areas; a case study of Muǧla province. In: third International Geographical Information Systems: IT Days, İstanbul, Turkey, 2004. p. 1-12.</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003459452</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>V.</ce:initials>
+                    <ce:indexed-name>Olgyay V.</ce:indexed-name>
+                    <ce:surname>Olgyay</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Design with climate, bioclimatic approach to architectural regionalism</ref-sourcetitle>
+                <ref-publicationyear first="1973" />
+                <ref-text>Princeton University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Olgyay V. Design with climate, bioclimatic approach to architectural regionalism (1973), Princeton University Press</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Green zones, bioclimatics studies and human comfort in the future development of urban planning</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0035974517</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Gomez F.</ce:indexed-name>
+                    <ce:surname>Gomez</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Tamarit N.</ce:indexed-name>
+                    <ce:surname>Tamarit</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Jabaloyes J.</ce:indexed-name>
+                    <ce:surname>Jabaloyes</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Landscape and Urban Planning</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-volisspag>
+                  <voliss volume="55" />
+                  <pagerange first="151" last="161" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gomez F., Tamarit N., and Jabaloyes J. Green zones, bioclimatics studies and human comfort in the future development of urban planning. Landscape and Urban Planning 55 (2001) 151-161</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Recovery of Spanish vernacular construction as a model of bioclimatic architecture</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">4344644781</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Canas I.</ce:indexed-name>
+                    <ce:surname>Canas</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Martin S.</ce:indexed-name>
+                    <ce:surname>Martin</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="39" />
+                  <pagerange first="1477" last="1495" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Canas I., and Martin S. Recovery of Spanish vernacular construction as a model of bioclimatic architecture. Building and Environment 39 (2004) 1477-1495</ref-fulltext>
+            </reference>
+            <reference id="22">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Main influences on the design philosophy and knowledge basis to bioclimatic integration into architectural design-the example of best practices</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34249940626</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.A.</ce:initials>
+                    <ce:indexed-name>Maciel A.A.</ce:indexed-name>
+                    <ce:surname>Maciel</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.</ce:initials>
+                    <ce:indexed-name>Ford B.</ce:indexed-name>
+                    <ce:surname>Ford</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Lamberts R.</ce:indexed-name>
+                    <ce:surname>Lamberts</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="42" />
+                  <pagerange first="3762" last="3773" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Maciel A.A., Ford B., and Lamberts R. Main influences on the design philosophy and knowledge basis to bioclimatic integration into architectural design-the example of best practices. Building and Environment 42 (2007) 3762-3773</ref-fulltext>
+            </reference>
+            <reference id="23">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Determination of bioclimatic comfort in three different land uses in the city of Erzurum, Turkey</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33751176074</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Toy S.</ce:indexed-name>
+                    <ce:surname>Toy</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Yilmaz S.</ce:indexed-name>
+                    <ce:surname>Yilmaz</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Yilmaz H.</ce:indexed-name>
+                    <ce:surname>Yilmaz</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="42" />
+                  <pagerange first="1315" last="1318" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Toy S., Yilmaz S., and Yilmaz H. Determination of bioclimatic comfort in three different land uses in the city of Erzurum, Turkey. Building and Environment 42 (2007) 1315-1318</ref-fulltext>
+            </reference>
+            <reference id="24">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Optimum thermal design of air-conditioned residential buildings</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0031139815</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Al-Homoud M.</ce:indexed-name>
+                    <ce:surname>Al-Homoud</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="1997" />
+                <ref-volisspag>
+                  <voliss issue="3" volume="32" />
+                  <pagerange first="203" last="210" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Al-Homoud M. Optimum thermal design of air-conditioned residential buildings. Building and Environment 32 3 (1997) 203-210</ref-fulltext>
+            </reference>
+            <reference id="25">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thermal performance of traditional and contemporary housing in the cool season of Zambia</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0030785919</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Malama A.</ce:indexed-name>
+                    <ce:surname>Malama</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Sharples S.</ce:indexed-name>
+                    <ce:surname>Sharples</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="1997" />
+                <ref-volisspag>
+                  <voliss volume="32" />
+                  <pagerange first="69" last="78" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Malama A., and Sharples S. Thermal performance of traditional and contemporary housing in the cool season of Zambia. Building and Environment 32 (1997) 69-78</ref-fulltext>
+            </reference>
+            <reference id="26">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Report on thermal comfort and building energy studies in Jakarta-Indonesia</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0033401230</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.H.</ce:initials>
+                    <ce:indexed-name>Karyono T.H.</ce:indexed-name>
+                    <ce:surname>Karyono</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-volisspag>
+                  <voliss volume="35" />
+                  <pagerange first="77" last="90" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Karyono T.H. Report on thermal comfort and building energy studies in Jakarta-Indonesia. Building and Environment 35 (2000) 77-90</ref-fulltext>
+            </reference>
+            <reference id="27">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Temperature variations in a housing of the semi-arid region of Djelfa (Algeria)</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037332980</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.Y.</ce:initials>
+                    <ce:indexed-name>Ettoumi F.Y.</ce:indexed-name>
+                    <ce:surname>Ettoumi</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Messen N.</ce:indexed-name>
+                    <ce:surname>Messen</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.H.</ce:initials>
+                    <ce:indexed-name>Adane A.H.</ce:indexed-name>
+                    <ce:surname>Adane</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Sauvageot H.</ce:indexed-name>
+                    <ce:surname>Sauvageot</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="38" />
+                  <pagerange first="511" last="519" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Ettoumi F.Y., Messen N., Adane A.H., and Sauvageot H. Temperature variations in a housing of the semi-arid region of Djelfa (Algeria). Building and Environment 38 (2003) 511-519</ref-fulltext>
+            </reference>
+            <reference id="28">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A methodology for the qualitative analysis of wind natural ventilation as a strategy for improving the thermal comfort in open spaces</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">4744372592</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.G.</ce:initials>
+                    <ce:indexed-name>Capeluto I.G.</ce:indexed-name>
+                    <ce:surname>Capeluto</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss volume="40" />
+                  <pagerange first="175" last="181" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Capeluto I.G. A methodology for the qualitative analysis of wind natural ventilation as a strategy for improving the thermal comfort in open spaces. Building and Environment 40 (2005) 175-181</ref-fulltext>
+            </reference>
+            <reference id="29">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thermal comfort implications of urbanization in a warm-humid city: the Colombo Metropolitan Region (CMR), Sri Lanka</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">23144433069</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Emmanuel R.</ce:indexed-name>
+                    <ce:surname>Emmanuel</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss volume="40" />
+                  <pagerange first="1591" last="1601" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Emmanuel R. Thermal comfort implications of urbanization in a warm-humid city: the Colombo Metropolitan Region (CMR), Sri Lanka. Building and Environment 40 (2005) 1591-1601</ref-fulltext>
+            </reference>
+            <reference id="30">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Modeling thermal comfort in stratified environments, Center for Environmental Design Research Center for the Built Environment (University of California, Berkeley)</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249094701</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Zhang H.</ce:indexed-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Huizenga C.</ce:indexed-name>
+                    <ce:surname>Huizenga</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Arens E.</ce:indexed-name>
+                    <ce:surname>Arens</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Yu T.</ce:indexed-name>
+                    <ce:surname>Yu</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Proceedings of Indoor Air</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <pagerange first="133" last="137" />
+                </ref-volisspag>
+                <ref-text>Beijing</ref-text>
+              </ref-info>
+              <ref-fulltext>Zhang H, Huizenga C, Arens E, Yu T. Modeling thermal comfort in stratified environments, Center for Environmental Design Research Center for the Built Environment (University of California, Berkeley). In: Proceedings of Indoor Air 2005, Beijing, 133-137.</ref-fulltext>
+            </reference>
+            <reference id="31">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Numerical study on the effects of aspect ratio and orientation of an urban street canyon on outdoor thermal comfort in hot and dry climate</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">26444614659</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.A.</ce:initials>
+                    <ce:indexed-name>Toudert F.A.</ce:indexed-name>
+                    <ce:surname>Toudert</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Mayer H.</ce:indexed-name>
+                    <ce:surname>Mayer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="41" />
+                  <pagerange first="94" last="108" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Toudert F.A., and Mayer H. Numerical study on the effects of aspect ratio and orientation of an urban street canyon on outdoor thermal comfort in hot and dry climate. Building and Environment 41 (2006) 94-108</ref-fulltext>
+            </reference>
+            <reference id="32">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Modeling human thermal comfort</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249141708</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Airaksinen M.</ce:indexed-name>
+                    <ce:surname>Airaksinen</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Tuomaala P.</ce:indexed-name>
+                    <ce:surname>Tuomaala</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Holopainen R.</ce:indexed-name>
+                    <ce:surname>Holopainen</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Proceedings of Clima 2007 WellBeing Indoors, VTT</ref-sourcetitle>
+                <ref-text>Finland</ref-text>
+              </ref-info>
+              <ref-fulltext>Airaksinen M, Tuomaala P, Holopainen R. Modeling human thermal comfort. In: Proceedings of Clima 2007 WellBeing Indoors, VTT, Finland.</ref-fulltext>
+            </reference>
+            <reference id="33">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>On the use of bioclimatic architecture principles in order to improve thermal comfort conditions in outdoor spaces</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33749054058</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Gaitani N.</ce:indexed-name>
+                    <ce:surname>Gaitani</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Mihalakakou G.</ce:indexed-name>
+                    <ce:surname>Mihalakakou</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Santamouris M.</ce:indexed-name>
+                    <ce:surname>Santamouris</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="42" />
+                  <pagerange first="317" last="324" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gaitani N., Mihalakakou G., and Santamouris M. On the use of bioclimatic architecture principles in order to improve thermal comfort conditions in outdoor spaces. Building and Environment 42 (2007) 317-324</ref-fulltext>
+            </reference>
+            <reference id="34">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thermal, emotional and perceptual evaluations of a park cross-cultural and environmental attitude comparisons</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">43949121934</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Knez I.</ce:indexed-name>
+                    <ce:surname>Knez</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Thorsson S.</ce:indexed-name>
+                    <ce:surname>Thorsson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="43" />
+                  <pagerange first="1483" last="1490" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Knez I., and Thorsson S. Thermal, emotional and perceptual evaluations of a park cross-cultural and environmental attitude comparisons. Building and Environment 43 (2008) 1483-1490</ref-fulltext>
+            </reference>
+            <reference id="35">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thermal perception, adaptation and attendance in a public square in hot and humid regions</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">67349130799</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.P.</ce:initials>
+                    <ce:indexed-name>Lin T.P.</ce:indexed-name>
+                    <ce:surname>Lin</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Building and Environment</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <voliss issue="10" volume="44" />
+                  <pagerange first="2017" last="2026" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Lin TP. Thermal perception, adaptation and attendance in a public square in hot and humid regions. Building and Environment 2009;44(10):2017-26.</ref-fulltext>
+            </reference>
+            <reference id="36">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Climate change = tourism change? - the likely impacts of climate change on tourism in Germany's north sea coast destinations, in developments in tourism climatology</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249083845</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Willms J.</ce:indexed-name>
+                    <ce:surname>Willms</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>third International workshop on climate, tourism and recreation, Alexandroupolis</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Greece;</ref-text>
+              </ref-info>
+              <ref-fulltext>Willms J. Climate change = tourism change? - the likely impacts of climate change on tourism in Germany's north sea coast destinations, in developments in tourism climatology. In: third International workshop on climate, tourism and recreation, Alexandroupolis, Greece; 2007.</ref-fulltext>
+            </reference>
+            <reference id="37">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A second generation climate index for tourism (CIT): specification and verification</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">42149089204</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.R.</ce:initials>
+                    <ce:indexed-name>de Freitas C.R.</ce:indexed-name>
+                    <ce:surname>de Freitas</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Scott D.</ce:indexed-name>
+                    <ce:surname>Scott</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>McBoyle G.</ce:indexed-name>
+                    <ce:surname>McBoyle</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>International Journal of Biometeorology</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="52" />
+                  <pagerange first="399" last="407" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>de Freitas C.R., Scott D., and McBoyle G. A second generation climate index for tourism (CIT): specification and verification. International Journal of Biometeorology 52 (2008) 399-407</ref-fulltext>
+            </reference>
+            <reference id="38">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Climate and behaviour in a Nordic city</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34447311380</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Eliasson I.</ce:indexed-name>
+                    <ce:surname>Eliasson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Knez I.</ce:indexed-name>
+                    <ce:surname>Knez</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>U.</ce:initials>
+                    <ce:indexed-name>Westerberg U.</ce:indexed-name>
+                    <ce:surname>Westerberg</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Thorsson S.</ce:indexed-name>
+                    <ce:surname>Thorsson</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Lindberg F.</ce:indexed-name>
+                    <ce:surname>Lindberg</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Landscape and Urban Planning</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="82" />
+                  <pagerange first="72" last="84" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Eliasson I., Knez I., Westerberg U., Thorsson S., and Lindberg F. Climate and behaviour in a Nordic city. Landscape and Urban Planning 82 (2007) 72-84</ref-fulltext>
+            </reference>
+            <reference id="39">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249124653</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>K.E.</ce:initials>
+                    <ce:indexed-name>Hyslop K.E.</ce:indexed-name>
+                    <ce:surname>Hyslop</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Climate change impacts on visitation in National Parks in the United States</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Master of Environmental Studies in Geography, Waterloo, Ontario, Canada</ref-text>
+              </ref-info>
+              <ref-fulltext>Hyslop K.E. Climate change impacts on visitation in National Parks in the United States (2007), Master of Environmental Studies in Geography, Waterloo, Ontario, Canada</ref-fulltext>
+            </reference>
+            <reference id="40">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249145122</itemid>
+                </refd-itemidlist>
+                <ref-text>Perch-Nielsen SL. Climate change and tourism intertwined, dissertation, Zurich; 2008.</ref-text>
+              </ref-info>
+              <ref-fulltext>Perch-Nielsen SL. Climate change and tourism intertwined, dissertation, Zurich; 2008.</ref-fulltext>
+            </reference>
+            <reference id="41">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The tourism climatic index: a method of evaluating world climates for tourism</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0022219973</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Z.</ce:initials>
+                    <ce:indexed-name>Mieczkowski Z.</ce:indexed-name>
+                    <ce:surname>Mieczkowski</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Canadian Geographer</ref-sourcetitle>
+                <ref-publicationyear first="1985" />
+                <ref-volisspag>
+                  <voliss issue="3" volume="29" />
+                  <pagerange first="220" last="233" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Mieczkowski Z. The tourism climatic index: a method of evaluating world climates for tourism. The Canadian Geographer 29 3 (1985) 220-233</ref-fulltext>
+            </reference>
+            <reference id="42">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249130195</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Karahan F.</ce:indexed-name>
+                    <ce:surname>Karahan</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Landscape planning and possibilities as a scenic byway for Erzurum Rize Highway Corridor, Atatürk University, Graduate</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-text>School of Science Institute, Doctorate Thesis, Erzurum;</ref-text>
+              </ref-info>
+              <ref-fulltext>Karahan F. Landscape planning and possibilities as a scenic byway for Erzurum Rize Highway Corridor, Atatürk University, Graduate School of Science Institute, Doctorate Thesis, Erzurum; 2003.</ref-fulltext>
+            </reference>
+            <reference id="43">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249127974</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Topographical Maps (1/100,000), The Turkish Ministry of National Defense, Turish General Commanding of Map</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-text>MSB, Ankara;</ref-text>
+              </ref-info>
+              <ref-fulltext>MSB. Topographical Maps (1/100,000), The Turkish Ministry of National Defense, Turish General Commanding of Map, Ankara; 1993.</ref-fulltext>
+            </reference>
+            <reference id="44">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249085626</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Smith M.</ce:indexed-name>
+                    <ce:surname>Smith</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Climwat for Cropwat</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-text>FAO irrigation and drainage paper 49, Rome;</ref-text>
+              </ref-info>
+              <ref-fulltext>Smith M. Climwat for Cropwat: FAO irrigation and drainage paper 49, Rome; 1993.</ref-fulltext>
+            </reference>
+            <reference id="45">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249097065</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Climatical data of the National Meteorological Institute</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>DMIGM, Ankara;</ref-text>
+              </ref-info>
+              <ref-fulltext>DMIGM. Climatical data of the National Meteorological Institute, Ankara; 2008.</ref-fulltext>
+            </reference>
+            <reference id="46">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249121502</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Cinar I.</ce:indexed-name>
+                    <ce:surname>Cinar</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Determining of bioclimatic comfort for physical planning using bioclimatic data, case study of Fethiye settlement, Ege University, Graduate</ref-sourcetitle>
+                <ref-publicationyear first="1999" />
+                <ref-text>School of Science Institute, master thesis. Izmir;</ref-text>
+              </ref-info>
+              <ref-fulltext>Cinar İ. Determining of bioclimatic comfort for physical planning using bioclimatic data, case study of Fethiye settlement, Ege University, Graduate School of Science Institute, master thesis. Izmir; 1999.</ref-fulltext>
+            </reference>
+            <reference id="47">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The importance of climate for recreational planning of rural areas; case study of Mugla Province, in Developments in Tourism Climatology</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249131543</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Topay M.</ce:indexed-name>
+                    <ce:surname>Topay</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>third International Workshop on Climate, Tourism and Recreation, Alexandroupolis</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Greece;</ref-text>
+              </ref-info>
+              <ref-fulltext>Topay M. The importance of climate for recreational planning of rural areas; case study of Mugla Province, in Developments in Tourism Climatology. In: third International Workshop on Climate, Tourism and Recreation, Alexandroupolis, Greece; 2007.</ref-fulltext>
+            </reference>
+            <reference id="48">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249109438</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.</ce:initials>
+                    <ce:indexed-name>Cinar I.</ce:indexed-name>
+                    <ce:surname>Cinar</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Studying bioclimatic comfort criteria for landscape planning progress, case study of Muǧla-Karabaǧlar plateau, Ege University, Graduate</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-text>School of Science Institute, doctorate thesis. Izmir;</ref-text>
+              </ref-info>
+              <ref-fulltext>Cinar İ. Studying bioclimatic comfort criteria for landscape planning progress, case study of Muǧla-Karabaǧlar plateau, Ege University, Graduate School of Science Institute, doctorate thesis. Izmir; 2004.</ref-fulltext>
+            </reference>
+            <reference id="49">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249103190</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:indexed-name>ESRI</ce:indexed-name>
+                    <ce:surname>ESRI</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-publicationyear first="2009" />
+                <ref-website>
+                  <ce:e-address type="url">http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm%3FTopicName%3DHow_Kriging_works</ce:e-address>
+                </ref-website>
+                <ref-text>[accessed 22.02.09]</ref-text>
+              </ref-info>
+              <ref-fulltext>ESRI (2009). http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=How_Kriging_works [accessed 22.02.09]</ref-fulltext>
+            </reference>
+            <reference id="50">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70249115639</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>O.</ce:initials>
+                    <ce:indexed-name>Erol O.</ce:indexed-name>
+                    <ce:surname>Erol</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>General climatalogy</ref-sourcetitle>
+                <ref-publicationyear first="1999" />
+                <ref-text>Cantay Bookstore, İstanbul ISBN: 9789757206316. 5:1-445</ref-text>
+              </ref-info>
+              <ref-fulltext>Erol O. General climatalogy (1999), Cantay Bookstore, İstanbul ISBN: 9789757206316. 5:1-445</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

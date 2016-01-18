@@ -1,0 +1,54 @@
+	<xs:complexType name="author-keyword-tp" mixed="true">
+		<xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+	</xs:complexType>
+	
+	
+	<xs:complexType name="abstract-tp">
+		<xs:sequence>
+			<xs:element name="publishercopyright" type="xocs:publishercopyright-tp" minOccurs="0" form="unqualified"/>
+			<xs:element maxOccurs="unbounded" ref="ce:para"/>
+		</xs:sequence>
+		<xs:attribute name="perspective"/>
+		<xs:attribute ref="xml:lang" default="eng"/>
+		<xs:attribute name="original" use="required" type="xocs:yesno.att"/>
+		<xs:attribute name="source"/>
+	</xs:complexType>
+	
+	<xs:complexType name="sourcetitle-tp" mixed="true">
+		<xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+		<xs:attribute name="xfab-added" use="optional" type="xs:boolean"/>
+	</xs:complexType>
+	
+	<xs:complexType name="organization-tp" mixed="true">
+		<xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+	</xs:complexType>
+	
+	
+	<xs:group name="richstring.data">
+		<xs:sequence>
+			<xs:choice minOccurs="0">
+				<xs:element name="sup" type="ani:sup-tp" form="unqualified"/>
+				<xs:element name="inf" type="ani:inf-tp" form="unqualified"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:group>
+	
+	
+
+--update c
+--set c.[SourceQueryColumn]='.'  --text(); Abstract
+--from  [Scopus].[config].[XMLParseConfig] c
+--where c.[ID]=6
+;
+
+--update c
+--set c.[SourceQueryColumn]='sourcetitle/.'  --sourcetitle/text();JournalOrCollectionName
+--from  [Scopus].[config].[XMLParseConfig] c
+--where c.[ID]=12
+--;
+
+--update c
+--set c.[SourceQueryColumn]='.'  --text();OrganisationName
+--from  [Scopus].[config].[XMLParseConfig] c
+--where c.[ID]=57
+--;

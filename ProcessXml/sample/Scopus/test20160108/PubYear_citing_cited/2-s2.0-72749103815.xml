@@ -1,0 +1,651 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-72749103815</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.4324/9781849773607</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>603460896</xocs:pui>
+    <xocs:issn />
+    <xocs:volume />
+    <xocs:issue />
+    <xocs:author-surname>Bammer</xocs:author-surname>
+    <xocs:author-fi>G</xocs:author-fi>
+    <xocs:firstpage>27</xocs:firstpage>
+    <xocs:lastpage>41</xocs:lastpage>
+    <xocs:sort-year>2012</xocs:sort-year>
+    <xocs:sort-yyyymm>201201</xocs:sort-yyyymm>
+    <xocs:pub-year>2012</xocs:pub-year>
+    <xocs:timestamp>2015-04-03T08:03:40.528986-04:00</xocs:timestamp>
+    <cto:doctype>ch</cto:doctype>
+    <cto:group-id>72749103815</cto:group-id>
+    <cto:ref-id>27444446935</cto:ref-id>
+    <cto:ref-id>84923028699</cto:ref-id>
+    <cto:ref-id>84925702820</cto:ref-id>
+    <cto:ref-id>84925808281</cto:ref-id>
+    <cto:ref-id>84925737824</cto:ref-id>
+    <cto:ref-id>84925808280</cto:ref-id>
+    <cto:ref-id>67650701847</cto:ref-id>
+    <cto:ref-id>76149109173</cto:ref-id>
+    <cto:ref-id>33745560102</cto:ref-id>
+    <cto:ref-id>84870889708</cto:ref-id>
+    <cto:ref-id>84925820022</cto:ref-id>
+    <cto:ref-id>0003604463</cto:ref-id>
+    <cto:ref-id>0004087755</cto:ref-id>
+    <cto:ref-id>0004104185</cto:ref-id>
+    <cto:ref-id>0027489394</cto:ref-id>
+    <cto:ref-id>84925808279</cto:ref-id>
+    <cto:ref-id>0004263429</cto:ref-id>
+    <cto:ref-id>34147117907</cto:ref-id>
+    <cto:ref-id>0003732903</cto:ref-id>
+    <cto:ref-id>0003733325</cto:ref-id>
+    <cto:ref-id>0004633993</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>G.</cto:auth-initials>
+      <cto:auth-indexed-name>Bammer G.</cto:auth-indexed-name>
+      <cto:auth-surname>Bammer</cto:auth-surname>
+      <cto:auth-id>7004628683</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="02" month="04" timestamp="2015-04-02T23:00:25.000025+01:00" year="2015" />
+        <ait:date-sort day="01" month="01" year="2012" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.4324/9781849773607</ce:doi>
+            <itemid idtype="PUI">603460896</itemid>
+            <itemid idtype="CAR-ID">634450866</itemid>
+            <itemid idtype="SNBOOK">2015640503</itemid>
+            <itemid idtype="SCP">72749103815</itemid>
+            <itemid idtype="SGR">72749103815</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="01" month="04" year="2015" />
+          </history>
+          <dbcollection>SNBOOK</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ch" />
+            <citation-language xml:lang="eng" />
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Adopting orphans: Uncertainty and other neglected aspects of complex problems</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="7004628683" seq="1" type="auth">
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>Bammer G.</ce:indexed-name>
+              <ce:degrees>Prof.</ce:degrees>
+              <ce:surname>Bammer</ce:surname>
+              <ce:given-name>Gabriele</ce:given-name>
+              <preferred-name>
+                <ce:initials>G.</ce:initials>
+                <ce:indexed-name>Bammer G.</ce:indexed-name>
+                <ce:surname>Bammer</ce:surname>
+                <ce:given-name>Gabriele</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">Gabriele.Bammer@anu.edu.au</ce:e-address>
+            </author>
+            <affiliation afid="60008950" country="aus" dptid="103494077">
+              <organization>National Centre for Epidemiology and Population Health, The Australian National University</organization>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>Bammer G.</ce:indexed-name>
+              <ce:degrees>Prof.</ce:degrees>
+              <ce:surname>Bammer</ce:surname>
+              <ce:given-name>Gabriele</ce:given-name>
+            </person>
+            <affiliation country="aus">
+              <organization>National Centre for Epidemiology and Population Health, The Australian National University</organization>
+            </affiliation>
+          </correspondence>
+          <source country="gbr" srcid="21100381830" type="b">
+            <sourcetitle>Uncertainty and Risk: Multidisciplinary Perspectives</sourcetitle>
+            <sourcetitle-abbrev>Uncertain. and Risk: Multidisciplinary Perspectives</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng" />
+            <isbn length="13" type="print">9781849773607</isbn>
+            <volisspag>
+              <pagerange first="27" last="41" />
+            </volisspag>
+            <publicationyear first="2012" />
+            <publicationdate>
+              <year>2012</year>
+              <month>01</month>
+              <day>01</day>
+              <date-text xfab-added="true">1 January 2012</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.taylorandfrancis.com/books/details/9781849773607/</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Taylor and Francis</publishername>
+            </publisher>
+          </source>
+          <enhancement>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>2000</classification>
+                <classification>1400</classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="21">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Integration and Implementation Sciences: Building a new specialization</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">27444446935</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Ecology and Society</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss issue="2" volume="10" />
+                </ref-volisspag>
+                <ref-website>
+                  <ce:e-address type="email">www.ecologyandsociety.org/vol10/iss2/art6/</ce:e-address>
+                </ref-website>
+                <ref-text>article 6</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. (2005) 'Integration and Implementation Sciences: Building a new specialization', Ecology and Society, vol 10, no 2, article 6, www.ecologyandsociety.org/vol10/iss2/art6/</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A systematic approach to integration in research</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84923028699</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Integration Insights</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss issue="1" />
+                </ref-volisspag>
+                <ref-website>
+                  <ce:e-address type="email">www.anu.edu.au/iisn</ce:e-address>
+                </ref-website>
+                <ref-text>September, accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. (2006) 'A systematic approach to integration in research', Integration Insights, no 1, September, www.anu.edu.au/iisn, accessed 25 July 2007</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Key concepts underpinning research integration</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84925702820</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Integration Insights</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss issue="5" />
+                </ref-volisspag>
+                <ref-website>
+                  <ce:e-address type="email">www.anu.edu.au/iisn</ce:e-address>
+                </ref-website>
+                <ref-text>May, accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. (2007a) 'Key concepts underpinning research integration', Integration Insights, no 5, May, www.anu.edu.au/iisn, accessed 25 July 2007</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Enhancing research collaboration: Three key management challenges</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84925808281</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Research Policy</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>under review</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. (2007b) 'Enhancing research collaboration: Three key management challenges', Research Policy, under review</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Improving the management of ignorance and uncertainty. A case illustrating integration in collaboration</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84925737824</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                  <collaboration seq="1">
+                    <ce:indexed-name>Goolabri Group</ce:indexed-name>
+                    <ce:text>Goolabri Group</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Handbook of Collaborative Management Research</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <pagerange first="421" last="437" />
+                </ref-volisspag>
+                <ref-text>A. B. Shani, S. A. Mohrman, W. A. Pasmore, B. Stymne and N. Adler (eds), Sage, Thousand Oaks, CA</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. and the Goolabri Group (2007) 'Improving the management of ignorance and uncertainty. A case illustrating integration in collaboration', in A. B. Shani, S. A. Mohrman, W. A. Pasmore, B. Stymne and N. Adler (eds) Handbook of Collaborative Management Research, Sage, Thousand Oaks, CA, pp421-437</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Dialogue methods for research integration</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84925808280</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>McDonald D.</ce:indexed-name>
+                    <ce:surname>McDonald</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Deane P.</ce:indexed-name>
+                    <ce:surname>Deane</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Integration Insights</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss issue="4" />
+                </ref-volisspag>
+                <ref-website>
+                  <ce:e-address type="email">www.anu.edu.au/iisn</ce:e-address>
+                </ref-website>
+                <ref-text>May, accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G., McDonald, D. and Deane, P. (2007) 'Dialogue methods for research integration', Integration Insights, no 4, May, www.anu.edu.au/iisn, accessed 25 July 2007</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">67650701847</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Cochrane collaboration</ref-sourcetitle>
+                <ref-website>
+                  <ce:e-address type="email">www.cochrane.org</ce:e-address>
+                </ref-website>
+                <ref-text>accessed 25 July 2005</ref-text>
+              </ref-info>
+              <ref-fulltext>Cochrane collaboration (n.d.) www.cochrane.org, accessed 25 July 2005</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Implementing a process for integration research: Ecosystem Services Project, Australia</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">76149109173</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.J.</ce:initials>
+                    <ce:indexed-name>Cork S.J.</ce:indexed-name>
+                    <ce:surname>Cork</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>W.</ce:initials>
+                    <ce:indexed-name>Proctor W.</ce:indexed-name>
+                    <ce:surname>Proctor</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Research Practice</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss issue="2" volume="1" />
+                </ref-volisspag>
+                <ref-website>
+                  <ce:e-address type="email">http://jrp.icaap.org/index.php/jrp/article/view/15/34</ce:e-address>
+                </ref-website>
+                <ref-text>Article M6</ref-text>
+              </ref-info>
+              <ref-fulltext>Cork, S. J. and Proctor, W. (2005) 'Implementing a process for integration research: Ecosystem Services Project, Australia', Journal of Research Practice, vol 1, no 2, Article M6, http://jrp.icaap.org/index.php/jrp/article/view/15/34</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Forms of conversation and problem structuring methods: A conceptual development</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33745560102</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>L.A.</ce:initials>
+                    <ce:indexed-name>Franco L.A.</ce:indexed-name>
+                    <ce:surname>Franco</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of the Operational Research Society</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="57" />
+                  <pagerange first="813" last="821" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Franco, L. A. (2006) 'Forms of conversation and problem structuring methods: A conceptual development', Journal of the Operational Research Society, vol 57, pp813-821</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84870889708</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Global Footprint Network</ref-sourcetitle>
+                <ref-website>
+                  <ce:e-address type="email">www.footprintnetwork.org</ce:e-address>
+                </ref-website>
+                <ref-text>accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>Global Footprint Network (n.d.) www.footprintnetwork.org, accessed 25 July 2007</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84925820022</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>McDonald D.</ce:indexed-name>
+                    <ce:surname>McDonald</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Deane P.</ce:indexed-name>
+                    <ce:surname>Deane</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Dialogue methods for research integration in natural resource management</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>unpublished report</ref-text>
+              </ref-info>
+              <ref-fulltext>McDonald, D., Bammer, G. and Deane, P. (2007) 'Dialogue methods for research integration in natural resource management', unpublished report</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003604463</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Midgley G.</ce:indexed-name>
+                    <ce:surname>Midgley</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Systemic Intervention: Philosophy, Methodology and Practice</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-text>Kluwer Academic/Plenum Publishers, New York</ref-text>
+              </ref-info>
+              <ref-fulltext>Midgley, G. (2000) Systemic Intervention: Philosophy, Methodology and Practice, Kluwer Academic/Plenum Publishers, New York</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004087755</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>I.B.</ce:initials>
+                    <ce:indexed-name>Myers I.B.</ce:indexed-name>
+                    <ce:surname>Myers</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.B.</ce:initials>
+                    <ce:indexed-name>Myers P.B.</ce:indexed-name>
+                    <ce:surname>Myers</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Gifts Differing: Understanding Personality Type</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-text>CPP Books, Palo Alto, CA</ref-text>
+              </ref-info>
+              <ref-fulltext>Myers, I. B. with Myers, P. B. (1993) Gifts Differing: Understanding Personality Type, CPP Books, Palo Alto, CA</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004104185</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>W.L.</ce:initials>
+                    <ce:indexed-name>Neuman W.L.</ce:indexed-name>
+                    <ce:surname>Neuman</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Social Research Methods: Qualitative and Quantitative Approaches</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-text>(fifth edition), Allyn and Bacon, Boston, MA</ref-text>
+              </ref-info>
+              <ref-fulltext>Neuman, W. L. (2003) Social Research Methods: Qualitative and Quantitative Approaches (fifth edition), Allyn and Bacon, Boston, MA</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The ethics of experimental heroin maintenance</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0027489394</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Ostini R.</ce:indexed-name>
+                    <ce:surname>Ostini</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Dance P.</ce:indexed-name>
+                    <ce:surname>Dance</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Goodin R.</ce:indexed-name>
+                    <ce:surname>Goodin</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Medical Ethics</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-volisspag>
+                  <voliss volume="19" />
+                  <pagerange first="175" last="182" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Ostini, R., Bammer, G., Dance, P. and Goodin, R. (1993) 'The ethics of experimental heroin maintenance', Journal of Medical Ethics, vol 19, pp175-182</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84925808279</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Resources for Developing Unifying Concepts and Toolboxes for Systems Thinking and Practice</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-website>
+                  <ce:e-address type="email">www.anu.edu.au/iisn/index.php?action=systems</ce:e-address>
+                </ref-website>
+                <ref-text>accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>Resources for Developing Unifying Concepts and Toolboxes for Systems Thinking and Practice (2006), www.anu.edu.au/iisn/index.php?action=systems, accessed 25 July 2007</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004263429</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Rhodes R.</ce:indexed-name>
+                    <ce:surname>Rhodes</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Making of the Atomic Bomb</ref-sourcetitle>
+                <ref-publicationyear first="1986" />
+                <ref-text>Simon and Schuster, London</ref-text>
+              </ref-info>
+              <ref-fulltext>Rhodes, R. (1986) The Making of the Atomic Bomb, Simon and Schuster, London</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Effective drug policy: A new approach demonstrated in the Drug Policy Modelling Program</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34147117907</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Ritter A.</ce:indexed-name>
+                    <ce:surname>Ritter</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Hamilton M.</ce:indexed-name>
+                    <ce:surname>Hamilton</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Mazerolle L.</ce:indexed-name>
+                    <ce:surname>Mazerolle</ce:surname>
+                  </author>
+                  <collaboration seq="1">
+                    <ce:indexed-name>the DPMP Team</ce:indexed-name>
+                    <ce:text>the DPMP Team</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Drug and Alcohol Review</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="26" />
+                  <pagerange first="265" last="271" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Ritter, A., Bammer, G., Hamilton, M., Mazerolle, L. and the DPMP Team (2007) 'Effective drug policy: A new approach demonstrated in the Drug Policy Modelling Program', Drug and Alcohol Review, vol 26, pp265-271</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003732903</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Smithson M.</ce:indexed-name>
+                    <ce:surname>Smithson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Ignorance and Uncertainty: Emerging Paradigms</ref-sourcetitle>
+                <ref-publicationyear first="1989" />
+                <ref-text>Springer-Verlag, New York</ref-text>
+              </ref-info>
+              <ref-fulltext>Smithson, M. (1989) Ignorance and Uncertainty: Emerging Paradigms, Springer-Verlag, New York</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003733325</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:indexed-name>World Commission on Dams</ce:indexed-name>
+                    <ce:surname>World Commission on Dams</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Dams and Development: A New Framework for Decision- Making</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-website>
+                  <ce:e-address type="email">www.dams.org//docs/report/wcdreport.pdf</ce:e-address>
+                </ref-website>
+                <ref-text>Earthscan, London, accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>World Commission on Dams (2000) Dams and Development: A New Framework for Decision- Making, Earthscan, London, www.dams.org//docs/report/wcdreport.pdf, accessed 25 July 2007</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004633993</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>World Health Organization</ref-sourcetitle>
+                <ref-website>
+                  <ce:e-address type="email">www.who.int/healthinfo/boddaly/en/index.html</ce:e-address>
+                </ref-website>
+                <ref-text>accessed 25 July 2007</ref-text>
+              </ref-info>
+              <ref-fulltext>World Health Organization (n.d.) www.who.int/healthinfo/boddaly/en/index.html, accessed 25 July 2007</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

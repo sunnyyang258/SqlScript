@@ -1,0 +1,1156 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="8/12/2015 8:40:24 AM"
+  DTS:CreationName="SSIS.Package.3"
+  DTS:CreatorComputerName="WIN1110"
+  DTS:CreatorName="DEV\SellarJXL628"
+  DTS:DTSID="{F6B3E95A-717A-432F-BDE4-338DD586BD00}"
+  DTS:ExecutableType="SSIS.Package.3"
+  DTS:LastModifiedProductVersion="11.0.2100.60"
+  DTS:LocaleID="5129"
+  DTS:ObjectName="ImportANIXML"
+  DTS:PackageType="5"
+  DTS:ProtectionLevel="0"
+  DTS:VersionBuild="44"
+  DTS:VersionGUID="{1F316666-A540-42DF-838E-2806672BE8AF}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">6</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ADON Scopus]"
+      DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+      DTS:DTSID="{FA0D727A-EAC6-4EFA-8C15-AAC079A161B3}"
+      DTS:ObjectName="ADON Scopus">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=localhost;Initial Catalog=TEST;Integrated Security=True;Application Name=SSIS-Package-{FA0D727A-EAC6-4EFA-8C15-AAC079A161B3}win1110.Scopus;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[CITEDBY_Unpacked]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{9DE97317-7272-4FF0-8237-D10E1655CE56}"
+      DTS:ObjectName="CITEDBY_Unpacked">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::varUnpackCITEDPath]</DTS:PropertyExpression>
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:FileUsageType="2"
+          DTS:ConnectionString="C:\Scopus\ANI-CITEDBY\Unpacked\" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ITEM_Unpacked]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{3A8A674C-162A-4F30-9FD7-C99604A37A76}"
+      DTS:ObjectName="ITEM_Unpacked">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::varUnpackITEMPath]</DTS:PropertyExpression>
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:FileUsageType="2"
+          DTS:ConnectionString="C:\Scopus\ANI-ITEM\Unpacked\" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[localhost.TEST]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{A210FE14-61B5-46B2-AE07-36468722EDC7}"
+      DTS:ObjectName="localhost.TEST">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=localhost;Initial Catalog=TEST;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{0037DCFB-8896-490F-BD6F-A4249C8A2BAD}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="tempVar">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{D9118DE5-8B03-43CE-8A5B-0129D55DDC00}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="@[User::varUnpackCITEDPath] +  @[User::varXMLCITEDFilename] + &quot;.xml&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varFullCITEDXMLFilename">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\ANI-CITEDBY\Unpacked\.xml</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{EA603D14-6D71-448A-BBD7-FC1D8661299E}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="@[User::varUnpackITEMPath] +  @[User::varXMLITEMFileName] + &quot;.xml&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varFullITEMXMLFilename">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\ANI-ITEM\Unpacked\.xml</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{C166CDF0-2995-468B-AAF2-B9CA6CAB66CD}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varFullZipCITEDFilename">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{019EC26A-4759-41C5-9229-90E080D5EB04}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varFullZipITEMFilename">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{558C149A-4514-4234-B310-8F010B900A58}"
+      DTS:IncludeInDebugDump="6789"
+      DTS:Namespace="User"
+      DTS:ObjectName="varImportLogID">
+      <DTS:VariableValue
+        DTS:DataType="3">0</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{B8833259-81EF-4D98-AC13-6A12526F14B9}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varInCITEDPath">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\ANI-CITEDBY</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{9EB538C5-84A4-4600-87A5-C849692F255B}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varInITEMPath">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\ANI-ITEM</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{4AE78DC1-D747-40A7-B139-86634185EDEB}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="@[User::varInCITEDPath]  + &quot;\\Unpacked\\&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varUnpackCITEDPath">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\ANI-CITEDBY\Unpacked\</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{3F3DF4DE-BA4A-4889-A9EA-9629F9FB57FB}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="@[User::varInITEMPath]  + &quot;\\Unpacked\\&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varUnpackITEMPath">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\ANI-ITEM\Unpacked\</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{38D57F2D-0E63-4358-975A-5E6AE619910D}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varXMLCITEDFilename">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{A312C473-F746-45D9-8D29-92F23343B6BB}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varXMLITEMFileName">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{5473A9AB-A9E5-4EA0-9851-BE51898BADE0}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="varZipExePath">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Scopus\Ziptools</DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Process CITEDBY Zip Files"
+      DTS:CreationName="STOCK:FOREACHLOOP"
+      DTS:Description="Foreach Loop Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{a020342d-de4a-4785-aedd-abc4e21469ca}"
+      DTS:ExecutableType="STOCK:FOREACHLOOP"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Process CITEDBY Zip Files">
+      <DTS:ForEachEnumerator
+        DTS:CreationName="DTS.ForEachFileEnumerator.3"
+        DTS:DTSID="{5459def0-7529-4fa7-99e7-bc084953ed0c}"
+        DTS:ObjectName="{5DA453E6-A416-4120-81E7-F8049B329BAF}">
+        <DTS:PropertyExpression
+          DTS:Name="Directory">@[User::varInCITEDPath]</DTS:PropertyExpression>
+        <DTS:ObjectData>
+          <ForEachFileEnumeratorProperties>
+            <FEFEProperty
+              Folder="C:\Scopus\ANI-CITEDBY" />
+            <FEFEProperty
+              FileSpec="*.zip" />
+            <FEFEProperty
+              FileNameRetrievalType="0" />
+            <FEFEProperty
+              Recurse="0" />
+          </ForEachFileEnumeratorProperties>
+        </DTS:ObjectData>
+      </DTS:ForEachEnumerator>
+      <DTS:Variables>
+        <DTS:Variable
+          DTS:CreationName=""
+          DTS:DTSID="{08E0DAA1-9204-4367-A3FB-889B2F814F48}"
+          DTS:IncludeInDebugDump="6789"
+          DTS:Namespace="User"
+          DTS:ObjectName="varCITEDReturnValue">
+          <DTS:VariableValue
+            DTS:DataType="3">0</DTS:VariableValue>
+        </DTS:Variable>
+        <DTS:Variable
+          DTS:CreationName=""
+          DTS:DTSID="{9A6BF758-3507-485F-8666-B0FC630BB501}"
+          DTS:IncludeInDebugDump="2345"
+          DTS:Namespace="User"
+          DTS:ObjectName="varImportCITEDProcessName">
+          <DTS:VariableValue
+            DTS:DataType="8">CITEDBY</DTS:VariableValue>
+        </DTS:Variable>
+      </DTS:Variables>
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Process CITEDBY Zip Files\EPT Unzip XML Package"
+          DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteProcess.ExecuteProcess, Microsoft.SqlServer.ExecProcTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:Description="Execute Process Task"
+          DTS:DTSID="{ea6ff4e2-d367-4009-9a22-76ecfb942563}"
+          DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteProcess.ExecuteProcess, Microsoft.SqlServer.ExecProcTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="EPT Unzip XML Package"
+          DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:PropertyExpression
+            DTS:Name="Arguments">"e -o" +  @[User::varUnpackCITEDPath] + " " + @[User::varFullZipCITEDFilename]</DTS:PropertyExpression>
+          <DTS:PropertyExpression
+            DTS:Name="Executable">@[User::varZipExePath]  + "\\7z.exe"</DTS:PropertyExpression>
+          <DTS:PropertyExpression
+            DTS:Name="WorkingDirectory">@[User::varZipExePath] + "\\"</DTS:PropertyExpression>
+          <DTS:ObjectData>
+            <ExecuteProcessData
+              Executable="C:\Scopus\Ziptools\7z.exe"
+              Arguments="e -oC:\Scopus\ANI-CITEDBY\Unpacked\ "
+              WorkingDirectory="C:\Scopus\Ziptools\"
+              WindowStyle="Hidden" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Process CITEDBY Zip Files\FST Empty Unpack Directory"
+          DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.FileSystemTask.FileSystemTask, Microsoft.SqlServer.FileSystemTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:Description="File System Task"
+          DTS:DTSID="{52d35537-f0c6-46a7-aaa5-cb86188dae40}"
+          DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.FileSystemTask.FileSystemTask, Microsoft.SqlServer.FileSystemTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="FST Empty Unpack Directory"
+          DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <FileSystemData
+              TaskOperationType="DeleteDirectoryContent"
+              TaskSourcePath="{9DE97317-7272-4FF0-8237-D10E1655CE56}" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{f600380d-2587-4924-bcc0-4eaf84b92cc2}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Porcess each unpacked XML files">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="DTS.ForEachFileEnumerator.3"
+            DTS:DTSID="{889e2f5f-064d-48d2-8b46-196ebce42e25}"
+            DTS:ObjectName="{968A688F-3561-4E87-9252-1846423C077D}">
+            <DTS:PropertyExpression
+              DTS:Name="Directory">@[User::varUnpackCITEDPath]</DTS:PropertyExpression>
+            <DTS:ObjectData>
+              <ForEachFileEnumeratorProperties>
+                <FEFEProperty
+                  Folder="C:\Scopus\ANI-CITEDBY\Unpacked\" />
+                <FEFEProperty
+                  FileSpec="*.xml" />
+                <FEFEProperty
+                  FileNameRetrievalType="2" />
+                <FEFEProperty
+                  Recurse="0" />
+              </ForEachFileEnumeratorProperties>
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files\EST File Error"
+              DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+              DTS:Description="Execute SQL Task"
+              DTS:DTSID="{834f0177-1c51-42d0-8793-d170dc5e45c9}"
+              DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="EST File Error"
+              DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="0">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <SQLTask:SqlTaskData
+                  SQLTask:Connection="{FA0D727A-EAC6-4EFA-8C15-AAC079A161B3}"
+                  SQLTask:IsStoredProc="True"
+                  SQLTask:SqlStatementSource="usp_InsertFileError" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="@importprocess"
+                    SQLTask:DtsVariableName="User::varImportCITEDProcessName"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="16"
+                    SQLTask:ParameterSize="-1" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="@filepath"
+                    SQLTask:DtsVariableName="User::varFullZipCITEDFilename"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="16"
+                    SQLTask:ParameterSize="-1" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="@filename"
+                    SQLTask:DtsVariableName="User::varXMLCITEDFilename"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="16"
+                    SQLTask:ParameterSize="-1" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="@executionid"
+                    SQLTask:DtsVariableName="System::ServerExecutionID"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="11"
+                    SQLTask:ParameterSize="-1" />
+                </SQLTask:SqlTaskData>
+              </DTS:ObjectData>
+            </DTS:Executable>
+            <DTS:Executable
+              DTS:refId="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB"
+              DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+              DTS:Description="Execute SQL Task"
+              DTS:DTSID="{c1704462-255c-4a1a-8a51-d7c4e41961d3}"
+              DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="EST Insert XML CLOB"
+              DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="0">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <SQLTask:SqlTaskData
+                  SQLTask:Connection="{FA0D727A-EAC6-4EFA-8C15-AAC079A161B3}"
+                  SQLTask:IsStoredProc="True"
+                  SQLTask:SqlStatementSource="dbo.usp_InsertCitedByXML"
+                  SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+                  <SQLTask:ResultBinding
+                    SQLTask:ResultName="0"
+                    SQLTask:DtsVariableName="User::varCITEDReturnValue" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="@filename"
+                    SQLTask:DtsVariableName="User::varXMLCITEDFilename"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="16"
+                    SQLTask:ParameterSize="-1" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="@fullpathname"
+                    SQLTask:DtsVariableName="User::varFullCITEDXMLFilename"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="16"
+                    SQLTask:ParameterSize="-1" />
+                </SQLTask:SqlTaskData>
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:PrecedenceConstraints>
+            <DTS:PrecedenceConstraint
+              DTS:refId="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files.PrecedenceConstraints[Constraint]"
+              DTS:CreationName=""
+              DTS:DTSID="{54cca408-4d8b-4411-9e85-26e2ddac6d96}"
+              DTS:From="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB"
+              DTS:LogicalAnd="True"
+              DTS:ObjectName="Constraint"
+              DTS:To="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files\EST File Error"
+              DTS:Value="1" />
+          </DTS:PrecedenceConstraints>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{50946807-2131-4BB1-9138-7007CC70EC54}"
+              DTS:ObjectName="{50946807-2131-4BB1-9138-7007CC70EC54}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::varXMLCITEDFilename" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Process CITEDBY Zip Files.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{02277dc6-fb08-4f91-8ed1-956383347686}"
+          DTS:From="Package\Process CITEDBY Zip Files\FST Empty Unpack Directory"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Process CITEDBY Zip Files\EPT Unzip XML Package" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Process CITEDBY Zip Files.PrecedenceConstraints[Constraint 1]"
+          DTS:CreationName=""
+          DTS:DTSID="{ef118957-db92-4c1e-a2f6-e16065ad1574}"
+          DTS:From="Package\Process CITEDBY Zip Files\EPT Unzip XML Package"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 1"
+          DTS:To="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files" />
+      </DTS:PrecedenceConstraints>
+      <DTS:ForEachVariableMappings>
+        <DTS:ForEachVariableMapping
+          DTS:CreationName=""
+          DTS:DTSID="{1036109A-9FC4-40B2-9F8C-9150C5C27782}"
+          DTS:ObjectName="{1036109A-9FC4-40B2-9F8C-9150C5C27782}"
+          DTS:ValueIndex="0"
+          DTS:VariableName="User::varFullZipCITEDFilename" />
+      </DTS:ForEachVariableMappings>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Process ITEM Zip Files"
+      DTS:CreationName="STOCK:FOREACHLOOP"
+      DTS:Description="Foreach Loop Container"
+      DTS:DTSID="{25411846-A8CB-473E-9667-AD6E2BFEEF6F}"
+      DTS:ExecutableType="STOCK:FOREACHLOOP"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Process ITEM Zip Files">
+      <DTS:ForEachEnumerator
+        DTS:CreationName="DTS.ForEachFileEnumerator.3"
+        DTS:DTSID="{5DA453E6-A416-4120-81E7-F8049B329BAF}"
+        DTS:ObjectName="{5DA453E6-A416-4120-81E7-F8049B329BAF}">
+        <DTS:PropertyExpression
+          DTS:Name="Directory">@[User::varInITEMPath]</DTS:PropertyExpression>
+        <DTS:ObjectData>
+          <ForEachFileEnumeratorProperties>
+            <FEFEProperty
+              Folder="C:\Scopus\ANI-ITEM" />
+            <FEFEProperty
+              FileSpec="*.zip" />
+            <FEFEProperty
+              FileNameRetrievalType="0" />
+            <FEFEProperty
+              Recurse="0" />
+          </ForEachFileEnumeratorProperties>
+        </DTS:ObjectData>
+      </DTS:ForEachEnumerator>
+      <DTS:Variables>
+        <DTS:Variable
+          DTS:CreationName=""
+          DTS:DTSID="{A8307CBA-A8D2-40F6-B3F9-C8095F32668E}"
+          DTS:IncludeInDebugDump="2345"
+          DTS:Namespace="User"
+          DTS:ObjectName="Variable">
+          <DTS:VariableValue
+            DTS:DataType="8">importLogID</DTS:VariableValue>
+        </DTS:Variable>
+        <DTS:Variable
+          DTS:CreationName=""
+          DTS:DTSID="{22D94B68-C3F4-4409-B9D6-30A039715400}"
+          DTS:IncludeInDebugDump="2345"
+          DTS:Namespace="User"
+          DTS:ObjectName="varImportITEMProcessName">
+          <DTS:VariableValue
+            DTS:DataType="8">ITEM</DTS:VariableValue>
+        </DTS:Variable>
+        <DTS:Variable
+          DTS:CreationName=""
+          DTS:DTSID="{CA81E5F6-E9BA-442F-B41B-D19C92D0AD5B}"
+          DTS:IncludeInDebugDump="6789"
+          DTS:Namespace="User"
+          DTS:ObjectName="varITEMReturnValue">
+          <DTS:VariableValue
+            DTS:DataType="3">0</DTS:VariableValue>
+        </DTS:Variable>
+      </DTS:Variables>
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Process ITEM Zip Files\EPT Unzip XML Package"
+          DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteProcess.ExecuteProcess, Microsoft.SqlServer.ExecProcTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:Description="Execute Process Task"
+          DTS:Disabled="True"
+          DTS:DTSID="{323585BC-0514-4021-A66D-A49380C56695}"
+          DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteProcess.ExecuteProcess, Microsoft.SqlServer.ExecProcTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="EPT Unzip XML Package"
+          DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:PropertyExpression
+            DTS:Name="Arguments">"e -o" +  @[User::varUnpackITEMPath]  + " " +  @[User::varFullZipITEMFilename]</DTS:PropertyExpression>
+          <DTS:PropertyExpression
+            DTS:Name="Executable">@[User::varZipExePath] + "\\7z.exe"</DTS:PropertyExpression>
+          <DTS:PropertyExpression
+            DTS:Name="WorkingDirectory">@[User::varZipExePath] + "\\"</DTS:PropertyExpression>
+          <DTS:ObjectData>
+            <ExecuteProcessData
+              Executable="C:\Scopus\Ziptools\7z.exe"
+              Arguments="e -oC:\Scopus\ANI-ITEM\Unpacked\ "
+              WorkingDirectory="C:\Scopus\Ziptools\"
+              WindowStyle="Hidden" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Process ITEM Zip Files\FST Empty Unpack Directory"
+          DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.FileSystemTask.FileSystemTask, Microsoft.SqlServer.FileSystemTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:Description="File System Task"
+          DTS:Disabled="True"
+          DTS:DTSID="{AB6D1221-C097-4635-ACBF-B6D667F916D9}"
+          DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.FileSystemTask.FileSystemTask, Microsoft.SqlServer.FileSystemTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="FST Empty Unpack Directory"
+          DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <FileSystemData
+              TaskOperationType="DeleteDirectoryContent"
+              TaskSourcePath="{3A8A674C-162A-4F30-9FD7-C99604A37A76}" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Process ITEM Zip Files\log the loading end"
+          DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{EB043AFF-B910-44B8-996A-31825E14D978}"
+          DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="log the loading end"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{A210FE14-61B5-46B2-AE07-36468722EDC7}"
+              SQLTask:SqlStatementSource="update l set l.EndDT=GETDATE()&#xA;&#x9;,l.IsSuccess=1&#xA;from [log].[XMLProcessLog] l&#xA;where l.ID=?;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ParameterBinding
+                SQLTask:ParameterName="0"
+                SQLTask:DtsVariableName="User::varImportLogID"
+                SQLTask:ParameterDirection="Input"
+                SQLTask:DataType="3"
+                SQLTask:ParameterSize="-1" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Process ITEM Zip Files\log the loading start"
+          DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{0387C413-0ACD-4D9E-817B-835DAF86723D}"
+          DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="log the loading start"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{A210FE14-61B5-46B2-AE07-36468722EDC7}"
+              SQLTask:SqlStatementSource="insert into [log].[XMLProcessLog] ([StartDT],[logType])&#xA;&#x9;output Inserted.ID&#xA;&#x9;values (GETDATE(),'load');"
+              SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::varImportLogID" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Process ITEM Zip Files\Porcess each unpacked XML files"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{FFD90165-280F-4213-8A3B-9CC3026865B3}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Porcess each unpacked XML files">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="DTS.ForEachFileEnumerator.3"
+            DTS:DTSID="{968A688F-3561-4E87-9252-1846423C077D}"
+            DTS:ObjectName="{968A688F-3561-4E87-9252-1846423C077D}">
+            <DTS:PropertyExpression
+              DTS:Name="Directory">@[User::varUnpackITEMPath]</DTS:PropertyExpression>
+            <DTS:ObjectData>
+              <ForEachFileEnumeratorProperties>
+                <FEFEProperty
+                  Folder="C:\Scopus\ANI-ITEM\Unpacked\" />
+                <FEFEProperty
+                  FileSpec="*.xml" />
+                <FEFEProperty
+                  FileNameRetrievalType="2" />
+                <FEFEProperty
+                  Recurse="0" />
+              </ForEachFileEnumeratorProperties>
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB"
+              DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+              DTS:Description="Execute SQL Task"
+              DTS:DTSID="{5FC67CB8-1AA8-4038-A774-E626A2A8F607}"
+              DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="EST Insert XML CLOB"
+              DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="1">
+              <DTS:Variables />
+              <DTS:EventHandlers>
+                <DTS:EventHandler
+                  DTS:refId="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]"
+                  DTS:CreationName="OnError"
+                  DTS:DTSID="{A3F34FD9-EF54-4C1F-A109-DE7A5D3C3657}"
+                  DTS:EventID="0"
+                  DTS:EventName="OnError"
+                  DTS:LocaleID="-1">
+                  <DTS:Variables>
+                    <DTS:Variable
+                      DTS:CreationName=""
+                      DTS:Description="The propagate property of the event"
+                      DTS:DTSID="{606E622F-6E29-42F3-8DD5-F31774937409}"
+                      DTS:IncludeInDebugDump="6789"
+                      DTS:Namespace="System"
+                      DTS:ObjectName="Propagate">
+                      <DTS:VariableValue
+                        DTS:DataType="11">-1</DTS:VariableValue>
+                    </DTS:Variable>
+                  </DTS:Variables>
+                  <DTS:Executables>
+                    <DTS:Executable
+                      DTS:refId="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]\EST File Error"
+                      DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+                      DTS:Description="Execute SQL Task"
+                      DTS:DTSID="{1e88cb74-20c2-4225-8dd0-c24b701ad486}"
+                      DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+                      DTS:LocaleID="-1"
+                      DTS:ObjectName="EST File Error"
+                      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+                      <DTS:Variables />
+                      <DTS:ObjectData>
+                        <SQLTask:SqlTaskData
+                          SQLTask:Connection="{A210FE14-61B5-46B2-AE07-36468722EDC7}"
+                          SQLTask:SqlStatementSource="exec usp_InsertFileError ?,?,?,?,?" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+                          <SQLTask:ParameterBinding
+                            SQLTask:ParameterName="0"
+                            SQLTask:DtsVariableName="User::varImportITEMProcessName"
+                            SQLTask:ParameterDirection="Input"
+                            SQLTask:DataType="130"
+                            SQLTask:ParameterSize="20" />
+                          <SQLTask:ParameterBinding
+                            SQLTask:ParameterName="1"
+                            SQLTask:DtsVariableName="User::varFullZipITEMFilename"
+                            SQLTask:ParameterDirection="Input"
+                            SQLTask:DataType="130"
+                            SQLTask:ParameterSize="50" />
+                          <SQLTask:ParameterBinding
+                            SQLTask:ParameterName="2"
+                            SQLTask:DtsVariableName="User::varXMLITEMFileName"
+                            SQLTask:ParameterDirection="Input"
+                            SQLTask:DataType="130"
+                            SQLTask:ParameterSize="50" />
+                          <SQLTask:ParameterBinding
+                            SQLTask:ParameterName="3"
+                            SQLTask:DtsVariableName="System::ServerExecutionID"
+                            SQLTask:ParameterDirection="Input"
+                            SQLTask:DataType="3"
+                            SQLTask:ParameterSize="-1" />
+                          <SQLTask:ParameterBinding
+                            SQLTask:ParameterName="4"
+                            SQLTask:DtsVariableName="User::varImportLogID"
+                            SQLTask:ParameterDirection="Input"
+                            SQLTask:DataType="3"
+                            SQLTask:ParameterSize="-1" />
+                        </SQLTask:SqlTaskData>
+                      </DTS:ObjectData>
+                    </DTS:Executable>
+                    <DTS:Executable
+                      DTS:refId="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]\log the loading end"
+                      DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+                      DTS:Description="Execute SQL Task"
+                      DTS:DTSID="{b93d73a7-400c-4be8-a5c2-c7ed22853d1c}"
+                      DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"
+                      DTS:LocaleID="-1"
+                      DTS:ObjectName="log the loading end"
+                      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+                      <DTS:Variables />
+                      <DTS:ObjectData>
+                        <SQLTask:SqlTaskData
+                          SQLTask:Connection="{A210FE14-61B5-46B2-AE07-36468722EDC7}"
+                          SQLTask:SqlStatementSource="update l set l.EndDT=GETDATE()&#xA; ,l.IsSuccess=0&#xA;from [log].[XMLProcessLog] l&#xA;where l.ID=?;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+                          <SQLTask:ParameterBinding
+                            SQLTask:ParameterName="0"
+                            SQLTask:DtsVariableName="User::varImportLogID"
+                            SQLTask:ParameterDirection="Input"
+                            SQLTask:DataType="3"
+                            SQLTask:ParameterSize="-1" />
+                        </SQLTask:SqlTaskData>
+                      </DTS:ObjectData>
+                    </DTS:Executable>
+                  </DTS:Executables>
+                  <DTS:PrecedenceConstraints>
+                    <DTS:PrecedenceConstraint
+                      DTS:refId="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError].PrecedenceConstraints[Constraint]"
+                      DTS:CreationName=""
+                      DTS:DTSID="{06AEF637-962F-42F4-B36F-927004DBFCE8}"
+                      DTS:From="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]\EST File Error"
+                      DTS:LogicalAnd="True"
+                      DTS:ObjectName="Constraint"
+                      DTS:To="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]\log the loading end" />
+                  </DTS:PrecedenceConstraints>
+                </DTS:EventHandler>
+              </DTS:EventHandlers>
+              <DTS:ObjectData>
+                <SQLTask:SqlTaskData
+                  SQLTask:Connection="{A210FE14-61B5-46B2-AE07-36468722EDC7}"
+                  SQLTask:SqlStatementSource="EXEC  dbo.usp_InsertItemXML ?, ?, ?"
+                  SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+                  <SQLTask:ResultBinding
+                    SQLTask:ResultName="0"
+                    SQLTask:DtsVariableName="User::varITEMReturnValue" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="0"
+                    SQLTask:DtsVariableName="User::varXMLITEMFileName"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="130"
+                    SQLTask:ParameterSize="50" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="1"
+                    SQLTask:DtsVariableName="User::varFullITEMXMLFilename"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="130"
+                    SQLTask:ParameterSize="255" />
+                  <SQLTask:ParameterBinding
+                    SQLTask:ParameterName="2"
+                    SQLTask:DtsVariableName="User::varImportLogID"
+                    SQLTask:ParameterDirection="Input"
+                    SQLTask:DataType="3"
+                    SQLTask:ParameterSize="-1" />
+                </SQLTask:SqlTaskData>
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{E5629C3D-352D-4EFB-BA1D-9356F50E4EA5}"
+              DTS:ObjectName="{E5629C3D-352D-4EFB-BA1D-9356F50E4EA5}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::varXMLITEMFileName" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{F6B774B7-B895-4990-AE28-2E0001921C34}"
+          DTS:From="Package\Process ITEM Zip Files\FST Empty Unpack Directory"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Process ITEM Zip Files\EPT Unzip XML Package" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint 1]"
+          DTS:CreationName=""
+          DTS:DTSID="{F1EF2C8D-89FC-4538-A78C-0F40C6530061}"
+          DTS:From="Package\Process ITEM Zip Files\EPT Unzip XML Package"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 1"
+          DTS:To="Package\Process ITEM Zip Files\log the loading start" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint 2]"
+          DTS:CreationName=""
+          DTS:DTSID="{3FF7F7C2-46DA-4C5B-AAB2-5778E0F2D39F}"
+          DTS:From="Package\Process ITEM Zip Files\log the loading start"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 2"
+          DTS:To="Package\Process ITEM Zip Files\Porcess each unpacked XML files" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint 3]"
+          DTS:CreationName=""
+          DTS:DTSID="{3EEE905A-0ACC-4505-9C86-0F02A93B38AD}"
+          DTS:From="Package\Process ITEM Zip Files\Porcess each unpacked XML files"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 3"
+          DTS:To="Package\Process ITEM Zip Files\log the loading end" />
+      </DTS:PrecedenceConstraints>
+      <DTS:ForEachVariableMappings>
+        <DTS:ForEachVariableMapping
+          DTS:CreationName=""
+          DTS:DTSID="{36D551F1-6ABA-45A9-BA54-81091294AB7B}"
+          DTS:ObjectName="{36D551F1-6ABA-45A9-BA54-81091294AB7B}"
+          DTS:ValueIndex="0"
+          DTS:VariableName="User::varFullZipITEMFilename" />
+      </DTS:ForEachVariableMappings>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="sql11">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="192,42"
+          Id="Package\Process CITEDBY Zip Files\EPT Unzip XML Package"
+          TopLeft="130,139" />
+        <NodeLayout
+          Size="214,42"
+          Id="Package\Process CITEDBY Zip Files\FST Empty Unpack Directory"
+          TopLeft="118.5,43.0297256097561" />
+        <NodeLayout
+          Size="143,42"
+          Id="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files\EST File Error"
+          TopLeft="191,103" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB"
+          TopLeft="13,11" />
+        <EdgeLayout
+          Id="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files.PrecedenceConstraints[Constraint]"
+          TopLeft="103,53">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="159.5,50"
+              Start="0,0"
+              End="159.5,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,21"
+                    Point2="0,25"
+                    Point3="4,25" />
+                  <mssgle:LineSegment
+                    End="155.5,25" />
+                  <mssgle:CubicBezierSegment
+                    Point1="155.5,25"
+                    Point2="159.5,25"
+                    Point3="159.5,29" />
+                  <mssgle:LineSegment
+                    End="159.5,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="64.50865234375,30,30.4826953125,9.7490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="408,200"
+          Size="408,243"
+          Id="Package\Process CITEDBY Zip Files\Porcess each unpacked XML files"
+          TopLeft="74,249" />
+        <EdgeLayout
+          Id="Package\Process CITEDBY Zip Files.PrecedenceConstraints[Constraint]"
+          TopLeft="225.75,85.0297256097561">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,53.9702743902439"
+              Start="0,0"
+              End="0,46.4702743902439">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,46.4702743902439" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Process CITEDBY Zip Files.PrecedenceConstraints[Constraint 1]"
+          TopLeft="226,181">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="52,68"
+              Start="0,0"
+              End="52,60.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,30"
+                    Point2="0,34"
+                    Point3="4,34" />
+                  <mssgle:LineSegment
+                    End="48,34" />
+                  <mssgle:CubicBezierSegment
+                    Point1="48,34"
+                    Point2="52,34"
+                    Point3="52,38" />
+                  <mssgle:LineSegment
+                    End="52,60.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="537,547"
+          Size="537,590"
+          Id="Package\Process CITEDBY Zip Files"
+          TopLeft="635,153" />
+        <NodeLayout
+          Size="192,42"
+          Id="Package\Process ITEM Zip Files\EPT Unzip XML Package"
+          TopLeft="130,139" />
+        <NodeLayout
+          Size="214,42"
+          Id="Package\Process ITEM Zip Files\FST Empty Unpack Directory"
+          TopLeft="118.5,43.0297256097561" />
+        <NodeLayout
+          Size="172,42"
+          Id="Package\Process ITEM Zip Files\log the loading end"
+          TopLeft="178,520" />
+        <NodeLayout
+          Size="176,42"
+          Id="Package\Process ITEM Zip Files\log the loading start"
+          TopLeft="371,152" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB"
+          TopLeft="92,34" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="378,114"
+          Size="378,157"
+          Id="Package\Process ITEM Zip Files\Porcess each unpacked XML files"
+          TopLeft="74,249" />
+        <EdgeLayout
+          Id="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint]"
+          TopLeft="225.75,85.0297256097561">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,53.9702743902439"
+              Start="0,0"
+              End="0,46.4702743902439">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,46.4702743902439" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint 1]"
+          TopLeft="322,160">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="49,13"
+              Start="0,0"
+              End="41.5,13">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="20.5,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="20.5,0"
+                    Point2="24.5,0"
+                    Point3="24.5,4" />
+                  <mssgle:LineSegment
+                    End="24.5,9" />
+                  <mssgle:CubicBezierSegment
+                    Point1="24.5,9"
+                    Point2="24.5,13"
+                    Point3="28.5,13" />
+                  <mssgle:LineSegment
+                    End="41.5,13" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint 2]"
+          TopLeft="459,194">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-196,55"
+              Start="0,0"
+              End="-196,47.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,23.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,23.5"
+                    Point2="0,27.5"
+                    Point3="-4,27.5" />
+                  <mssgle:LineSegment
+                    End="-192,27.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-192,27.5"
+                    Point2="-196,27.5"
+                    Point3="-196,31.5" />
+                  <mssgle:LineSegment
+                    End="-196,47.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Process ITEM Zip Files.PrecedenceConstraints[Constraint 3]"
+          TopLeft="263.5,406">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,114"
+              Start="0,0"
+              End="0,106.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,106.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="573,651"
+          Size="573,694"
+          Id="Package\Process ITEM Zip Files"
+          TopLeft="28,69" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <DtsEventHandler
+    design-time-name="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="143,42"
+          Id="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]\EST File Error"
+          TopLeft="307,66" />
+        <NodeLayout
+          Size="172,42"
+          Id="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError]\log the loading end"
+          TopLeft="307,168" />
+        <EdgeLayout
+          Id="Package\Process ITEM Zip Files\Porcess each unpacked XML files\EST Insert XML CLOB.EventHandlers[OnError].PrecedenceConstraints[Constraint]"
+          TopLeft="378.5,108">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="14.5,60"
+              Start="0,0"
+              End="14.5,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,26"
+                    Point2="0,30"
+                    Point3="4,30" />
+                  <mssgle:LineSegment
+                    End="10.5,30" />
+                  <mssgle:CubicBezierSegment
+                    Point1="10.5,30"
+                    Point2="14.5,30"
+                    Point3="14.5,34" />
+                  <mssgle:LineSegment
+                    End="14.5,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </DtsEventHandler>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

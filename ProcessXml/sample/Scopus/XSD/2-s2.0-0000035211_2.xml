@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xocs:doc content-type="Abstract" dbname="scopusbase" xmlns="http://www.elsevier.com/xml/xocs/dtd" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd"><xocs:meta>
+    <xocs:eid>2-s2.0-0000035211</xocs:eid>
+    <xocs:oeid>2-s1.0-4985-V1M0-TWC1-C02N-00000-00</xocs:oeid>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>358448566</xocs:pui>
+	<xocs:sdfullavail>0</xocs:sdfullavail>
+    <xocs:issn>1559128X</xocs:issn>
+    <xocs:volume>32</xocs:volume>
+    <xocs:issue>13</xocs:issue>
+    <xocs:author-surname>Love</xocs:author-surname>
+    <xocs:author-fi>G</xocs:author-fi>
+    <xocs:firstpage>2222</xocs:firstpage>
+    <xocs:lastpage>2223</xocs:lastpage>
+    <xocs:sort-year>2010</xocs:sort-year>
+    <xocs:sort-yyyymm>201005</xocs:sort-yyyymm>
+    <xocs:pub-year>1993</xocs:pub-year>
+    <xocs:timestamp>2015-02-24T03:46:59.783862-05:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>0000035211</cto:group-id>
+    <cto:ref-id>0026238875</cto:ref-id>
+    <cto:ref-id>0038576700</cto:ref-id>
+    <cto:ref-id>0026367657</cto:ref-id>
+    <cto:ref-id>84893948108</cto:ref-id>
+    <cto:ref-id>32244442367</cto:ref-id>
+    <cto:ref-id>77949373608</cto:ref-id>
+    <cto:ref-id>0037567628</cto:ref-id>
+    <cto:unique-author><cto:auth-initials>G.D.</cto:auth-initials><cto:auth-indexed-name>Love G.D.</cto:auth-indexed-name><cto:auth-surname>Love</cto:auth-surname><cto:auth-id>7102681347</cto:auth-id></cto:unique-author>
+  </xocs:meta><xocs:item><item>
+<ait:process-info>
+<ait:date-delivered day="23" month="02" timestamp="2015-02-23T22:26:29.000029+00:00" year="2015"/>
+<ait:date-sort day="01" month="05" year="2010"/>
+<ait:status stage="S300" state="update" type="core"/>
+</ait:process-info>
+<bibrecord>
+<item-info>
+<copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+<itemidlist>
+<itemid idtype="PUI">358448566</itemid>
+<itemid idtype="CAR-ID">74553717</itemid>
+<itemid idtype="CPX">20101112775845</itemid>
+<itemid idtype="SCP">0000035211</itemid>
+<itemid idtype="SGR">0000035211</itemid>
+</itemidlist>
+<history>
+<date-created day="19" month="03" year="2010"/>
+</history>
+<dbcollection>CPX</dbcollection>
+<dbcollection>Scopusbase</dbcollection>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ar"/>
+<citation-language xml:lang="eng"/>
+<abstract-language xml:lang="eng"/>
+</citation-info>
+<citation-title>
+<titletext original="y" xml:lang="eng">Liquid-crystal phase modulator for unpolarized light</titletext>
+</citation-title>
+<author-group>
+<author auid="7102681347" seq="1" type="auth">
+<ce:initials>G.D.</ce:initials>
+<ce:indexed-name>Love G.D.</ce:indexed-name>
+<ce:surname>Love</ce:surname>
+<ce:given-name>Gordon D.</ce:given-name>
+<preferred-name>
+<ce:initials>G.D.</ce:initials>
+<ce:indexed-name>Love G.</ce:indexed-name>
+<ce:surname>Love</ce:surname>
+<ce:given-name>Gordon D.</ce:given-name>
+</preferred-name>
+</author>
+<affiliation afid="60022784" country="ind">
+<organization>Raman Research Institute</organization>
+<city-group>Bangalore 560 080</city-group>
+</affiliation>
+</author-group>
+<author-group>
+<author auid="7102681347" seq="1" type="auth">
+<ce:initials>G.D.</ce:initials>
+<ce:indexed-name>Love G.D.</ce:indexed-name>
+<ce:surname>Love</ce:surname>
+<ce:given-name>Gordon D.</ce:given-name>
+<preferred-name>
+<ce:initials>G.D.</ce:initials>
+<ce:indexed-name>Love G.</ce:indexed-name>
+<ce:surname>Love</ce:surname>
+<ce:given-name>Gordon D.</ce:given-name>
+</preferred-name>
+</author>
+<affiliation afid="60022175" country="gbr" dptid="104135749">
+<organization>School of Engineering and Computer Science, University of Durham</organization>
+<city-group>Durham DH1 3LE</city-group>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G. D.</ce:initials>
+<ce:indexed-name>Love G. D.</ce:indexed-name>
+<ce:surname>Love</ce:surname>
+</person>
+<affiliation country="ind">
+<organization>Raman Research Institute</organization>
+<city-group>Bangalore 560 080</city-group>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract original="y" xml:lang="eng">
+<ce:para>A simple method for phase modulating unpolarized light with a double pass through a nematic liquid crystal retarder is described. © 1993 Optical Society of America.</ce:para>
+</abstract>
+</abstracts>
+<source country="usa" srcid="29593" type="j">
+<sourcetitle>Applied Optics</sourcetitle>
+<sourcetitle-abbrev>Appl. Opt.</sourcetitle-abbrev>
+<translated-sourcetitle xml:lang="eng">Applied Optics</translated-sourcetitle>
+<issn type="electronic">15394522</issn>
+<issn type="print">1559128X</issn>
+<codencode>APOPA</codencode>
+<volisspag>
+<voliss issue="13" volume="32"/>
+<pagerange first="2222" last="2223"/>
+</volisspag>
+<publicationyear first="1993"/>
+<publicationdate>
+<year>2010</year>
+<month>05</month>
+<day>01</day>
+<date-text xfab-added="true">1 May 2010</date-text></publicationdate>
+<website>
+<ce:e-address type="email">http://www.opticsinfobase.org/view_article.cfm?gotourl=http%3A%2F%2Fwww%2Eopticsinfobase%2Eorg%2FDirectPDFAccess%2F10DCF19C%2DBDB9%2D137E%2DC8FC04D497D41881%5F40897%2Epdf%3Fda%3D1%26id%3D40897%26seq%3D0&amp;org=Elsevier%20Inc</ce:e-address>
+</website>
+<publisher>
+<publishername>Optical Society of American (OSA)</publishername>
+<ce:e-address type="email">info@osa.org</ce:e-address>
+</publisher>
+</source>
+<enhancement>
+<descriptorgroup>
+<descriptors controlled="y" type="CCV">
+<descriptor>
+<mainterm weight="a" candidate="n">Liquid crystals</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="a" candidate="n">Modulation</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="a" candidate="n">Nematic liquid crystals</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="n" type="CFL">
+<descriptor>
+<mainterm weight="b" candidate="n">Double pass</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Liquid crystal phase</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">SIMPLE method</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Unpolarized light</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="y" type="CMH">
+<descriptor>
+<mainterm weight="a" candidate="n">Liquids</mainterm>
+</descriptor>
+</descriptors>
+</descriptorgroup>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>3107</classification>
+</classifications>
+<classifications type="CPXCLASS">
+<classification> <classification-code>716</classification-code> <classification-description>Electronic Equipment, Radar, Radio and Television</classification-description> </classification>
+<classification> <classification-code>717</classification-code> <classification-description>Electro-Optical Communication</classification-description> </classification>
+<classification> <classification-code>718</classification-code> <classification-description>Telephone and Other Line Communications</classification-description> </classification>
+<classification> <classification-code>804</classification-code> <classification-description>Chemical Products Generally</classification-description> </classification>
+<classification> <classification-code>931.2</classification-code> <classification-description>Physical Properties of Gases, Liquids and Solids</classification-description> </classification>
+</classifications>
+<classifications type="FLXCLASS">
+<classification> <classification-code>902</classification-code> <classification-description>FLUIDEX; Related Topics</classification-description> </classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="7">
+<reference id="1">
+<ref-info>
+<ref-title>
+<ref-titletext>The application of Edser-Butler fringes to the measurement of the optical structure of liquid crystal prisms and the determination of dispersion characteristics and thickness</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0026238875</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.D.</ce:initials>
+<ce:indexed-name>Love G.D.</ce:indexed-name>
+<ce:surname>Love</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.V.</ce:initials>
+<ce:indexed-name>Major J.V.</ce:indexed-name>
+<ce:surname>Major</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>J. Phys.</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<ref-volisspag>
+<voliss volume="D 24"/>
+<pagerange first="1708" last="1713"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>G. D. Love and J. V. Major, "The application of Edser-Butler fringes to the measurement of the optical structure of liquid crystal prisms and the determination of dispersion characteristics and thickness," J. Phys. D 24, 1708-1713 (1991).</ref-fulltext>
+</reference>
+<reference id="2">
+<ref-info>
+<ref-title>
+<ref-titletext>Adaptive optics wavefront corrector using addressable liquid crystal retarders II</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0038576700</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:indexed-name>Bonaccini D.</ce:indexed-name>
+<ce:surname>Bonaccini</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>G.</ce:initials>
+<ce:indexed-name>Brusa G.</ce:indexed-name>
+<ce:surname>Brusa</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Esposito S.</ce:indexed-name>
+<ce:surname>Esposito</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Salinari P.</ce:indexed-name>
+<ce:surname>Salinari</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>P.</ce:initials>
+<ce:indexed-name>Stefanini P.</ce:indexed-name>
+<ce:surname>Stefanini</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Active and Adaptive Optical Components</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<ref-volisspag>
+<voliss volume="1543"/>
+<pagerange first="133" last="143"/>
+</ref-volisspag>
+<ref-text>M. A. Ealey, ed., Proc. Soc. Photo-Opt. Instrum. Eng.</ref-text>
+</ref-info>
+<ref-fulltext>D. Bonaccini, G. Brusa, S. Esposito, P. Salinari, and P. Stefanini, "Adaptive optics wavefront corrector using addressable liquid crystal retarders II," in Active and Adaptive Optical Components, M. A. Ealey, ed., Proc. Soc. Photo-Opt. Instrum. Eng. 1543, 133-143 (1991).</ref-fulltext>
+</reference>
+<reference id="3">
+<ref-info>
+<ref-title>
+<ref-titletext>Evolution of light beams in polarization and direction</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0026367657</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Bhandari R.</ce:indexed-name>
+<ce:surname>Bhandari</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Physica B</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<ref-volisspag>
+<voliss volume="175"/>
+<pagerange first="111" last="122"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>R. Bhandari, "Evolution of light beams in polarization and direction," Physica B 175, 111-122 (1991).</ref-fulltext>
+</reference>
+<reference id="4">
+<ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">84893948108</itemid>
+</refd-itemidlist>
+<ref-text>Merck Chemicals (formerly BDH Ltd.), Poole Dorset UK</ref-text>
+</ref-info>
+<ref-fulltext>Merck Chemicals (formerly BDH Ltd.), Poole, Dorset, UK.</ref-fulltext>
+</reference>
+<reference id="5">
+<ref-info>
+<ref-title>
+<ref-titletext>Achromatic combinations of birefringent plates. Part II. An achromatic quarter wave plate</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">32244442367</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Pancharatnam S.</ce:indexed-name>
+<ce:surname>Pancharatnam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Proc. Ind. Acad. Sci.</ref-sourcetitle>
+<ref-publicationyear first="1955"/>
+<ref-volisspag>
+<voliss volume="41"/>
+<pagerange first="137" last="144"/>
+</ref-volisspag>
+</ref-info>
+<ref-fulltext>S. Pancharatnam, "Achromatic combinations of birefringent plates. Part II. An achromatic quarter wave plate," Proc. Ind. Acad. Sci. 41, 137-144 (1955).</ref-fulltext>
+</reference>
+<reference id="6">
+<ref-info>
+<ref-title>
+<ref-titletext>MARTINI: System operation and astronomical performance</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">77949373608</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.P.</ce:initials>
+<ce:indexed-name>Doel A.P.</ce:indexed-name>
+<ce:surname>Doel</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.N.</ce:initials>
+<ce:indexed-name>Dunlop C.N.</ce:indexed-name>
+<ce:surname>Dunlop</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.V.</ce:initials>
+<ce:indexed-name>Major J.V.</ce:indexed-name>
+<ce:surname>Major</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Myers R.M.</ce:indexed-name>
+<ce:surname>Myers</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Sharpies R.M.</ce:indexed-name>
+<ce:surname>Sharpies</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Active and Adaptive Optical Systems</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<ref-volisspag>
+<voliss volume="1542"/>
+<pagerange first="319" last="327"/>
+</ref-volisspag>
+<ref-text>M. A. Ealey, ed., Proc Soc. Photo-Opt. Instrum. Eng. ,and references therein</ref-text>
+</ref-info>
+<ref-fulltext>A. P. Doel, C. N. Dunlop, J. V. Major, R. M. Myers, and R. M. Sharpies, "MARTINI: System operation and astronomical performance," in Active and Adaptive Optical Systems, M. A. Ealey, ed., Proc Soc. Photo-Opt. Instrum. Eng. 1542, 319-327 (1991), and references therein.</ref-fulltext>
+</reference>
+<reference id="7">
+<ref-info>
+<ref-title>
+<ref-titletext>Adaptive optics</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">0037567628</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:indexed-name>Merkle F.</ce:indexed-name>
+<ce:surname>Merkle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Trends in Optics</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<ref-volisspag>
+<pagerange first="389"/>
+</ref-volisspag>
+<ref-text>J. W. Goodman, ed. (Academic, San Diego, Calif</ref-text>
+</ref-info>
+<ref-fulltext>F. Merkle, "Adaptive optics," in International Trends in Optics, J. W. Goodman, ed. (Academic, San Diego, Calif., 1991), p. 389.</ref-fulltext>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</item></xocs:item></xocs:doc>

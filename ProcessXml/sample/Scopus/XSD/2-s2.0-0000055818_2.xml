@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xocs:doc content-type="Abstract" dbname="scopusbase" xmlns="http://www.elsevier.com/xml/xocs/dtd" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd">
+	<xocs:meta>
+		<xocs:eid>2-s2.0-0000055818</xocs:eid>
+		<xocs:oeid>2-s1.0-4986-5XG0-TWC1-C1PK-00000-00</xocs:oeid>
+		<xocs:doi>10.4324/9780203428047</xocs:doi>
+		<xocs:online-status>available</xocs:online-status>
+		<xocs:pui>601171707</xocs:pui>
+		<xocs:sdfullavail>0</xocs:sdfullavail>/><xocs:issn/>
+		<xocs:volume/>
+		<xocs:issue/>
+		<xocs:author-surname>Zhao</xocs:author-surname>
+		<xocs:author-fi>Z</xocs:author-fi>
+		<xocs:firstpage>259</xocs:firstpage>
+		<xocs:lastpage>279</xocs:lastpage>
+		<xocs:sort-year>2013</xocs:sort-year>
+		<xocs:sort-yyyymm>201301</xocs:sort-yyyymm>
+		<xocs:pub-year>2013</xocs:pub-year>
+		<xocs:timestamp datetime="2015-05-05T09:01:01.741012-04:00">0</xocs:timestamp>
+		<orig-load-date>2015-08-19</orig-load-date>
+		<datesort>0</datesort>
+		<cto:doctype>ch</cto:doctype>
+		<cto:group-id>0000055818</cto:group-id>
+		<cto:ref-id>0342981184</cto:ref-id>
+		<cto:ref-id>0028560073</cto:ref-id>
+		<cto:ref-id>0001646449</cto:ref-id>
+		<cto:ref-id>0003955454</cto:ref-id>
+		<cto:ref-id>0003345555</cto:ref-id>
+		<cto:ref-id>0001974684</cto:ref-id>
+		<cto:ref-id>0028560069</cto:ref-id>
+		<cto:ref-id>0016558043</cto:ref-id>
+		<cto:ref-id>0023503712</cto:ref-id>
+		<cto:ref-id>84920565163</cto:ref-id>
+		<cto:unique-author>
+			<cto:auth-initials>Z.</cto:auth-initials>
+			<cto:auth-indexed-name>Zhao Z.</cto:auth-indexed-name>
+			<cto:auth-surname>Zhao</cto:auth-surname>
+			<cto:auth-id>55726131600</cto:auth-id>
+		</cto:unique-author>
+	</xocs:meta>
+	<xocs:item>
+		<item>
+			<ait:process-info>
+				<ait:date-delivered day="04" month="05" timestamp="2015-05-04T05:55:30.000030+01:00" year="2015"/>
+				<ait:date-sort day="01" month="01" year="2013"/>
+				<ait:status stage="S300" state="update" type="core"/>
+			</ait:process-info>
+			<bibrecord>
+				<item-info>
+					<copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+					<itemidlist>
+						<ce:doi>10.4324/9780203428047</ce:doi>
+						<itemid idtype="PUI">601171707</itemid>
+						<itemid idtype="CAR-ID">631267175</itemid>
+						<itemid idtype="SNBOOK">2015560157</itemid>
+						<itemid idtype="SCP">0000055818</itemid>
+						<itemid idtype="SGR">0000055818</itemid>
+					</itemidlist>
+					<history>
+						<date-created day="14" month="01" year="2015"/>
+					</history>
+					<dbcollection>SNBOOK</dbcollection>
+					<dbcollection>Scopusbase</dbcollection>
+				</item-info>
+				<head>
+					<citation-info>
+						<citation-type code="ch"/>
+						<citation-language xml:lang="eng"/>
+					</citation-info>
+					<citation-title>
+						<titletext original="y" xml:lang="eng">Demographic conditions, microsimulation, and family support for the elderly: Past, present and future in China</titletext>
+					</citation-title>
+					<author-group>
+						<author auid="55726131600" seq="1" type="auth">
+							<ce:initials>Z.</ce:initials>
+							<ce:indexed-name>Zhao Z.</ce:indexed-name>
+							<ce:surname>Zhao</ce:surname>
+							<ce:given-name>Zhongwei</ce:given-name>
+							<preferred-name>
+								<ce:initials>Z.</ce:initials>
+								<ce:indexed-name>Zhao Z.</ce:indexed-name>
+								<ce:surname>Zhao</ce:surname>
+								<ce:given-name>Zhongwei</ce:given-name>
+							</preferred-name>
+						</author>
+						<affiliation afid="60008950" country="aus" dptid="103493988">
+							<organization>Graduate School of Demography, Australian National University</organization>
+							<city>Canberra</city>
+						</affiliation>
+					</author-group>
+					<correspondence>
+						<person>
+							<ce:initials>Z.</ce:initials>
+							<ce:indexed-name>Zhao Z.</ce:indexed-name>
+							<ce:surname>Zhao</ce:surname>
+							<ce:given-name>Zhongwei</ce:given-name>
+						</person>
+						<affiliation country="aus">
+							<organization>Graduate School of Demography, Australian National University</organization>
+							<city>Canberra</city>
+						</affiliation>
+					</correspondence>
+					<source country="usa" srcid="21100365036" type="b">
+						<sourcetitle>The Locus of Care: Families, Communities, Institutions, and the Provision of Welfare Since Antiquity</sourcetitle>
+						<sourcetitle-abbrev>The Locus of Care: Families, Communities, Institutions, and the Provis. of Welf. Since Antiquity</sourcetitle-abbrev>
+						<translated-sourcetitle xml:lang="eng"/>
+						<isbn length="13" type="print">9780203428047</isbn>
+						<volisspag>
+							<pagerange first="259" last="279"/>
+						</volisspag>
+						<publicationyear first="2013"/>
+						<publicationdate>
+							<year>2013</year>
+							<month>01</month>
+							<day>01</day>
+							<date-text xfab-added="true">1 January 2013</date-text>
+						</publicationdate>
+						<website>
+							<ce:e-address type="email">http://www.taylorandfrancis.com/books/details/9780203428047/</ce:e-address>
+						</website>
+						<publisher>
+							<publishername>Taylor and Francis</publishername>
+						</publisher>
+					</source>
+					<enhancement>
+						<classificationgroup>
+							<classifications type="ASJC">
+								<classification>1200</classification>
+							</classifications>
+						</classificationgroup>
+					</enhancement>
+				</head>
+				<tail>
+					<bibliography refcount="10">
+						<reference id="1">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>An adjustment of the 1990 infant mortality rate and an estimation of the life table</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0342981184</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>Z.</ce:initials>
+										<ce:indexed-name>Zhai Z.</ce:indexed-name>
+										<ce:surname>Zhai</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Population Research</ref-sourcetitle>
+								<ref-publicationyear first="1993"/>
+								<ref-volisspag>
+									<voliss volume="2"/>
+									<pagerange first="9" last="16"/>
+								</ref-volisspag>
+							</ref-info>
+							<ref-fulltext>Z. Zhai, ‘An Adjustment of the 1990 Infant Mortality Rate and an Estimation of the Life Table’, Population Research2 (1993), pp. 9-16</ref-fulltext>
+						</reference>
+						<reference id="2">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>Below replacement fertility in china? A close look at recent evidence</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0028560073</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>J.</ce:initials>
+										<ce:indexed-name>Yuan J.</ce:indexed-name>
+										<ce:surname>Yuan</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Population Studies</ref-sourcetitle>
+								<ref-publicationyear first="1994"/>
+								<ref-volisspag>
+									<voliss volume="48"/>
+									<pagerange first="381" last="394"/>
+								</ref-volisspag>
+							</ref-info>
+							<ref-fulltext>J. Yuan, ‘Below Replacement Fertility in China? A Close Look at Recent Evidence’, Population Studies48 (1994), pp. 381-394;</ref-fulltext>
+						</reference>
+						<reference id="3">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>The computer simulation of kin sets and kin counts</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0001646449</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>J.</ce:initials>
+										<ce:indexed-name>Smith J.</ce:indexed-name>
+										<ce:surname>Smith</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Family Demography: Methods and Their Application</ref-sourcetitle>
+								<ref-publicationyear first="1987"/>
+								<ref-volisspag>
+									<pagerange first="249" last="266"/>
+								</ref-volisspag>
+								<ref-text>J. Bongaarts, T. K Burch and K. W. Wachter</ref-text>
+							</ref-info>
+							<ref-fulltext>J. Smith, ‘The Computer Simulation of Kin Sets and Kin Counts’, in J. Bongaarts, T. K Burch and K. W. Wachter (eds), Family Demography: Methods and Their Application (Oxford, 1987), pp. 249-266.</ref-fulltext>
+						</reference>
+						<reference id="4">
+							<ref-info>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0003955454</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>D.</ce:initials>
+										<ce:indexed-name>Reher D.</ce:indexed-name>
+										<ce:surname>Reher</ce:surname>
+									</author>
+									<author seq="2">
+										<ce:initials>R.</ce:initials>
+										<ce:indexed-name>Schofield R.</ce:indexed-name>
+										<ce:surname>Schofield</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Old and New Methods in Historical Demography</ref-sourcetitle>
+								<ref-publicationyear first="1993"/>
+								<ref-text>Oxford</ref-text>
+							</ref-info>
+							<ref-fulltext>D. Reher and R. Schofield (eds), Old and New Methods in Historical Demography (Oxford, 1993), pp. 413–25.</ref-fulltext>
+						</reference>
+						<reference id="5">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>Family reconstitution</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0003345555</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>E.A.</ce:initials>
+										<ce:indexed-name>Wrigley E.A.</ce:indexed-name>
+										<ce:surname>Wrigley</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>An Introduction to English Historical Demography</ref-sourcetitle>
+								<ref-publicationyear first="1966"/>
+								<ref-volisspag>
+									<pagerange first="96" last="159"/>
+								</ref-volisspag>
+								<ref-text>Wrigley London</ref-text>
+							</ref-info>
+							<ref-fulltext>E. A. Wrigley ‘Family Reconstitution’, in Wrigley (ed.), An Introduction to English Historical Demography (London, 1966), pp. 96-159.</ref-fulltext>
+						</reference>
+						<reference id="6">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>The chinese genealogy as a research source</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0001974684</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>J.M.</ce:initials>
+										<ce:indexed-name>Meskill J.M.</ce:indexed-name>
+										<ce:surname>Meskill</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Family and Kinship in Chinese Society</ref-sourcetitle>
+								<ref-publicationyear first="1970"/>
+								<ref-volisspag>
+									<pagerange first="139" last="161"/>
+								</ref-volisspag>
+								<ref-text>M. Freedman</ref-text>
+							</ref-info>
+							<ref-fulltext>J. M. Meskill ‘The Chinese Genealogy as a Research Source’, in M. Freedman (ed.), Family and Kinship in Chinese Society (Stanford, 1970), pp. 139-161;</ref-fulltext>
+						</reference>
+						<reference id="7">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>Demographic conditions and multigeneration households in chinese history: Results from genealogical research and microsimulation</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0028560069</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>Z.</ce:initials>
+										<ce:indexed-name>Zhao Z.</ce:indexed-name>
+										<ce:surname>Zhao</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Population Studies</ref-sourcetitle>
+								<ref-publicationyear first="1994"/>
+								<ref-volisspag>
+									<voliss volume="48"/>
+									<pagerange first="413" last="425"/>
+								</ref-volisspag>
+							</ref-info>
+							<ref-fulltext>Z. Zhao, ‘Demographic Conditions and Multigeneration Households in Chinese History: Results from Genealogical Research and Microsimulation’, Population Studies 48 (1994), pp. 413-425.</ref-fulltext>
+						</reference>
+						<reference id="8">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>A reassessment of the demography of traditional rural china</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0016558043</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>G.W.</ce:initials>
+										<ce:indexed-name>Barclay G.W.</ce:indexed-name>
+										<ce:surname>Barclay</ce:surname>
+									</author>
+									<author seq="2">
+										<ce:initials>A.J.</ce:initials>
+										<ce:indexed-name>Coale A.J.</ce:indexed-name>
+										<ce:surname>Coale</ce:surname>
+									</author>
+									<author seq="3">
+										<ce:initials>M.A.</ce:initials>
+										<ce:indexed-name>Stoto M.A.</ce:indexed-name>
+										<ce:surname>Stoto</ce:surname>
+									</author>
+									<author seq="4">
+										<ce:initials>T.J.</ce:initials>
+										<ce:indexed-name>Trussell T.J.</ce:indexed-name>
+										<ce:surname>Trussell</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Population Index</ref-sourcetitle>
+								<ref-publicationyear first="1976"/>
+								<ref-volisspag>
+									<voliss volume="42"/>
+									<pagerange first="606" last="635"/>
+								</ref-volisspag>
+							</ref-info>
+							<ref-fulltext>G. W. Barclay, A. J. Coale, M. A. Stoto and T. J. Trussell, ‘A Reassessment of the Demography of Traditional Rural China’, Population Index 42 (1976), pp. 606-635.</ref-fulltext>
+						</reference>
+						<reference id="9">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>Demographic consequences of the great leap forward in china’s provinces</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">0023503712</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>X.</ce:initials>
+										<ce:indexed-name>Peng X.</ce:indexed-name>
+										<ce:surname>Peng</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Population and Development Review</ref-sourcetitle>
+								<ref-publicationyear first="1987"/>
+								<ref-volisspag>
+									<voliss volume="13"/>
+									<pagerange first="639" last="670"/>
+								</ref-volisspag>
+							</ref-info>
+							<ref-fulltext>X. Peng, ‘Demographic Consequences of the Great Leap Forward in China’s Provinces’, Population and Development Review 13 (1987), pp. 639-670.</ref-fulltext>
+						</reference>
+						<reference id="10">
+							<ref-info>
+								<ref-title>
+									<ref-titletext>Recognition of the ageing trend of china’s population</ref-titletext>
+								</ref-title>
+								<refd-itemidlist>
+									<itemid idtype="SGR">84920565163</itemid>
+								</refd-itemidlist>
+								<ref-authors>
+									<author seq="1">
+										<ce:initials>C.</ce:initials>
+										<ce:indexed-name>Wu C.</ce:indexed-name>
+										<ce:surname>Wu</ce:surname>
+									</author>
+									<author seq="2">
+										<ce:initials>P.</ce:initials>
+										<ce:indexed-name>Du P.</ce:indexed-name>
+										<ce:surname>Du</ce:surname>
+									</author>
+								</ref-authors>
+								<ref-sourcetitle>Population Science of China</ref-sourcetitle>
+								<ref-publicationyear first="1992"/>
+								<ref-volisspag>
+									<voliss volume="3"/>
+									<pagerange first="1" last="5"/>
+								</ref-volisspag>
+							</ref-info>
+							<ref-fulltext>C. Wu and P. Du, ‘Recognition of the Ageing Trend of China’s Population’, Population Science of China 3 (1992), pp. 1-5</ref-fulltext>
+						</reference>
+					</bibliography>
+				</tail>
+			</bibrecord>
+		</item>
+	</xocs:item>
+</xocs:doc>

@@ -1,0 +1,4 @@
+﻿ID,FolderName,TableName,NumOfFiles,CreateDT,UpdateDT,enabled,isTableReCreated
+1,ANI-ITEM,dbo.ani_item,0,2015-09-04 10:36:25.170,2015-10-06 11:24:10.280,1,0
+2,ANI-CITEDBY,dbo.ani_citedby,0,2015-09-04 10:36:25.170,2015-10-13 08:01:51.513,1,0
+3,ANI-ITEM_test,dbo.ani_item_test,0,2015-09-04 10:38:01.063,2015-09-04 11:15:11.450,1,0

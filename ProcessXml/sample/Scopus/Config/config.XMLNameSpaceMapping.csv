@@ -1,0 +1,11 @@
+﻿ID,XmlType,XmlNameSpace,SourceTableName,CreateDT,UpdateDT,enabled
+1,ANI_ITEM,";WITH XMLNAMESPACES ('http://www.elsevier.com/xml/xocs/dtd' as xocs
+					,'http://www.elsevier.com/xml/ani/common' as ce 
+					,'http://www.elsevier.com/xml/ani/ait' as ait
+					,'http://www.elsevier.com/xml/cto/dtd' as cto
+					)",dbo.ani_item,2015-09-04 10:36:47.297,NULL,1
+2,ANI_ITEM_test,";WITH XMLNAMESPACES ('http://www.elsevier.com/xml/xocs/dtd' as xocs
+					,'http://www.elsevier.com/xml/ani/common' as ce 
+					,'http://www.elsevier.com/xml/ani/ait' as ait
+					,'http://www.elsevier.com/xml/cto/dtd' as cto
+					)",dbo.ani_item_test,2015-09-04 10:37:17.060,NULL,1

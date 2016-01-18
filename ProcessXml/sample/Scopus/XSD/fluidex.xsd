@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Fluidex OpsBank schema
+     Version 5.12.1
+
+     Copyright © 2008-2013 Elsevier B.V.
+     This is open access material under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+<!--
+     Typical invocation:
+
+     <bibdataset xmlns="http://www.elsevier.com/xml/ani/ani"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:ce="http://www.elsevier.com/xml/ani/common"
+         xmlns:ait="http://www.elsevier.com/xml/ani/ait"
+         xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/fluidex.xsd">
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.elsevier.com/xml/ani/ani" xmlns:ani="http://www.elsevier.com/xml/ani/ani">
+
+    <xs:redefine schemaLocation="ani512.xsd">
+
+        <xs:complexType name="bibliographyType">
+            <xs:complexContent>
+                <xs:restriction base="ani:bibliographyType">
+                    <xs:attribute name="refcount" use="required"/>
+                </xs:restriction>
+            </xs:complexContent>
+        </xs:complexType>
+
+        <xs:complexType name="classificationType" mixed="true">
+            <xs:complexContent>
+                <xs:restriction base="ani:classificationType">
+                    <xs:choice minOccurs="0" maxOccurs="unbounded">
+                        <xs:element ref="ani:classification-code"/>
+                        <xs:element ref="ani:classification-description"/>
+                    </xs:choice>
+                </xs:restriction>
+            </xs:complexContent>
+        </xs:complexType>
+        
+        <xs:complexType name="descriptorType">
+            <xs:complexContent>
+                <xs:restriction base="ani:descriptorType">
+                    <xs:sequence>
+                        <xs:element ref="ani:mainterm"/>
+                    </xs:sequence>
+                </xs:restriction>
+            </xs:complexContent>
+        </xs:complexType>
+
+        <xs:complexType name="enhancementType">
+            <xs:complexContent>
+                <xs:restriction base="ani:enhancementType">
+                    <xs:sequence>
+                        <xs:element minOccurs="0" ref="ani:descriptorgroup"/>
+                        <xs:element minOccurs="0" ref="ani:classificationgroup"/>
+                    </xs:sequence>
+                </xs:restriction>
+            </xs:complexContent>
+        </xs:complexType>
+
+        <xs:complexType name="headType">
+            <xs:complexContent>
+                <xs:restriction base="ani:headType">
+                    <xs:sequence>
+                        <xs:element minOccurs="0" ref="ani:citation-info"/>
+                        <xs:element minOccurs="0" ref="ani:citation-title"/>
+                        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ani:author-group"/>
+                        <xs:element minOccurs="0" ref="ani:correspondence"/>
+                        <xs:element minOccurs="0" ref="ani:grantlist"/>
+                        <xs:element minOccurs="0" ref="ani:abstracts"/>
+                        <xs:element minOccurs="0" ref="ani:source"/>
+                        <xs:element minOccurs="0" ref="ani:enhancement"/>
+                    </xs:sequence>
+                </xs:restriction>
+            </xs:complexContent>
+        </xs:complexType>
+
+        <xs:simpleType name="classificationtype.att">
+            <xs:restriction base="ani:classificationtype.att">
+                <xs:enumeration value="FLXCLASS"/>
+            </xs:restriction>
+        </xs:simpleType>
+
+        <xs:simpleType name="descriptortype.att">
+            <xs:restriction base="ani:descriptortype.att">
+                <xs:enumeration value="FDE"/>
+            </xs:restriction>
+        </xs:simpleType>
+
+    </xs:redefine>
+
+</xs:schema>

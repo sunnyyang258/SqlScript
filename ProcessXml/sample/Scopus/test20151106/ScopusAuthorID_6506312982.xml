@@ -1,0 +1,641 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-70350411126</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.4324/9780203819647</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>600972124</xocs:pui>
+    <xocs:issn />
+    <xocs:volume />
+    <xocs:issue />
+    <xocs:author-surname>Dimitriadi</xocs:author-surname>
+    <xocs:author-fi>Y</xocs:author-fi>
+    <xocs:firstpage>146</xocs:firstpage>
+    <xocs:lastpage>161</xocs:lastpage>
+    <xocs:sort-year>2012</xocs:sort-year>
+    <xocs:sort-yyyymm>201201</xocs:sort-yyyymm>
+    <xocs:pub-year>2012</xocs:pub-year>
+    <xocs:timestamp>2015-01-20T08:09:55.065378-05:00</xocs:timestamp>
+    <cto:doctype>ch</cto:doctype>
+    <cto:group-id>70350411126</cto:group-id>
+    <cto:ref-id>84919544811</cto:ref-id>
+    <cto:ref-id>84919569183</cto:ref-id>
+    <cto:ref-id>84904410781</cto:ref-id>
+    <cto:ref-id>11144286413</cto:ref-id>
+    <cto:ref-id>84919544810</cto:ref-id>
+    <cto:ref-id>84890232988</cto:ref-id>
+    <cto:ref-id>84919544809</cto:ref-id>
+    <cto:ref-id>0842317651</cto:ref-id>
+    <cto:ref-id>0042359436</cto:ref-id>
+    <cto:ref-id>33745604838</cto:ref-id>
+    <cto:ref-id>84919544808</cto:ref-id>
+    <cto:ref-id>33749829347</cto:ref-id>
+    <cto:ref-id>84905809076</cto:ref-id>
+    <cto:ref-id>17444412189</cto:ref-id>
+    <cto:ref-id>0002492416</cto:ref-id>
+    <cto:ref-id>84919544807</cto:ref-id>
+    <cto:ref-id>19644373290</cto:ref-id>
+    <cto:ref-id>84919562114</cto:ref-id>
+    <cto:ref-id>84919544806</cto:ref-id>
+    <cto:ref-id>84919544805</cto:ref-id>
+    <cto:ref-id>84919544804</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>Y.</cto:auth-initials>
+      <cto:auth-indexed-name>Dimitriadi Y.</cto:auth-indexed-name>
+      <cto:auth-surname>Dimitriadi</cto:auth-surname>
+      <cto:auth-id>6506312982</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="20" month="01" timestamp="2015-01-20T11:21:25.000025+00:00" year="2015" />
+        <ait:date-sort day="01" month="01" year="2012" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.4324/9780203819647</ce:doi>
+            <itemid idtype="PUI">600972124</itemid>
+            <itemid idtype="CAR-ID">630848443</itemid>
+            <itemid idtype="SNBOOK">2014525762</itemid>
+            <itemid idtype="SCP">70350411126</itemid>
+            <itemid idtype="SGR">70350411126</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="24" month="12" year="2014" />
+          </history>
+          <dbcollection>SNBOOK</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ch" />
+            <citation-language xml:lang="eng" />
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Emphasising the 'C' in ICT: Speaking, listening and communication</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="6506312982" seq="1" type="auth">
+              <ce:initials>Y.</ce:initials>
+              <ce:indexed-name>Dimitriadi Y.</ce:indexed-name>
+              <ce:surname>Dimitriadi</ce:surname>
+              <ce:given-name>Yota</ce:given-name>
+              <preferred-name>
+                <ce:initials>Y.</ce:initials>
+                <ce:indexed-name>Dimitriadi Y.</ce:indexed-name>
+                <ce:surname>Dimitriadi</ce:surname>
+                <ce:given-name>Yota</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60012197" country="gbr">
+              <organization>ICI in Education, Reading University</organization>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="6506312982" seq="1" type="auth">
+              <ce:initials>P.</ce:initials>
+              <ce:indexed-name>Hodson P.</ce:indexed-name>
+              <ce:surname>Hodson</ce:surname>
+              <ce:given-name>Pamela</ce:given-name>
+              <preferred-name>
+                <ce:initials>P.</ce:initials>
+                <ce:indexed-name>Hodson P.</ce:indexed-name>
+                <ce:surname>Hodson</ce:surname>
+                <ce:given-name>Pamela</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60033359" country="gbr">
+              <organization>Kingston University</organization>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="6506312982" seq="1" type="auth">
+              <ce:initials>G.</ce:initials>
+              <ce:indexed-name>Ludhra G.</ce:indexed-name>
+              <ce:surname>Ludhra</ce:surname>
+              <ce:given-name>Geeta</ce:given-name>
+              <preferred-name>
+                <ce:initials>G.</ce:initials>
+                <ce:indexed-name>Ludhra G.</ce:indexed-name>
+                <ce:surname>Ludhra</ce:surname>
+                <ce:given-name>Geeta</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60020623" country="gbr">
+              <organization>Brunei University</organization>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>Y.</ce:initials>
+              <ce:indexed-name>Dimitriadi Y.</ce:indexed-name>
+              <ce:surname>Dimitriadi</ce:surname>
+              <ce:given-name>Yota</ce:given-name>
+            </person>
+            <affiliation country="gbr">
+              <organization>ICI in Education, Reading University</organization>
+            </affiliation>
+          </correspondence>
+          <source country="gbr" srcid="21100357226" type="b">
+            <sourcetitle>Unlocking Speaking and Listening</sourcetitle>
+            <sourcetitle-abbrev>Unlocking Speaking and Listening</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng" />
+            <isbn length="13" type="print">9780203819647</isbn>
+            <volisspag>
+              <pagerange first="146" last="161" />
+            </volisspag>
+            <publicationyear first="2012" />
+            <publicationdate>
+              <year>2012</year>
+              <month>01</month>
+              <day>01</day>
+              <date-text xfab-added="true">1 January 2012</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.taylorandfrancis.com/books/details/9780203819647/</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Taylor and Francis</publishername>
+            </publisher>
+          </source>
+          <enhancement>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>3300</classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="21">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Making the Internet Special</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544811</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Abbott C.</ce:indexed-name>
+                    <ce:surname>Abbott</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Special Educational Needs and the Internet</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-text>C. Abbott (ed.) London: RoutledgeFalmer</ref-text>
+              </ref-info>
+              <ref-fulltext>Abbott, C. (2002) ‘Making the Internet Special’, in C. Abbott (ed.) Special Educational Needs and the Internet. London: RoutledgeFalmer.</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919569183</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>Becta</ce:indexed-name>
+                    <ce:text>Becta</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Entitlement to ICT in Primary English</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.ictadvice.org.uk/</ce:e-address>
+                </ref-website>
+              </ref-info>
+              <ref-fulltext>Becta (2003a) Entitlement to ICT in Primary English. Available at: http://www.ictadvice.org.uk/</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84904410781</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>Becta</ce:indexed-name>
+                    <ce:text>Becta</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>What the Research Says About Digital Video in Teaching and Learning</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.becta.org.uk/research/research.cfm?section=i&amp;id=546</ce:e-address>
+                </ref-website>
+                <ref-text>Coventry: Becta</ref-text>
+              </ref-info>
+              <ref-fulltext>Becta (2003b) What the Research Says About Digital Video in Teaching and Learning. Coventry: Becta. Available at: http://www.becta.org.uk/research/research.cfm?section=i&amp;id=546</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Storyboarding Shakespeare: Learners’ interactions with storyboard software in the process of understanding difficult literacy texts</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">11144286413</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Birmingham P.</ce:indexed-name>
+                    <ce:surname>Birmingham</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Davies C.</ce:indexed-name>
+                    <ce:surname>Davies</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Information Technology for Teacher Education</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-volisspag>
+                  <voliss issue="3" volume="10" />
+                  <pagerange first="241" last="253" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Birmingham, P. and Davies, C. (2001) ‘Storyboarding Shakespeare: learners’ interactions with storyboard software in the process of understanding difficult literacy texts’, Journal of Information Technology for Teacher Education, 10(3): 241-53.</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Learning through talk</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544810</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Corden R.</ce:indexed-name>
+                    <ce:surname>Corden</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The RoutledgeFalmer Reader in Language and Literacy</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-text>T. Grainger (ed.) London: RoutledgeFalmer</ref-text>
+              </ref-info>
+              <ref-fulltext>Corden, R. (2002) ‘Learning through talk’, in T. Grainger (ed.) (2004) The RoutledgeFalmer Reader in Language and Literacy. London: RoutledgeFalmer.</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84890232988</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Cormack P.</ce:indexed-name>
+                    <ce:surname>Cormack</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Wignall P.</ce:indexed-name>
+                    <ce:surname>Wignall</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Nichols S.</ce:indexed-name>
+                    <ce:surname>Nichols</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Classroom Discourse Project</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.griffithedu.au/schools/cls/clearinghouse/1998_classroom/cal.pdf</ce:e-address>
+                </ref-website>
+              </ref-info>
+              <ref-fulltext>Cormack, P., Wignall, P. and Nichols, S. (1998) Classroom Discourse Project. Available at: http://www.griffithedu.au/schools/cls/clearinghouse/1998_classroom/cal.pdf</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544809</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>DfEE</ce:indexed-name>
+                    <ce:text>DfEE</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>The National Curriculum for ICT</ref-sourcetitle>
+                <ref-publicationyear first="1999" />
+                <ref-text>London: DfEE</ref-text>
+              </ref-info>
+              <ref-fulltext>DfEE (1999) The National Curriculum for ICT. London: DfEE.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0842317651</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>DfES</ce:indexed-name>
+                    <ce:text>DfES</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Every Child Matters Green Paper</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.dfes.gov.uk/everychildmatters</ce:e-address>
+                </ref-website>
+              </ref-info>
+              <ref-fulltext>DfES (2003a) Every Child Matters Green Paper. Available at: http://www.dfes.gov.uk/everychildmatters</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0042359436</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>DfES</ce:indexed-name>
+                    <ce:text>DfES</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Excellence and Enjoyment: A Strategy for Primary Schools</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-text>London: DfES</ref-text>
+              </ref-info>
+              <ref-fulltext>DfES (2003b) Excellence and Enjoyment: A Strategy for Primary Schools. London: DfES.</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33745604838</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>DfES</ce:indexed-name>
+                    <ce:text>DfES</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Speaking, Listening, Learning: Working with Children in Key Stages 1 and 2</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-text>London: DfES</ref-text>
+              </ref-info>
+              <ref-fulltext>DfES (2003c) Speaking, Listening, Learning: Working with Children in Key Stages 1 and 2. London: DfES.</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544808</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Dimitriadi Y.</ce:indexed-name>
+                    <ce:surname>Dimitriadi</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Hodson P.</ce:indexed-name>
+                    <ce:surname>Hodson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Digital Video and Bilingual Children with Special Educational Needs: Supporting Literacy Activities</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.becta.org.uk/research/reports/digitalvideo/</ce:e-address>
+                </ref-website>
+              </ref-info>
+              <ref-fulltext>Dimitriadi, Y. and Hodson, P. (2004) Digital Video and Bilingual Children with Special Educational Needs: Supporting Literacy Activities. Available at: http://www.becta.org.uk/research/reports/digitalvideo/</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33749829347</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Hennessey S.</ce:indexed-name>
+                    <ce:surname>Hennessey</ce:surname>
+                  </author>
+                  <et-al />
+                </ref-authors>
+                <ref-sourcetitle>Pedagogic Strategies for Using ICT to Support Subject Teaching and Learning: An Analysis Across 15 Case Studies</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-text>Cambridge: University of Cambridge Faculty of Education, Research Report no. 03/1</ref-text>
+              </ref-info>
+              <ref-fulltext>Hennessey, S. et al. (2003) Pedagogic Strategies for Using ICT to Support Subject Teaching and Learning: An Analysis Across 15 Case Studies. Cambridge: University of Cambridge Faculty of Education, Research Report no. 03/1.</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Raising achievement in literacy through ICT</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84905809076</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Higgins S.</ce:indexed-name>
+                    <ce:surname>Higgins</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Moseley D.</ce:indexed-name>
+                    <ce:surname>Moseley</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Teaching Primary Literacy with ICT</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-text>M. Monteith (ed.) Maidenhead: Open University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Higgins, S. and Moseley, D. (2002) ‘Raising achievement in literacy through ICT’, in M. Monteith (ed.) Teaching Primary Literacy with ICT. Maidenhead: Open University Press.</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">17444412189</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Livingstone S.</ce:indexed-name>
+                    <ce:surname>Livingstone</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Bober M.</ce:indexed-name>
+                    <ce:surname>Bober</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>UK Children Go Online. Surveying the Experiences of Young People and Their Parents</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-text>London: Department of Media and Communications, The London School of Economics and Political Science</ref-text>
+              </ref-info>
+              <ref-fulltext>Livingstone, S. and Bober, M. (2004) UK Children Go Online. Surveying the Experiences of Young People and Their Parents. London: Department of Media and Communications, The London School of Economics and Political Science.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Is “exploratory talk” productive talk?</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0002492416</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Mercer N.</ce:indexed-name>
+                    <ce:surname>Mercer</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Wegerif R.</ce:indexed-name>
+                    <ce:surname>Wegerif</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Learning with Computers: Analysing Productive Interaction</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-text>New York: Routledge</ref-text>
+              </ref-info>
+              <ref-fulltext>Mercer, N. and Wegerif, R. (1998) ‘Is “exploratory talk” productive talk?’, in K. Littleton and P. Light. Learning with Computers: Analysing Productive Interaction. New York: Routledge.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544807</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Prensky M.</ce:indexed-name>
+                    <ce:surname>Prensky</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>On the Horizon</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-volisspag>
+                  <voliss issue="5" volume="9" />
+                </ref-volisspag>
+                <ref-text>NCB University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Prensky, M. (2001) On the Horizon. NCB University Press, Vol. 9, No. 5.</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">19644373290</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Reid M.</ce:indexed-name>
+                    <ce:surname>Reid</ce:surname>
+                  </author>
+                  <et-al />
+                </ref-authors>
+                <ref-sourcetitle>Evaluation of the Becta Digital Video Pilot Project</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-text>Coventry: Becta</ref-text>
+              </ref-info>
+              <ref-fulltext>Reid, M. et al. (2002) Evaluation of the Becta Digital Video Pilot Project. Coventry: Becta.</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919562114</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Sharpe J.</ce:indexed-name>
+                    <ce:surname>Sharpe</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Potter J.</ce:indexed-name>
+                    <ce:surname>Potter</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Allen J.</ce:indexed-name>
+                    <ce:surname>Allen</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Loveless A.</ce:indexed-name>
+                    <ce:surname>Loveless</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>ICT in Teacher Education</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-text>Exeter: Learning Matters</ref-text>
+              </ref-info>
+              <ref-fulltext>Sharpe, J., Potter, J., Allen, J. and Loveless, A. (2002) ICT in Teacher Education. Exeter: Learning Matters.</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544806</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Theodosakis N.</ce:indexed-name>
+                    <ce:surname>Theodosakis</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>How Digital Filmmaking Develops Higher-Order Thinking Skills</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.vste.org.uk</ce:e-address>
+                </ref-website>
+                <ref-text>VSTE</ref-text>
+              </ref-info>
+              <ref-fulltext>Theodosakis, N. (2002) How Digital Filmmaking Develops Higher-Order Thinking Skills. VSTE. Available at: http://www.vste.org.uk</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544805</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>UKLA</ce:indexed-name>
+                    <ce:text>UKLA</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>Response to QCA’s English 21 Initiative</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-website>
+                  <ce:e-address type="email">http://www.ukla.0rg/site/publications/papers/7.php</ce:e-address>
+                </ref-website>
+              </ref-info>
+              <ref-fulltext>UKLA (2005) Response to QCA’s English 21 Initiative. Available at: http://www.ukla.0rg/site/publications/papers/7.php</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84919544804</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <collaboration seq="1">
+                    <ce:indexed-name>Virtual Teacher Centre</ce:indexed-name>
+                    <ce:text>Virtual Teacher Centre</ce:text>
+                  </collaboration>
+                </ref-authors>
+                <ref-sourcetitle>ICT and the English Curriculum</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-website>
+                  <ce:e-address type="email">http://vtc.ngfl.gov.uk/docserver.php?temid=84</ce:e-address>
+                </ref-website>
+              </ref-info>
+              <ref-fulltext>Virtual Teacher Centre (2003) ICT and the English Curriculum. Available at: http://vtc.ngfl.gov.uk/docserver.php?temid=84</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

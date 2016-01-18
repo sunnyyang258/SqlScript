@@ -1,0 +1,693 @@
+<!--    Abstract and Indexing DTD version 5.12.3
+
+        Copyright © 2008-2015 Elsevier B.V.
+
+        This is the Abstract and Indexing DTD.
+
+        You are not allowed to copy or distribute this DTD
+        beyond your department. This DTD version is company
+        confidential, and may not be distributed to other
+        parties than Elsevier B.V. or its business partners.
+
+        Typical invocation:
+
+        <!DOCTYPE bibdataset PUBLIC
+          "-//ES//DTD abstracting and indexing DTD version 5.12//EN//XML"
+          "ani512.dtd">
+
+-->
+<!--
+======================================================================
+DOCTYPE bibdataset
+
+DTD for Abstract and Indexing data delivered by
+Elsevier Science Bibliographic Databases.
+
+======================================================================
+-->
+
+<!--                            Basic Document Elements                 -->
+
+<!-- namespaces and public identifiers -->
+<!ENTITY % ESAI.xmlns       "'http://www.elsevier.com/xml/ani/ani'" >
+<!ENTITY % ESAIT.xmlns      "'http://www.elsevier.com/xml/ani/ait'" >
+<!ENTITY % ESCE.xmlns       "'http://www.elsevier.com/xml/ani/common'" >
+
+<!-- Entities copied from the Common Element Pool -->
+<!ENTITY % string.data      "#PCDATA" >
+<!ENTITY % richstring.data  "#PCDATA|sup|inf" >
+
+
+<!-- code lists -->
+
+<!ENTITY % Citationtype.ref        "(ab|ar|ba|bk|br|bz|cb|ch|cp|cr|di|ed|er|ip|le|no|pa|pr|re|rf|rp|sh|wp)" >
+<!--
+    Abstract Report      ab
+    Article              ar
+                         ba
+    Book                 bk
+    Book Review          br
+    Business Article     bz
+    Conference Abstract  cb
+    Chapter              ch
+    Conference Paper     cp
+    Conference Review    cr
+    Dissertation         di
+    Editorial            ed
+    Erratum              er
+    Article in Press     ip
+    Letter               le
+    Note                 no
+    Patent               pa
+    Press Release        pr
+    Review               re
+                         rf
+    Report               rp
+    Short Survey         sh
+    Working Paper        wp
+-->
+
+<!ENTITY % GenCitationtype.ref     "(bk|ch|co|cp|di|ep|ot|pa|st|tr)" >
+<!--
+    Book                   bk
+    Chapter                ch
+    Conference Proceeding  co
+    Conference Paper       cp
+    Dissertation           di
+    E-print                ep
+    Other                  ot
+    Patent                 pa
+    Standard               st
+    Technical Report       tr
+-->
+
+<!ENTITY % Sourcetype.ref          "(b|d|j|k|m|p|r|n|w)" >
+<!--
+    Source Types
+
+    b => Book
+    d => Trade Journal
+    j => Journal
+    k => Book Series
+    m => Multi-volume Reference Works
+    p => Conference Proceeding
+    r => Report
+    n => Newsletter
+    w => Newspaper
+-->
+
+<!ENTITY % ContributorRole.att     "(auth|comp|edit|illu|phot|publ|revi|tran)" >
+<!--
+    Roles
+
+    auth => author
+    comp => compiler
+    edit => editor
+    illu => illustrator
+    phot => photographer
+    publ => publisher
+    revi => reviewer
+    tran => translator
+-->
+
+<!-- attribute group entities -->
+<!ENTITY % top-level.att
+               "xmlns      CDATA  #FIXED %ESAI.xmlns;
+                xmlns:ait  CDATA  #FIXED %ESAIT.xmlns;
+                xmlns:ce   CDATA  #FIXED %ESCE.xmlns;
+                xmlns:xsi  CDATA  #IMPLIED
+                xsi:schemaLocation CDATA #IMPLIED" >
+
+<!ENTITY % e-address-type           "( email | url )" >
+
+<!ENTITY % yesno                    "( y | n )" >
+
+<!ENTITY % Date.att                 "year       NMTOKEN  #REQUIRED
+                                     month      NMTOKEN  #REQUIRED
+                                     day        NMTOKEN  #REQUIRED
+                                     timestamp  CDATA    #IMPLIED" >
+
+<!ENTITY % PubDate.ref              "( year?, month?, day?, date-text? )" >
+
+<!ENTITY % PersonalName.ref         "( ce:initials?, ce:indexed-name,
+                                       ( ( ce:degrees?, ce:surname, ce:given-name?, ce:suffix? ) | nametext )? )" >
+
+<!ENTITY % Affiliation.ref          "( ce:text |
+                                      ( organization*, address-part?,
+                                        ( city-group | ( city?, state?, postal-code* ) )? ) )" >
+
+<!ENTITY % chemicalsourcetype.att   "( esbd | nlm )" >
+
+<!ENTITY % classificationtype.att   "( ASJC | AUTARC-CONFIGURATION | CABSCLASS | CBNBGEO | CBNBSCOPE | CBNBSECTOR |
+                                       CBNBSIC | CONFIGURATION-VALUE | CPXCLASS | EMCLASS | ESBD | ENCOMPASSCLASS |
+                                       FLXCLASS | GEOCLASS | PATAUTO | PATENT-FAMILY | PATMANU | REAXYS-PRIORITY |
+                                       SUBJECT | SATURATION | SUPPORT-INFORMATION | WTACLASS )" >
+
+<!ENTITY % descriptortype.att       "( AUD | AUT | BLS | BTC | CBA | CBB | CBC | CBE | CCV | CFL | CLU | CMH | CNC |
+                                       CSL | CSS | CSW | CTB | CTC | CTN | DID | DRA | DRG | ECN | FDE | GDE | GLY |
+                                       KWD | MDV | MEA | MED | MGS | MLA | MKW | MMS | MSC | MSF | MSH | MUD | OZR |
+                                       PCV | REA | RGI | SID | SPC | SPO | SUA | TRP | WDE )" >
+
+<!ENTITY % manufacturertype.att     "( MNF | MNV | MNW )" >
+
+<!ENTITY % sequencebanktype.att     "( DDBJ | EMBL | GENBANK | PIR | SWISSPROT | UNNAMED )" >
+
+<!ENTITY % tradenametype.att        "( TNM | TNV | TNW )" >
+
+
+<!-- Wrapper and process info -->
+
+<!ELEMENT  bibdataset         ( item+ ) >
+<!ATTLIST  bibdataset
+           %top-level.att; >
+
+<!ELEMENT  ce:initials        ( %string.data; ) >
+<!ELEMENT  ce:indexed-name    ( %string.data; ) >
+<!ELEMENT  ce:degrees         ( %string.data; ) >
+<!ELEMENT  ce:given-name      ( %string.data; ) >
+<!ELEMENT  ce:surname         ( %string.data; ) >
+<!ELEMENT  ce:suffix          ( %string.data; ) >
+<!ELEMENT  ce:pii             ( %string.data; ) >
+<!ELEMENT  ce:doi             ( %string.data; ) >
+<!ELEMENT  ce:text            ( %richstring.data; )* >
+<!ELEMENT  ce:para            ( %richstring.data; )* >
+<!ELEMENT  ce:e-address       ( %string.data; ) >
+<!ATTLIST  ce:e-address
+           type  %e-address-type;  "email" >
+<!ELEMENT  nametext           ( %string.data; ) >
+
+<!ELEMENT  year               ( %string.data; ) >
+<!ELEMENT  month              ( %string.data; ) >
+<!ELEMENT  day                ( %string.data; ) >
+<!ELEMENT  date-text          ( %string.data; ) >
+
+<!ELEMENT  item               ( ait:process-info, bibrecord ) >
+
+<!ELEMENT  ait:process-info   ( ait:date-delivered, ait:date-sort, ait:status ) >
+<!ELEMENT  ait:date-delivered EMPTY >
+<!ATTLIST  ait:date-delivered
+           %Date.att; >
+<!ELEMENT  ait:date-sort      EMPTY >
+<!ATTLIST  ait:date-sort
+           %Date.att; >
+<!ELEMENT  ait:status         EMPTY>
+<!ATTLIST  ait:status
+           type      ( core | dummy )           #REQUIRED
+           state     ( new | update | delete )  #REQUIRED
+           stage     ( S100 | S200 | S300 )     "S300"
+           priority  NMTOKEN                    #IMPLIED >
+
+<!-- Bibliographic record -->
+
+<!ELEMENT  bibrecord          ( item-info, itemfilelinks?, head, tail? ) >
+
+<!ELEMENT  item-info          ( copyright+, itemidlist, history, dbcollection*, external-source? ) >
+
+<!ELEMENT  itemfilelinks      ( itemfilelink+ ) >
+<!ELEMENT  itemfilelink       EMPTY >
+<!ATTLIST  itemfilelink
+           href       CDATA  #REQUIRED
+           MIME-type  CDATA  #IMPLIED >
+
+<!ELEMENT  copyright          ( %string.data; ) >
+<!ATTLIST  copyright
+           type  CDATA  #IMPLIED >
+
+<!ELEMENT  itemidlist         ( ce:pii?, ce:doi?, itemid+ ) >
+<!ELEMENT  itemid             ( %string.data; ) >
+<!ATTLIST  itemid
+           idtype  NMTOKEN  #REQUIRED >
+
+<!-- Head -->
+
+<!ELEMENT  head               ( citation-info?, related-item*, citation-title?,
+                                author-group*, correspondence?, grantlist?,
+                                abstracts?, source?, enhancement? ) >
+
+<!--Item history elements-->
+
+<!ELEMENT  history            ( date-created, date-completed?, date-revised* ) >
+<!ELEMENT  date-created       EMPTY >
+<!ATTLIST  date-created
+           %Date.att; >
+<!ELEMENT  date-completed     EMPTY >
+<!ATTLIST  date-completed
+           %Date.att; >
+<!ELEMENT  date-revised       EMPTY >
+<!ATTLIST  date-revised
+           %Date.att; >
+
+<!ELEMENT  dbcollection       ( %string.data; ) >
+
+<!ELEMENT  external-source    ( %string.data; ) >
+
+<!ELEMENT  tail               ( bibliography ) >
+
+<!--Citation elements-->
+<!ELEMENT  citation-info      ( citation-type*, citation-language*, abstract-language*,
+                                patent?, author-keywords?, dummy-link?,
+                                figure-information? ) >
+
+<!ELEMENT  citation-type      EMPTY >
+<!ATTLIST  citation-type
+           code  %Citationtype.ref;  #REQUIRED >
+
+<!ELEMENT  citation-language  EMPTY >
+<!ATTLIST  citation-language
+           xml:lang  CDATA  #REQUIRED  >
+
+<!ELEMENT  abstract-language  EMPTY  >
+<!ATTLIST  abstract-language
+           xml:lang  CDATA  #REQUIRED  >
+
+<!ELEMENT  author-keywords    ( author-keyword+ ) >
+<!ELEMENT  author-keyword     ( %richstring.data; )* >
+
+<!ELEMENT  dummy-link         ( gen-citationtype, itemlink ) >
+<!ATTLIST  dummy-link
+           restricted-access  %yesno;  #REQUIRED >
+
+<!ELEMENT  gen-citationtype   EMPTY >
+<!ATTLIST  gen-citationtype
+           code  %GenCitationtype.ref;  #REQUIRED >
+
+<!ELEMENT  figure-information ( %string.data; ) >
+
+<!ELEMENT  itemlink           ( %string.data; ) >
+
+<!ELEMENT  related-item       ( ce:pii?, ce:doi?, citation-info?, citation-title?,
+                                contributor-group*, source? ) >
+<!ATTLIST  related-item
+           type  CDATA  #REQUIRED >
+
+<!ELEMENT  contributor-group  ( ( contributor | collaboration )*, et-al?, affiliation? ) >
+<!ELEMENT  contributor        ( %PersonalName.ref;, ce:e-address? ) >
+<!ATTLIST  contributor
+           role  %ContributorRole.att;  #REQUIRED
+           auid  CDATA                  #IMPLIED
+           seq   CDATA                  #REQUIRED
+           type  CDATA                  #IMPLIED >
+          
+<!ELEMENT  citation-title     ( titletext+ ) >
+<!ELEMENT  titletext          ( %richstring.data; )* >
+<!ATTLIST  titletext
+           xml:lang  CDATA    "eng"
+           original  %yesno;  #IMPLIED >
+
+<!ELEMENT  sup                ( %richstring.data; )* >
+<!ELEMENT  inf                ( %richstring.data; )* >
+
+
+<!--AuthorGroup elements-->
+<!ELEMENT  author-group       ( ( author | collaboration )*, et-al?, affiliation? ) >
+<!ELEMENT  et-al              EMPTY >
+<!ELEMENT  author             ( %PersonalName.ref;, preferred-name?, ce:e-address? ) >
+<!ATTLIST  author
+           auid  CDATA  #IMPLIED
+           seq   CDATA  #REQUIRED
+           type  CDATA  #IMPLIED
+           orcid CDATA  #IMPLIED >
+          
+<!ELEMENT  preferred-name     ( %PersonalName.ref; ) >
+<!ELEMENT  collaboration      ( ce:indexed-name, ce:text ) >
+<!ATTLIST  collaboration
+           seq  CDATA  #REQUIRED >
+<!ELEMENT  affiliation        ( %Affiliation.ref; ) >
+<!ATTLIST  affiliation
+           afid     CDATA      #IMPLIED
+           dptid    CDATA      #IMPLIED
+           country  CDATA      #IMPLIED >
+          
+<!ELEMENT  organization       ( %richstring.data; )* >
+<!ELEMENT  address-part       ( %richstring.data; )* >
+<!ELEMENT  city-group         ( %string.data; ) >
+<!ELEMENT  city               ( %string.data; ) >
+<!ELEMENT  state              ( %string.data; ) >
+<!ELEMENT  postal-code        ( %string.data; ) >
+<!ATTLIST  postal-code
+           type  ( pre | post | zip )  #IMPLIED >
+<!ELEMENT  country            EMPTY  >
+<!ATTLIST  country
+           iso-code  CDATA  #REQUIRED  >
+
+<!--Correspondence Address elements-->
+
+<!ELEMENT  correspondence     ( person?, affiliation?, ce:e-address? ) >
+<!ELEMENT  person             ( %PersonalName.ref; ) >
+
+<!ELEMENT  grantlist          ( grant+ ) >
+<!ATTLIST  grantlist
+           complete  %yesno;  "y">
+<!ELEMENT  grant              ( grant-id?, grant-acronym?, grant-agency, grant-agency-id? ) >
+<!ELEMENT  grant-id           ( %string.data; ) >
+<!ELEMENT  grant-acronym      ( %string.data; ) >
+<!ELEMENT  grant-agency       ( %string.data; ) >
+<!ATTLIST  grant-agency
+           iso-code     CDATA    #IMPLIED >
+<!ELEMENT  grant-agency-id    ( %string.data; ) >
+
+<!ELEMENT  abstracts          ( abstract+ ) >
+<!ELEMENT  abstract           ( publishercopyright?, ce:para+ ) >
+<!ATTLIST  abstract
+           perspective  CDATA    #IMPLIED
+           xml:lang     CDATA    "eng"
+           original     %yesno;  #REQUIRED
+           source       CDATA    #IMPLIED >
+<!ELEMENT  publishercopyright ( %richstring.data; )* >
+
+<!--Source elements-->
+
+<!ELEMENT  source             ( sourcetitle?, preferred-sourcetitle?, sourcetitle-abbrev?, translated-sourcetitle*,
+                                volumetitle?, issuetitle?, issn*, isbn*, codencode?, part?,
+                                volisspag?, article-number?, publicationyear?, publicationdate?,
+                                website*, contributor-group*, editors?, publisher*,
+                                additional-srcinfo?, bib-text? ) >
+<!ATTLIST  source
+           srcid     CDATA            #IMPLIED
+           type     %Sourcetype.ref;  #IMPLIED
+           country  CDATA             #IMPLIED >
+
+<!ELEMENT  sourcetitle            ( %richstring.data; )* >
+<!ELEMENT  preferred-sourcetitle  ( %richstring.data; )* >
+<!ELEMENT  sourcetitle-abbrev     ( %richstring.data; )* >
+<!ELEMENT  translated-sourcetitle ( %richstring.data; )* >
+<!ATTLIST  translated-sourcetitle
+           xml:lang  CDATA  #IMPLIED >
+
+<!ELEMENT  volumetitle        ( %richstring.data; )* >
+<!ELEMENT  issuetitle         ( %richstring.data; )* >
+<!ELEMENT  issn               ( %string.data; ) >
+<!ATTLIST  issn
+           type               ( print | electronic )  #IMPLIED >
+<!ELEMENT  isbn               ( %string.data; ) >
+<!ATTLIST  isbn
+           type    CDATA             #IMPLIED
+           length  ( 10 | 13 )       #IMPLIED
+           level   ( set | volume )  #IMPLIED >
+
+<!ELEMENT  codencode          ( %string.data; ) >
+<!ELEMENT  part               ( %string.data; ) >
+
+<!ELEMENT  volisspag          ( ( voliss, supplement?, ( pagerange | pages )?, pagecount* ) |
+                                ( ( pagerange | pages | pagecount ), pagecount* ) ) >
+<!ELEMENT  voliss             EMPTY >
+<!ATTLIST  voliss
+           volume  CDATA  #IMPLIED
+           issue   CDATA  #IMPLIED >
+
+<!ELEMENT  article-number     ( %string.data; ) >
+<!ELEMENT  supplement         ( %string.data; ) >
+
+<!ELEMENT  pagerange          EMPTY >
+<!ATTLIST  pagerange
+           first  CDATA  #REQUIRED
+           last   CDATA  #IMPLIED >
+<!ELEMENT  pages              ( %string.data; ) >
+<!ELEMENT  pagecount          ( %string.data; ) >
+<!ATTLIST  pagecount
+           type  ( arabic | roman )  "arabic" >
+
+<!ELEMENT  publicationyear    EMPTY >
+<!ATTLIST  publicationyear
+           first  CDATA  #REQUIRED
+           last   CDATA  #IMPLIED >
+<!ELEMENT  publicationdate    ( %PubDate.ref; ) >
+
+<!ELEMENT  website            ( ( websitename, ce:e-address? ) | ce:e-address ) >
+<!ATTLIST  website
+           type  ( item | source )  #IMPLIED >
+<!ELEMENT  websitename        ( %string.data; ) >
+
+<!ELEMENT  editors            ( editor+ ) >
+<!ATTLIST  editors
+           complete  %yesno;  "y" >
+<!ELEMENT  editor             ( %PersonalName.ref; ) >
+<!ATTLIST  editor
+           role CDATA #IMPLIED
+           type CDATA #IMPLIED >
+
+<!ELEMENT  publisher          ( publishername?, ( publisheraddress | affiliation )?, ce:e-address? ) >
+<!ELEMENT  publishername      ( %string.data; ) >
+<!ELEMENT  publisheraddress   ( %string.data; ) >
+
+<!ELEMENT  additional-srcinfo ( secondaryjournal?, conferenceinfo?, reportinfo? ) >
+
+<!ELEMENT  secondaryjournal   ( sourcetitle?, sourcetitle-abbrev?, issn?,
+                                publicationyear?, publicationdate?, voliss? ) >
+
+<!ELEMENT  conferenceinfo     ( confevent?, confpublication? ) >
+
+<!ELEMENT  confevent          ( confname?, confnumber?, conftheme?, confseriestitle?,
+                                conflocation?, confdate?, conforganization?, confURL?,
+                                confcatnumber?, confcode?, confsponsors? ) >
+<!ELEMENT  confname           ( %richstring.data; )* >
+<!ELEMENT  confnumber         ( %richstring.data; )* >
+<!ELEMENT  conftheme          ( %richstring.data; )* >
+<!ELEMENT  confseriestitle    ( %richstring.data; )* >
+<!ELEMENT  conflocation       ( venue?, address-part?, ( city-group | ( city?, state?, postal-code* ) )? ) >
+<!ATTLIST  conflocation
+           country  CDATA  #IMPLIED >
+<!ELEMENT  venue              ( %string.data; ) >
+<!ELEMENT  confdate           ( ( startdate, enddate? ) | date-text ) >
+<!ELEMENT  startdate          EMPTY>
+<!ATTLIST  startdate
+           %Date.att; >
+<!ELEMENT  enddate            EMPTY>
+<!ATTLIST  enddate
+           %Date.att; >
+<!ELEMENT  conforganization   ( %richstring.data; )* >
+<!ELEMENT  confURL            ( %string.data; ) >
+<!ELEMENT  confcatnumber      ( %string.data; ) >
+<!ELEMENT  confcode           ( %string.data; ) >
+<!ELEMENT  confsponsors       ( confsponsor+ ) >
+<!ATTLIST  confsponsors
+           complete  %yesno;  "y" >
+<!ELEMENT  confsponsor        ( %string.data; ) >
+
+<!ELEMENT  confpublication    ( confeditors?, procpartno?, procpagerange?, procpagecount? ) >
+<!ELEMENT  confeditors        ( editors?, editororganization*, editoraddress? ) >
+<!ELEMENT  editororganization ( %string.data; ) >
+<!ELEMENT  editoraddress      ( %string.data; ) >
+
+<!ELEMENT  procpartno         ( %string.data; ) >
+<!ELEMENT  procpagerange      ( %string.data; ) >
+<!ELEMENT  procpagecount      ( %string.data; ) >
+
+<!ELEMENT  reportinfo         ( reportnumber ) >
+<!ELEMENT  reportnumber       ( %string.data; ) >
+
+<!ELEMENT  bib-text           ( %string.data; ) >
+
+<!--ReferenceList elements-->
+
+<!ELEMENT  bibliography       ( reference* ) >
+<!ATTLIST  bibliography
+           refcount  CDATA  #REQUIRED >
+
+<!ELEMENT  reference          ( ref-info, ref-fulltext?, refd-itemcitation? ) >
+<!ATTLIST  reference
+           id  NMTOKEN  #IMPLIED >
+
+<!ELEMENT  ref-info           ( ref-title?, refd-itemidlist?, ref-authors?, ref-sourcetitle?,
+                                ref-publicationyear?, ref-volisspag?, ref-website?, ref-text? ) >
+
+<!ELEMENT  ref-title          ( ref-titletext+ ) >
+<!ELEMENT  ref-titletext      ( %richstring.data; )* >
+<!ELEMENT  refd-itemidlist    ( itemid+ ) >
+<!ELEMENT  ref-authors        ( ( author | collaboration )*, et-al? ) >
+<!ELEMENT  ref-sourcetitle    ( %richstring.data; )* >
+<!ELEMENT  ref-publicationyear  EMPTY>
+<!ATTLIST  ref-publicationyear
+           first  CDATA  #REQUIRED
+           last   CDATA  #IMPLIED >
+<!ELEMENT  ref-volisspag      ( voliss?, ( pagerange | pages | pagecount )? ) >
+<!ELEMENT  ref-website        ( ( websitename, ce:e-address? ) | ce:e-address ) >
+<!ELEMENT  ref-text           ( %richstring.data; )* >
+<!ELEMENT  ref-fulltext       ( %richstring.data; )* >
+
+<!ELEMENT  refd-itemcitation  ( ( ce:pii?, ce:doi?, citation-title?, author-group?,
+                                  sourcetitle?, sourcetitle-abbrev?, issn*, isbn*,
+                                  codencode?, part?, publicationyear?,
+                                  volisspag?, article-number?, website? ) |
+                                  ref-text ) >
+<!ATTLIST  refd-itemcitation
+           type  CDATA  #IMPLIED >
+
+<!-- Enhancements elements -->
+
+<!ELEMENT  enhancement        ( patent?, descriptorgroup?, API-descriptorgroup?,
+                                classificationgroup?, manufacturergroup?, tradenamegroup?,
+                                sequencebanks?, chemicalgroup? ) >
+<!ATTLIST  enhancement
+           status  ( 001 | 002 )  #IMPLIED
+           type    ( 17 | 8 )     #IMPLIED >
+
+<!-- Patent elements -->
+
+<!ELEMENT  patent             ( registrations?, localapplications?, prioapplications?,
+                                assignees?, designatedcountries?, ipc-codes?, inventors? ) >
+<!ELEMENT  registrations      ( registration+ ) >
+<!ELEMENT  registration       ( %string.data; ) >
+<!ELEMENT  localapplications  ( localapplication+ ) >
+<!ELEMENT  localapplication   ( %string.data; ) >
+<!ELEMENT  prioapplications   ( prioapplication+ ) >
+<!ELEMENT  prioapplication    ( %string.data; ) >
+<!ELEMENT  assignees          ( assignee+ ) >
+<!ELEMENT  assignee           ( %string.data; ) >
+<!ELEMENT  designatedcountries  ( country+ ) >
+<!ELEMENT  ipc-codes          ( ipc-code+ ) >
+<!ELEMENT  ipc-code           ( %string.data; ) >
+<!ATTLIST  ipc-code
+           seq  CDATA  #IMPLIED >
+<!ELEMENT  inventors          ( inventor+ ) >
+<!ELEMENT  inventor           ( %string.data; ) >
+
+<!-- Descriptor elements -->
+
+<!ELEMENT  descriptorgroup    ( descriptors+ ) >
+<!ELEMENT  descriptors        ( descriptor+ ) >
+<!ATTLIST  descriptors
+           controlled  %yesno;               #REQUIRED
+           type        %descriptortype.att;  #REQUIRED
+           name        CDATA                 #IMPLIED >
+<!ELEMENT  descriptor         ( mainterm, ( link, ( sublink, subsublink* )* )* ) >
+<!ELEMENT  mainterm           ( %richstring.data; )* >
+<!ATTLIST  mainterm
+           weight     ( a | b )  "b"
+           candidate  %yesno;    "n"
+           sort-pos   CDATA      #IMPLIED
+           code       CDATA      #IMPLIED >
+<!ELEMENT  link               ( %richstring.data; )* >
+<!ATTLIST  link
+           linknr     CDATA      #IMPLIED >
+<!ELEMENT  sublink            ( %richstring.data; )* >
+<!ATTLIST  sublink
+           linknr     CDATA      #IMPLIED
+           weight     ( a | b | not-defined )  "not-defined" >
+<!ELEMENT  subsublink         ( %richstring.data; )* >
+<!ATTLIST  subsublink
+           linknr     CDATA      #IMPLIED >
+
+<!-- API descriptor group elements -->
+
+<!ELEMENT API-descriptorgroup  ( autoposting | ( API-groups, autoposting? ) ) >
+
+<!ELEMENT API-groups           ( ( API-ATM-termgroup | API-LTM-termgroup )+ ) >
+
+<!ELEMENT API-ATM-termgroup    ( ATM-template, API-term*, ATM-Vgroup*, ATM-Sgroup* ) >
+
+<!ELEMENT ATM-template         ( %string.data; ) >
+<!ATTLIST ATM-template
+          template-role  (A|P)  #IMPLIED >
+
+<!ELEMENT API-term             ( %richstring.data; )* >
+<!ATTLIST API-term
+          major-term-indicator  ( M | N | P )  #IMPLIED
+          role                  ( A | I | P )  #IMPLIED
+          group-indicator       CDATA          #IMPLIED
+          sort-pos              CDATA          #IMPLIED >
+
+<!ELEMENT ATM-Vgroup           ( API-term+, API-termgroup* ) >
+
+<!ELEMENT ATM-Sgroup           ( API-term+, API-termgroup* ) >
+
+<!ELEMENT API-termgroup        ( API-term+ ) >
+
+<!ELEMENT API-LTM-termgroup    ( API-term+ ) >
+
+<!ELEMENT autoposting          ( API-CC?, API-LTM?, API-ALC?, API-ATM-group?,
+                                 API-AMS?, API-APC?, API-ANC?,
+                                 API-AT?, API-CT?, API-LT?, API-CRN? ) >
+
+<!ELEMENT API-CC               ( classification+ ) >
+
+<!ELEMENT API-LTM              ( API-LTM-group+ ) >
+
+<!ELEMENT API-LTM-group        ( autoposting-term+ ) >
+
+<!ELEMENT API-ALC              ( LTM-count, LT-count ) >
+
+<!ELEMENT LTM-count            ( %string.data; ) >
+
+<!ELEMENT LT-count             ( %string.data; ) >
+
+<!ELEMENT API-ATM-group        ( API-ATM+ ) >
+
+<!ELEMENT API-ATM              ( ATM-template, LT-count?, API-term*, ATM-Vgroup*, ATM-Sgroup? ) >
+
+<!ELEMENT API-AMS              ( API-term ) >
+
+<!ELEMENT API-APC              ( API-term+ ) >
+
+<!ELEMENT API-ANC              ( API-term+ ) >
+
+<!ELEMENT API-AT               ( autoposting-term+ ) >
+
+<!ELEMENT autoposting-term     ( %string.data; ) >
+<!ATTLIST autoposting-term
+          prefix   CDATA          #IMPLIED
+          postfix  CDATA          #IMPLIED
+          CAS-nr   ( n | y | b )  "n" >
+
+<!ELEMENT API-CT               ( autoposting-term+ ) >
+
+<!ELEMENT API-LT               ( API-LT-group+ ) >
+
+<!ELEMENT API-LT-group         ( autoposting-term+ ) >
+
+<!ELEMENT API-CRN              ( autoposting-term+ ) >
+
+<!-- Classification elements -->
+
+<!ELEMENT  classificationgroup         ( classifications+ ) >
+<!ELEMENT  classifications             ( classification+ ) >
+<!ATTLIST  classifications
+           type  %classificationtype.att;  #REQUIRED >
+<!ELEMENT  classification              ( %string.data; | classification-code | classification-description )* >
+<!ATTLIST  classification
+           weight  CDATA          #IMPLIED >
+<!ELEMENT  classification-code         ( %string.data; ) >
+<!ELEMENT  classification-description  ( %string.data; ) >
+
+<!-- Manufacturer elements -->
+
+<!ELEMENT  manufacturergroup  ( manufacturers+ ) >
+<!ELEMENT  manufacturers      ( manufacturer+ ) >
+<!ATTLIST  manufacturers
+           type  %manufacturertype.att;  #REQUIRED >
+<!ELEMENT  manufacturer       ( %string.data; ) >
+<!ATTLIST  manufacturer
+           country  CDATA  #IMPLIED >
+
+<!-- Tradename elements -->
+
+<!ELEMENT  tradenamegroup     ( tradenames+ ) >
+<!ELEMENT  tradenames         ( trademanuitem+ ) >
+<!ATTLIST  tradenames
+           type  %tradenametype.att;  #REQUIRED >
+<!ELEMENT  trademanuitem      ( tradename, manufacturer? ) >
+<!ELEMENT  tradename          ( %string.data; ) >
+
+<!-- SequenceBankList elements -->
+
+<!ELEMENT  sequencebanks      ( sequencebank+ ) >
+<!ELEMENT  sequencebank       ( sequence-number+ ) >
+<!ATTLIST  sequencebank
+           name      %sequencebanktype.att;  #REQUIRED
+           complete  %yesno;                 "y" >
+<!ELEMENT  sequence-number    ( %string.data; ) >
+<!ATTLIST  sequence-number
+           type  ( submitted | referenced )  "referenced" >
+
+<!-- CAS List elements -->
+
+<!ELEMENT  chemicalgroup      ( chemicals+ ) >
+<!ELEMENT  chemicals          ( chemical+ ) >
+<!ATTLIST  chemicals
+           source  %chemicalsourcetype.att;  "esbd" >
+<!ELEMENT  chemical           ( chemical-name, cas-registry-number*, enzyme-commission-number* ) >
+<!ELEMENT  chemical-name      ( %string.data; ) >
+<!ELEMENT  cas-registry-number       ( %string.data; ) >
+<!ELEMENT  enzyme-commission-number  ( %string.data; ) >
+
+<!--   End of file   -->

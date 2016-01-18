@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TestXMLImport", "TestXMLImport\TestXMLImport.dtproj", "{6E9480B9-C417-49D9-BA51-83D006CACDBA}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "XMLProcess", "XMLProcess\XMLProcess.dtproj", "{F14D39F5-2719-438B-8334-2F21E4778479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+		Test|Default = Test|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9480B9-C417-49D9-BA51-83D006CACDBA}.Development|Default.ActiveCfg = Development
+		{6E9480B9-C417-49D9-BA51-83D006CACDBA}.Development|Default.Build.0 = Development
+		{6E9480B9-C417-49D9-BA51-83D006CACDBA}.Test|Default.ActiveCfg = Test
+		{6E9480B9-C417-49D9-BA51-83D006CACDBA}.Test|Default.Build.0 = Test
+		{F14D39F5-2719-438B-8334-2F21E4778479}.Development|Default.ActiveCfg = Development
+		{F14D39F5-2719-438B-8334-2F21E4778479}.Development|Default.Build.0 = Development
+		{F14D39F5-2719-438B-8334-2F21E4778479}.Test|Default.ActiveCfg = Development
+		{F14D39F5-2719-438B-8334-2F21E4778479}.Test|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

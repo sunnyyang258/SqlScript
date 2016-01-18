@@ -1,0 +1,2783 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-72749105163</xocs:eid>
+    <xocs:oeid />
+    <xocs:doi>10.1093/bjc/azp045</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>355844000</xocs:pui>
+    <xocs:issn>00070955</xocs:issn>
+    <xocs:volume>50</xocs:volume>
+    <xocs:issue>1</xocs:issue>
+    <xocs:author-surname>Gibbs</xocs:author-surname>
+    <xocs:author-fi>C</xocs:author-fi>
+    <xocs:firstpage>124</xocs:firstpage>
+    <xocs:lastpage>144</xocs:lastpage>
+    <xocs:sort-year>2010</xocs:sort-year>
+    <xocs:sort-yyyymm>201001</xocs:sort-yyyymm>
+    <xocs:pub-year>2010</xocs:pub-year>
+    <xocs:timestamp>2015-05-12T00:17:14.606074-04:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>72749105163</cto:group-id>
+    <cto:ref-id>0038771458</cto:ref-id>
+    <cto:ref-id>67649325622</cto:ref-id>
+    <cto:ref-id>0003671129</cto:ref-id>
+    <cto:ref-id>33847683398</cto:ref-id>
+    <cto:ref-id>72749103815</cto:ref-id>
+    <cto:ref-id>0003459395</cto:ref-id>
+    <cto:ref-id>72749106211</cto:ref-id>
+    <cto:ref-id>34247697225</cto:ref-id>
+    <cto:ref-id>33846892762</cto:ref-id>
+    <cto:ref-id>0004047299</cto:ref-id>
+    <cto:ref-id>0030306578</cto:ref-id>
+    <cto:ref-id>72749093914</cto:ref-id>
+    <cto:ref-id>33846933695</cto:ref-id>
+    <cto:ref-id>33748790526</cto:ref-id>
+    <cto:ref-id>0004267933</cto:ref-id>
+    <cto:ref-id>72749117781</cto:ref-id>
+    <cto:ref-id>84928459819</cto:ref-id>
+    <cto:ref-id>26944463720</cto:ref-id>
+    <cto:ref-id>0038187641</cto:ref-id>
+    <cto:ref-id>0038564276</cto:ref-id>
+    <cto:ref-id>0003426656</cto:ref-id>
+    <cto:ref-id>72749127928</cto:ref-id>
+    <cto:ref-id>57649155733</cto:ref-id>
+    <cto:ref-id>33646597261</cto:ref-id>
+    <cto:ref-id>72749117279</cto:ref-id>
+    <cto:ref-id>0004238390</cto:ref-id>
+    <cto:ref-id>0004016756</cto:ref-id>
+    <cto:ref-id>25144435410</cto:ref-id>
+    <cto:ref-id>70149101752</cto:ref-id>
+    <cto:ref-id>31844442262</cto:ref-id>
+    <cto:ref-id>72749107629</cto:ref-id>
+    <cto:ref-id>0010556374</cto:ref-id>
+    <cto:ref-id>54749156522</cto:ref-id>
+    <cto:ref-id>0003837669</cto:ref-id>
+    <cto:ref-id>10844261584</cto:ref-id>
+    <cto:ref-id>61849185089</cto:ref-id>
+    <cto:ref-id>0003842901</cto:ref-id>
+    <cto:ref-id>0003938647</cto:ref-id>
+    <cto:ref-id>0033768245</cto:ref-id>
+    <cto:ref-id>42149170005</cto:ref-id>
+    <cto:ref-id>29844451820</cto:ref-id>
+    <cto:ref-id>0003993013</cto:ref-id>
+    <cto:ref-id>70350546328</cto:ref-id>
+    <cto:ref-id>0002584771</cto:ref-id>
+    <cto:ref-id>72749092999</cto:ref-id>
+    <cto:ref-id>0038582828</cto:ref-id>
+    <cto:ref-id>0037769852</cto:ref-id>
+    <cto:ref-id>0000125532</cto:ref-id>
+    <cto:ref-id>72749093913</cto:ref-id>
+    <cto:ref-id>0007723649</cto:ref-id>
+    <cto:ref-id>48249122101</cto:ref-id>
+    <cto:ref-id>0041120319</cto:ref-id>
+    <cto:ref-id>38049143212</cto:ref-id>
+    <cto:ref-id>72749123879</cto:ref-id>
+    <cto:ref-id>0041877677</cto:ref-id>
+    <cto:ref-id>84928835632</cto:ref-id>
+    <cto:ref-id>12344338198</cto:ref-id>
+    <cto:ref-id>72749109503</cto:ref-id>
+    <cto:ref-id>33747400202</cto:ref-id>
+    <cto:ref-id>36549080228</cto:ref-id>
+    <cto:ref-id>33748479140</cto:ref-id>
+    <cto:ref-id>33749005706</cto:ref-id>
+    <cto:ref-id>48849105903</cto:ref-id>
+    <cto:ref-id>48249132503</cto:ref-id>
+    <cto:ref-id>42649119432</cto:ref-id>
+    <cto:ref-id>0002485331</cto:ref-id>
+    <cto:ref-id>0030521693</cto:ref-id>
+    <cto:ref-id>47149119039</cto:ref-id>
+    <cto:ref-id>0003754536</cto:ref-id>
+    <cto:ref-id>57849087658</cto:ref-id>
+    <cto:ref-id>9944238860</cto:ref-id>
+    <cto:ref-id>1442305964</cto:ref-id>
+    <cto:ref-id>8644245880</cto:ref-id>
+    <cto:ref-id>33748761910</cto:ref-id>
+    <cto:ref-id>72749095336</cto:ref-id>
+    <cto:ref-id>57649188630</cto:ref-id>
+    <cto:ref-id>21944437483</cto:ref-id>
+    <cto:ref-id>0012458957</cto:ref-id>
+    <cto:ref-id>0142183094</cto:ref-id>
+    <cto:ref-id>0023324565</cto:ref-id>
+    <cto:ref-id>0346396456</cto:ref-id>
+    <cto:ref-id>72749087864</cto:ref-id>
+    <cto:ref-id>0002035795</cto:ref-id>
+    <cto:ref-id>34248974807</cto:ref-id>
+    <cto:ref-id>0346965661</cto:ref-id>
+    <cto:ref-id>72749098030</cto:ref-id>
+    <cto:ref-id>72749097542</cto:ref-id>
+    <cto:ref-id>34247529903</cto:ref-id>
+    <cto:ref-id>50849084530</cto:ref-id>
+    <cto:ref-id>21844498228</cto:ref-id>
+    <cto:ref-id>3242724145</cto:ref-id>
+    <cto:ref-id>0004044453</cto:ref-id>
+    <cto:ref-id>51649123914</cto:ref-id>
+    <cto:ref-id>0142199774</cto:ref-id>
+    <cto:ref-id>69849116904</cto:ref-id>
+    <cto:ref-id>41249098746</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>C.</cto:auth-initials>
+      <cto:auth-indexed-name>Gibbs C.</cto:auth-indexed-name>
+      <cto:auth-surname>Gibbs</cto:auth-surname>
+      <cto:auth-id>23979908800</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>M.L.</cto:auth-initials>
+      <cto:auth-indexed-name>Gore M.L.</cto:auth-indexed-name>
+      <cto:auth-surname>Gore</cto:auth-surname>
+      <cto:auth-id>8984334900</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>E.F.</cto:auth-initials>
+      <cto:auth-indexed-name>McGarrell E.F.</cto:auth-indexed-name>
+      <cto:auth-surname>McGarrell</cto:auth-surname>
+      <cto:auth-id>6603159983</cto:auth-id>
+    </cto:unique-author>
+    <cto:unique-author>
+      <cto:auth-initials>L.</cto:auth-initials>
+      <cto:auth-indexed-name>Rivers III L.</cto:auth-indexed-name>
+      <cto:auth-surname>Rivers III</cto:auth-surname>
+      <cto:auth-id>23025852900</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="11" month="05" timestamp="2015-05-11T15:33:19.000019+01:00" year="2015" />
+        <ait:date-sort day="01" month="01" year="2010" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2010 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <ce:doi>10.1093/bjc/azp045</ce:doi>
+            <itemid idtype="PUI">355844000</itemid>
+            <itemid idtype="SNSOC">2009067227</itemid>
+            <itemid idtype="SCP">72749105163</itemid>
+            <itemid idtype="SGR">72749105163</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="31" month="12" year="2009" />
+          </history>
+          <dbcollection>SNSOC</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>Conservation criminology</author-keyword>
+              <author-keyword>Environmental crime</author-keyword>
+              <author-keyword>Environmental risk</author-keyword>
+              <author-keyword>Green criminology</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Introducing conservation criminology towards interdisciplinary scholarship on environmental crimes and risks</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="23979908800" seq="1">
+              <ce:initials>C.</ce:initials>
+              <ce:indexed-name>Gibbs C.</ce:indexed-name>
+              <ce:surname>Gibbs</ce:surname>
+              <ce:given-name>Carole</ce:given-name>
+              <preferred-name>
+                <ce:initials>C.</ce:initials>
+                <ce:indexed-name>Gibbs C.</ce:indexed-name>
+                <ce:surname>Gibbs</ce:surname>
+                <ce:given-name>Carole</ce:given-name>
+              </preferred-name>
+              <ce:e-address type="email">gibbsca1@msu.edu</ce:e-address>
+            </author>
+            <affiliation afid="60031707" country="usa" dptid="108127422">
+              <organization>School of Criminal Justice</organization>
+              <organization>Department of Fisheries and Wildlife</organization>
+              <organization>Michigan State University</organization>
+              <address-part>508 Baker Hall</address-part>
+              <city-group>East Lansing, MI 48824</city-group>
+            </affiliation>
+          </author-group>
+          <author-group>
+            <author auid="8984334900" seq="2">
+              <ce:initials>M.L.</ce:initials>
+              <ce:indexed-name>Gore M.L.</ce:indexed-name>
+              <ce:surname>Gore</ce:surname>
+              <ce:given-name>Meredith L.</ce:given-name>
+              <preferred-name>
+                <ce:initials>M.L.</ce:initials>
+                <ce:indexed-name>Gore M.</ce:indexed-name>
+                <ce:surname>Gore</ce:surname>
+                <ce:given-name>Meredith L.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="6603159983" seq="3">
+              <ce:initials>E.F.</ce:initials>
+              <ce:indexed-name>McGarrell E.F.</ce:indexed-name>
+              <ce:surname>McGarrell</ce:surname>
+              <ce:given-name>Edmund F.</ce:given-name>
+              <preferred-name>
+                <ce:initials>E.F.</ce:initials>
+                <ce:indexed-name>McGarrell E.</ce:indexed-name>
+                <ce:surname>McGarrell</ce:surname>
+                <ce:given-name>Edmund F.</ce:given-name>
+              </preferred-name>
+            </author>
+            <author auid="23025852900" seq="4">
+              <ce:initials>L.</ce:initials>
+              <ce:indexed-name>Rivers III L.</ce:indexed-name>
+              <ce:surname>Rivers III</ce:surname>
+              <ce:given-name>Louie</ce:given-name>
+              <preferred-name>
+                <ce:initials>L.</ce:initials>
+                <ce:indexed-name>Rivers L.</ce:indexed-name>
+                <ce:surname>Rivers</ce:surname>
+                <ce:given-name>Louie</ce:given-name>
+              </preferred-name>
+            </author>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>C.</ce:initials>
+              <ce:indexed-name>Gibbs C.</ce:indexed-name>
+              <ce:surname>Gibbs</ce:surname>
+            </person>
+            <affiliation country="usa">
+              <organization>School of Criminal Justice</organization>
+              <organization>Department of Fisheries and Wildlife</organization>
+              <organization>Michigan State University</organization>
+              <address-part>508 Baker Hall</address-part>
+              <city-group>East Lansing, MI 48824</city-group>
+            </affiliation>
+            <ce:e-address type="email">gibbsca1@msu.edu</ce:e-address>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>Environmental crimes, noncompliance and risks create significant harm to the health of humans and the natural world. Yet, the field of criminology has historically shown relatively little interest in the topic. The emergence of environmental or green criminology over the past decade marks a shift in this trend, but attempts to define a unique area of study have been extensively criticized. In the following paper, we offer a conceptual framework, called conservation criminology, designed to advance current discussions of green crime via the integration of criminology with natural resource disciplines and risk and decision sciences. Implications of the framework for criminological and general research on environmental crime and risks are discussed.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="gbr" srcid="22810" type="j">
+            <sourcetitle>British Journal of Criminology</sourcetitle>
+            <sourcetitle-abbrev>Br. J. Criminol.</sourcetitle-abbrev>
+            <issn type="print">00070955</issn>
+            <issn type="electronic">14643529</issn>
+            <volisspag>
+              <voliss issue="1" volume="50" />
+              <pagerange first="124" last="144" />
+            </volisspag>
+            <publicationyear first="2010" />
+            <publicationdate>
+              <year>2010</year>
+              <month>01</month>
+              <date-text xfab-added="true">January 2010</date-text>
+            </publicationdate>
+          </source>
+          <enhancement>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>2734</classification>
+                <classification>3308</classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="96">
+            <reference id="1">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>New evidence on the origins of corporate crime</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0038771458</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.R.</ce:initials>
+                    <ce:indexed-name>Alexander C.R.</ce:indexed-name>
+                    <ce:surname>Alexander</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.A.</ce:initials>
+                    <ce:indexed-name>Cohen M.A.</ce:indexed-name>
+                    <ce:surname>Cohen</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Managerial and Decision Economics</ref-sourcetitle>
+                <ref-publicationyear first="1996" />
+                <ref-volisspag>
+                  <voliss volume="17" />
+                  <pagerange first="421" last="435" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Alexander, C. R. and Cohen, M. A. (1996), 'New Evidence on the Origins of Corporate Crime', Managerial and Decision Economics, 17 : 421-435</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Evaluating trends in corporate sentencing: How reliable are the U.S. sentencing commission's data?</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">67649325622</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.R.</ce:initials>
+                    <ce:indexed-name>Alexander C.R.</ce:indexed-name>
+                    <ce:surname>Alexander</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Arlen J.</ce:indexed-name>
+                    <ce:surname>Arlen</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>M.A.</ce:initials>
+                    <ce:indexed-name>Cohen M.A.</ce:indexed-name>
+                    <ce:surname>Cohen</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Federal Sentencing Reporter</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-volisspag>
+                  <voliss volume="13" />
+                  <pagerange first="108" last="129" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Alexander, C. R., Arlen, J. and Cohen, M. A. (2000), 'Evaluating Trends in Corporate Sentencing: How Reliable Are the U.S. Sentencing Commission's Data?', Federal Sentencing Reporter, 13 : 108-129</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003671129</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Allaby M.</ce:indexed-name>
+                    <ce:surname>Allaby</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Concise Oxford Dictionary of Ecology</ref-sourcetitle>
+                <ref-publicationyear first="1994" />
+                <ref-text>Oxford, United Kingdom : Oxford University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Allaby, M. (1994), The Concise Oxford Dictionary of Ecology. Oxford, United Kingdom : Oxford University Press.</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Rethinking of risk communication: Lessons from the decision sciences</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33847683398</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Arvai J.</ce:indexed-name>
+                    <ce:surname>Arvai</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Tree Genetics and Genomes</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="3" />
+                  <pagerange first="173" last="185" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Arvai, J. (2007), 'Rethinking of Risk Communication: Lessons from the Decision Sciences ', Tree Genetics and Genomes, 3 : 173-185</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Adopting orphans: Uncertainty and other neglected aspects of complex problems</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749103815</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Bammer G.</ce:indexed-name>
+                    <ce:surname>Bammer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Uncertainty and Risk: Multidisciplinary Perspectives</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <pagerange first="27" last="44" />
+                </ref-volisspag>
+                <ref-text>G. Bammer and M. Smithson, eds, London : Earthscan</ref-text>
+              </ref-info>
+              <ref-fulltext>Bammer, G. (2008), 'Adopting Orphans: Uncertainty and Other Neglected Aspects of Complex Problems', in G. Bammer and M. Smithson, eds, Uncertainty and Risk: Multidisciplinary Perspectives, 27-44. London : Earthscan.</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003459395</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Bardach E.</ce:indexed-name>
+                    <ce:surname>Bardach</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.A.</ce:initials>
+                    <ce:indexed-name>Kagan R.A.</ce:indexed-name>
+                    <ce:surname>Kagan</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Going by the Book: The Problem of Regulatory Unreasonableness</ref-sourcetitle>
+                <ref-publicationyear first="1982" />
+                <ref-text>Philadelphia : Temple University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Bardach, E. and Kagan, R. A. (1982), Going by the Book: The Problem of Regulatory Unreasonableness. Philadelphia : Temple University Press.</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749106211</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.S.</ce:initials>
+                    <ce:indexed-name>Batie S.S.</ce:indexed-name>
+                    <ce:surname>Batie</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Sustainability Science: Environmental Science and Policy Program Seminar</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>East Lansing, MI : Michigan State University</ref-text>
+              </ref-info>
+              <ref-fulltext>Batie, S. S. (2008), Sustainability Science: Environmental Science and Policy Program Seminar. East Lansing, MI : Michigan State University.</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34247697225</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>U.</ce:initials>
+                    <ce:indexed-name>Beck U.</ce:indexed-name>
+                    <ce:surname>Beck</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Risk Society: Toward A New Modernity</ref-sourcetitle>
+                <ref-publicationyear first="1992" />
+                <ref-text>London : Sage</ref-text>
+              </ref-info>
+              <ref-fulltext>Beck, U. (1992), The Risk Society: Toward a New Modernity. London : Sage.</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The political culture of poaching: A case study from northern greece</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33846892762</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Bell S.</ce:indexed-name>
+                    <ce:surname>Bell</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>K.</ce:initials>
+                    <ce:indexed-name>Hampshire K.</ce:indexed-name>
+                    <ce:surname>Hampshire</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Topalidou S.</ce:indexed-name>
+                    <ce:surname>Topalidou</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Biodiversity and Conservation</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="16" />
+                  <pagerange first="399" last="418" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Bell, S., Hampshire, K. and Topalidou, S. (2007), 'The Political Culture of Poaching: A Case Study from Northern Greece', Biodiversity and Conservation, 16 : 399-418.</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004047299</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Braithwaite J.</ce:indexed-name>
+                    <ce:surname>Braithwaite</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Corporate Crime in the Pharmaceutical Industry</ref-sourcetitle>
+                <ref-publicationyear first="1984" />
+                <ref-text>London : Routledge and Kegan Paul</ref-text>
+              </ref-info>
+              <ref-fulltext>Braithwaite, J. (1984), Corporate Crime in the Pharmaceutical Industry. London : Routledge and Kegan Paul.</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Noncompliance in environmental reporting: Are violators ignorant, or evasive, of the law?</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0030306578</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Brehm J.</ce:indexed-name>
+                    <ce:surname>Brehm</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.T.</ce:initials>
+                    <ce:indexed-name>Hamilton J.T.</ce:indexed-name>
+                    <ce:surname>Hamilton</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>American Journal of Political Science</ref-sourcetitle>
+                <ref-publicationyear first="1996" />
+                <ref-volisspag>
+                  <voliss volume="40" />
+                  <pagerange first="444" last="477" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Brehm, J. and Hamilton, J. T. (1996), 'Noncompliance in Environmental Reporting: Are Violators Ignorant, or Evasive, of the Law?', American Journal of Political Science, 40 : 444-477</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Communicating risk without creating unintended effects</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749093914</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Cho H.</ce:indexed-name>
+                    <ce:surname>Cho</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>American Journal of Health Studies</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="23" />
+                  <pagerange first="104" last="110" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Cho, H. (2003), 'Communicating Risk without Creating Unintended Effects', American Journal of Health Studies, 23 : 104-110</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Sustainability science: A room of its own</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33846933695</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>W.C.</ce:initials>
+                    <ce:indexed-name>Clark W.C.</ce:indexed-name>
+                    <ce:surname>Clark</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Proceedings of the National Academy of Sciences</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="104" />
+                  <pagerange first="1737" last="1738" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Clark, W. C. (2007), 'Sustainability Science: A Room of Its Own', Proceedings of the National Academy of Sciences, 104 : 1737-1738</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Defining environmental crime</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33748790526</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Clifford M.</ce:indexed-name>
+                    <ce:surname>Clifford</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.D.</ce:initials>
+                    <ce:indexed-name>Edwards T.D.</ce:indexed-name>
+                    <ce:surname>Edwards</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Environmental Crime: Enforcement, Policy, and Social Responsibility</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-volisspag>
+                  <pagerange first="5" last="30" />
+                </ref-volisspag>
+                <ref-text>M. Clifford, ed. Gaithersburg, MD : Aspen</ref-text>
+              </ref-info>
+              <ref-fulltext>Clifford, M. and Edwards, T. D. (1998), 'Defi ning " Environmental Crime "', in M. Clifford, ed., Environmental Crime: Enforcement, Policy, and Social Responsibility, 5-30. Gaithersburg, MD : Aspen.</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004267933</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.B.</ce:initials>
+                    <ce:indexed-name>Clinard M.B.</ce:indexed-name>
+                    <ce:surname>Clinard</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.C.</ce:initials>
+                    <ce:indexed-name>Yeager P.C.</ce:indexed-name>
+                    <ce:surname>Yeager</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Corporate Crime</ref-sourcetitle>
+                <ref-publicationyear first="1980" />
+                <ref-text>New York : The Free Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Clinard, M. B. and Yeager, P. C. (1980), Corporate Crime. New York : The Free Press.</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Why do firms comply with environmental regulations?</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749117781</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.A.</ce:initials>
+                    <ce:indexed-name>Cohen M.A.</ce:indexed-name>
+                    <ce:surname>Cohen</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>21st Century Management: A Reference Handbook</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="1" />
+                  <pagerange first="261" last="270" />
+                </ref-volisspag>
+                <ref-text>C Wankel, ed., Thousand Oaks, CA : Sage Publications</ref-text>
+              </ref-info>
+              <ref-fulltext>Cohen, M. A. (2008), 'Why do Firms Comply with Environmental Regulations?', in C. Wankel, ed., 21st Century Management: A Reference Handbook, Vol.1 261-270 Thousand Oaks, CA : Sage Publications.</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Toward an integrated theory of white-collar crime</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84928459819</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.W.</ce:initials>
+                    <ce:indexed-name>Coleman J.W.</ce:indexed-name>
+                    <ce:surname>Coleman</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>American Journal of Sociology</ref-sourcetitle>
+                <ref-publicationyear first="1987" />
+                <ref-volisspag>
+                  <voliss volume="93" />
+                  <pagerange first="406" last="439" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Coleman, J. W. (1987), 'Toward an Integrated Theory of White-Collar Crime', American Journal of Sociology, 93 : 406-439</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">26944463720</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Poison PCs and Toxic TVs</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-website>
+                  <ce:e-address type="url">http://svtc.igc.org/cleancc/pubs/ppcttv2004.pdf</ce:e-address>
+                </ref-website>
+                <ref-text>Computer TakeBack Campaign available online at</ref-text>
+              </ref-info>
+              <ref-fulltext>Computer TakeBack Campaign (2004), 'Poison PCs and Toxic TVs 'available online at http :// svtc. igc. org/cleancc/pubs/ppcttv2004. pdf.</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Cradle-to-cradle stewardship of drugs for minimizing their environmental disposition while promoting human health: Rationale for and avenues toward a green pharmacy</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0038187641</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.G.</ce:initials>
+                    <ce:indexed-name>Daughton C.G.</ce:indexed-name>
+                    <ce:surname>Daughton</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Environmental Health Perspectives</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="111" />
+                  <pagerange first="757" last="774" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Daughton, C. G. (2003), 'Cradle-to-Cradle Stewardship of Drugs for Minimizing their Environmental Disposition while Promoting Human Health: Rationale for and Avenues Toward a Green Pharmacy', Environmental Health Perspectives, 111 : 757-774</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0038564276</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.J.</ce:initials>
+                    <ce:indexed-name>Decker D.J.</ce:indexed-name>
+                    <ce:surname>Decker</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.L.</ce:initials>
+                    <ce:indexed-name>Brown T.L.</ce:indexed-name>
+                    <ce:surname>Brown</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>W.F.</ce:initials>
+                    <ce:indexed-name>Siemer W.F.</ce:indexed-name>
+                    <ce:surname>Siemer</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Human Dimensions of Wildlife Management in North America</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-text>Bethesda, MD : The Wildlife Society</ref-text>
+              </ref-info>
+              <ref-fulltext>Decker, D. J., Brown, T. L. and Siemer, W. F. (2001), Human Dimensions of Wildlife Management in North America. Bethesda, MD : The Wildlife Society.</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003426656</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Douglas M.</ce:indexed-name>
+                    <ce:surname>Douglas</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Wildavsky A.</ce:indexed-name>
+                    <ce:surname>Wildavsky</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Risk and Culture: An Essay on the Selection of Technological and Environmental Dangers</ref-sourcetitle>
+                <ref-publicationyear first="1982" />
+                <ref-text>Berkeley, CA : University of California Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Douglas, M. and Wildavsky, A. (1982), Risk and Culture: An Essay on the Selection of Technological and Environmental Dangers. Berkeley, CA : University of California Press.</ref-fulltext>
+            </reference>
+            <reference id="22">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749127928</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Gibbs C.</ce:indexed-name>
+                    <ce:surname>Gibbs</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.L.</ce:initials>
+                    <ce:indexed-name>Melvin J.L.</ce:indexed-name>
+                    <ce:surname>Melvin</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>E.F.</ce:initials>
+                    <ce:indexed-name>Mc Garrell E.F.</ce:indexed-name>
+                    <ce:surname>Mc Garrell</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Axelrod M.</ce:indexed-name>
+                    <ce:surname>Axelrod</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Exploring the Environmental Risks and Organized Crime Links of Electronic Waste Generated in the U.S</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>An Interim Report to the Interpol Pollution Crimes Committee</ref-text>
+              </ref-info>
+              <ref-fulltext>Gibbs, C., Melvin, J. L., McGarrell, E. F. and Axelrod, M. (2008), Exploring the Environmental Risks and Organized Crime Links of Electronic Waste Generated in the U.S.: An Interim Report to the Interpol Pollution Crimes Committee.</ref-fulltext>
+            </reference>
+            <reference id="23">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Measuring corporate environmental crime rats: Progress and problems</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">57649155733</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Gibbs C.</ce:indexed-name>
+                    <ce:surname>Gibbs</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.S.</ce:initials>
+                    <ce:indexed-name>Simpson S.S.</ce:indexed-name>
+                    <ce:surname>Simpson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Crime, Law and Social Change</ref-sourcetitle>
+                <ref-publicationyear first="2009" />
+                <ref-volisspag>
+                  <voliss volume="51" />
+                  <pagerange first="87" last="107" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gibbs, C. and Simpson, S. S. (2009), Measuring Corporate Environmental Crime Rats: Progress and Problems. Crime, Law and Social Change, 51 : 87-107.</ref-fulltext>
+            </reference>
+            <reference id="24">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Stakeholder perceptions risk associated with human-black bear confl icts in New York's adirondack park campgrounds: Implications for theory and practice</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33646597261</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.L.</ce:initials>
+                    <ce:indexed-name>Gore M.L.</ce:indexed-name>
+                    <ce:surname>Gore</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.A.</ce:initials>
+                    <ce:indexed-name>Knuth B.A.</ce:indexed-name>
+                    <ce:surname>Knuth</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.D.</ce:initials>
+                    <ce:indexed-name>Curtis P.D.</ce:indexed-name>
+                    <ce:surname>Curtis</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>J.E.</ce:initials>
+                    <ce:indexed-name>Shanahan J.E.</ce:indexed-name>
+                    <ce:surname>Shanahan</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Wildlife Society Bulletin</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="34" />
+                  <pagerange first="36" last="43" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gore, M. L., Knuth, B. A., Curtis, P. D. and Shanahan, J. E. (2006), Stakeholder Perceptions Risk Associated with Human-Black Bear Confl icts in New York's Adirondack Park Campgrounds: Implications for Theory and Practice, Wildlife Society Bulletin, 34 : 36-43.</ref-fulltext>
+            </reference>
+            <reference id="25">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749117279</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.L.</ce:initials>
+                    <ce:indexed-name>Gore M.L.</ce:indexed-name>
+                    <ce:surname>Gore</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.J.</ce:initials>
+                    <ce:indexed-name>Riley S.J.</ce:indexed-name>
+                    <ce:surname>Riley</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Improving Decision Making in Contentious Great Lakes Fishery Management</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Presentation to the Great Lakes Fishery Commission. February 28, 2007. Ann Arbor, Michigan</ref-text>
+              </ref-info>
+              <ref-fulltext>Gore, M. L. and Riley, S. J. (2007), Improving Decision Making in Contentious Great Lakes Fishery Management. Presentation to the Great Lakes Fishery Commission. February 28, 2007. Ann Arbor, Michigan.</ref-fulltext>
+            </reference>
+            <reference id="26">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004238390</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.J.</ce:initials>
+                    <ce:indexed-name>Gould S.J.</ce:indexed-name>
+                    <ce:surname>Gould</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Structure of Evolutionary Theory</ref-sourcetitle>
+                <ref-publicationyear first="2002" />
+                <ref-text>Cambridge, MA : Harvard University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Gould, S. J. (2002), The Structure of Evolutionary Theory. Cambridge, MA : Harvard University Press.</ref-fulltext>
+            </reference>
+            <reference id="27">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004016756</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.S.</ce:initials>
+                    <ce:indexed-name>Green G.S.</ce:indexed-name>
+                    <ce:surname>Green</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Occupational Crime</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-text>Chicago : Nelson-Hall</ref-text>
+              </ref-info>
+              <ref-fulltext>Green, G. S. (1990), Occupational Crime. Chicago : Nelson-Hall.</ref-fulltext>
+            </reference>
+            <reference id="28">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Disaster by design</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">25144435410</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Green P.</ce:indexed-name>
+                    <ce:surname>Green</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>British Journal of Criminology</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss volume="45" />
+                  <pagerange first="528" last="546" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Green, P. (2005), 'Disaster by Design', British Journal of Criminology, 45 : 528-546</ref-fulltext>
+            </reference>
+            <reference id="29">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70149101752</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Poisoning the Poor: Electronic Waste in Ghana</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-website>
+                  <websitename>Greenpeace</websitename>
+                  <ce:e-address type="url">www.greenpeace.org/usa/news/poisoning-the-poor</ce:e-address>
+                </ref-website>
+                <ref-text>available online at</ref-text>
+              </ref-info>
+              <ref-fulltext>Greenpeace (2008), 'Poisoning the Poor: Electronic Waste in Ghana 'available online at www. greenpeace. org/usa/news/poisoning - the - poor.</ref-fulltext>
+            </reference>
+            <reference id="30">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Improving risk communication: Questions of content and intent</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">31844442262</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Gregory R.</ce:indexed-name>
+                    <ce:surname>Gregory</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Prospects and Problems in Risk Communication</ref-sourcetitle>
+                <ref-publicationyear first="1989" />
+                <ref-volisspag>
+                  <pagerange first="1" last="9" />
+                </ref-volisspag>
+                <ref-text>W Leiss, ed. Waterloo, Ontario : University Of Waterloo Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Gregory, R. (1989), 'Improving Risk Communication: Questions of Content and Intent ', in W. Leiss, ed., Prospects and Problems in Risk Communication, 1-9. Waterloo, Ontario : University Of Waterloo Press.</ref-fulltext>
+            </reference>
+            <reference id="31">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749107629</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Gregory R.</ce:indexed-name>
+                    <ce:surname>Gregory</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Invisible Losses: Using Decision-Focused Methods to Identify Environmental Risks and Impacts</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>presentation at the 2008 Annual Meeting of the Society for Risk Analysis, Boston, MA</ref-text>
+              </ref-info>
+              <ref-fulltext>Gregory, R. (2008), 'Invisible Losses: Using Decision-Focused Methods to Identify Environmental Risks and Impacts 'presentation at the 2008 Annual Meeting of the Society for Risk Analysis, Boston, MA.</ref-fulltext>
+            </reference>
+            <reference id="32">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Value-focused thinking for environmental risk consultations</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0010556374</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Gregory R.</ce:indexed-name>
+                    <ce:surname>Gregory</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.L.</ce:initials>
+                    <ce:indexed-name>Arvai J.L.</ce:indexed-name>
+                    <ce:surname>Arvai</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Mc Daniels T.</ce:indexed-name>
+                    <ce:surname>Mc Daniels</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Research in Social Problems and Public Policy</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-volisspag>
+                  <voliss volume="9" />
+                  <pagerange first="249" last="275" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Gregory, R., Arvai, J. L. and McDaniels, T. (2001), 'Value-Focused Thinking for Environmental Risk Consultations', Research in Social Problems and Public Policy, 9 : 249-275</ref-fulltext>
+            </reference>
+            <reference id="33">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">54749156522</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Grossman E.</ce:indexed-name>
+                    <ce:surname>Grossman</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>High Tech Trash: Digital Devices, Hidden Toxics &amp; Human Health</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-text>Washington : Island Press/Shearwater Books</ref-text>
+              </ref-info>
+              <ref-fulltext>Grossman, E. (2006), High Tech Trash: Digital Devices, Hidden Toxics &amp; Human Health. Washington : Island Press/Shearwater Books.</ref-fulltext>
+            </reference>
+            <reference id="34">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003837669</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Gunningham N.</ce:indexed-name>
+                    <ce:surname>Gunningham</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Grabosky P.</ce:indexed-name>
+                    <ce:surname>Grabosky</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Smart Regulation: Designing Environmental Policy</ref-sourcetitle>
+                <ref-publicationyear first="1998" last="2004" />
+                <ref-text>Oxford : Oxford University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Gunningham, N. and Grabosky, P. (1998/2004), Smart Regulation: Designing Environmental Policy. Oxford : Oxford University Press.</ref-fulltext>
+            </reference>
+            <reference id="35">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Against " green " criminology</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">10844261584</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Halsey M.</ce:indexed-name>
+                    <ce:surname>Halsey</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>British Journal of Criminology</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="44" />
+                  <pagerange first="833" last="853" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Halsey, M. (2004), 'Against " Green " Criminology', British Journal of Criminology, 44 : 833-853</ref-fulltext>
+            </reference>
+            <reference id="36">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">61849185089</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Halsey M.</ce:indexed-name>
+                    <ce:surname>Halsey</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Deleuze and Environmental Damage</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-text>Aldershot : Ashgate</ref-text>
+              </ref-info>
+              <ref-fulltext>Halsey, M. (2006), Deleuze and Environmental Damage. Aldershot : Ashgate.</ref-fulltext>
+            </reference>
+            <reference id="37">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003842901</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.S.</ce:initials>
+                    <ce:indexed-name>Hammond J.S.</ce:indexed-name>
+                    <ce:surname>Hammond</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.L.</ce:initials>
+                    <ce:indexed-name>Keeney R.L.</ce:indexed-name>
+                    <ce:surname>Keeney</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Raiffa H.</ce:indexed-name>
+                    <ce:surname>Raiffa</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Smart Choices: A Practical Guide to Making Better Decisions</ref-sourcetitle>
+                <ref-publicationyear first="1999" />
+                <ref-text>Boston : Harvard Business School Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Hammond, J. S., Keeney, R. L. and Raiffa, H. (1999), Smart Choices: A Practical Guide to Making Better Decisions. Boston : Harvard Business School Press.</ref-fulltext>
+            </reference>
+            <reference id="38">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003938647</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Hastie R.</ce:indexed-name>
+                    <ce:surname>Hastie</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.M.</ce:initials>
+                    <ce:indexed-name>Dawes R.M.</ce:indexed-name>
+                    <ce:surname>Dawes</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Rational Choice in An Uncertain World: The Psychology of Judgment and Decision</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-text>Thousand Oaks, CA : Sage Publications</ref-text>
+              </ref-info>
+              <ref-fulltext>Hastie, R. and Dawes, R. M. (2001), Rational Choice in an Uncertain World: The Psychology of Judgment and Decision. Thousand Oaks, CA : Sage Publications.</ref-fulltext>
+            </reference>
+            <reference id="39">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Normative and social influences affecting compliance with fishery regulations</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0033768245</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Hatcher A.</ce:indexed-name>
+                    <ce:surname>Hatcher</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Jaffry S.</ce:indexed-name>
+                    <ce:surname>Jaffry</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>O.</ce:initials>
+                    <ce:indexed-name>Thebaud O.</ce:indexed-name>
+                    <ce:surname>Thebaud</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Bennett E.</ce:indexed-name>
+                    <ce:surname>Bennett</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Land Economics</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-volisspag>
+                  <voliss volume="76" />
+                  <pagerange first="448" last="461" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Hatcher, A., Jaffry, S., Thebaud, O. and Bennett, E. (2000), 'Normative and Social Infl uences Affecting Compliance with Fishery Regulations', Land Economics, 76 : 448-461</ref-fulltext>
+            </reference>
+            <reference id="40">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Rethinking small-scale fisheries compliance</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">42149170005</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Hauck M.</ce:indexed-name>
+                    <ce:surname>Hauck</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Marine Policy</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="32" />
+                  <pagerange first="635" last="642" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Hauck, M. (2008), 'Rethinking Small-Scale Fisheries Compliance', Marine Policy, 32 : 635-642</ref-fulltext>
+            </reference>
+            <reference id="41">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Fisheries compliance in South Africa: A decade of challenges and reform 1994-2004</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">29844451820</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Hauck M.</ce:indexed-name>
+                    <ce:surname>Hauck</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Kroese M.</ce:indexed-name>
+                    <ce:surname>Kroese</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Marine Policy</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss issue="1" volume="30" />
+                  <pagerange first="74" last="83" />
+                </ref-volisspag>
+                <ref-text>DOI 10.1016/j.marpol.2005.06.007, PII S0308597X05000473, Fisheries Reform in South Africa 1994-2004</ref-text>
+              </ref-info>
+              <ref-fulltext>Hauck, M. and Kroese, M. (2006), 'Fisheries Compliance in South Africa: A Decade of Challenges and Reform 1994-2004', Marine Policy, 30 : 74-83. (Pubitemid 43033528)</ref-fulltext>
+            </reference>
+            <reference id="42">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003993013</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Hay D.</ce:indexed-name>
+                    <ce:surname>Hay</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Linebaugh P.</ce:indexed-name>
+                    <ce:surname>Linebaugh</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.G.</ce:initials>
+                    <ce:indexed-name>Rule J.G.</ce:indexed-name>
+                    <ce:surname>Rule</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>E.P.</ce:initials>
+                    <ce:indexed-name>Thompson E.P.</ce:indexed-name>
+                    <ce:surname>Thompson</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Winslow C.</ce:indexed-name>
+                    <ce:surname>Winslow</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Albion's Fatal Tree: Crime and Society in Eighteenth-Century England</ref-sourcetitle>
+                <ref-publicationyear first="1975" />
+                <ref-text>New York : Pantheon</ref-text>
+              </ref-info>
+              <ref-fulltext>Hay, D., Linebaugh, P., Rule, J. G., Thompson, E. P. and Winslow, C. (1975), Albion's Fatal Tree: Crime and Society in Eighteenth-Century England. New York : Pantheon.</ref-fulltext>
+            </reference>
+            <reference id="43">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Criminological semantics: Conservation criminology - Vision or vagary?</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">70350546328</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.J.W.</ce:initials>
+                    <ce:indexed-name>Herbig F.J.W.</ce:indexed-name>
+                    <ce:surname>Herbig</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.J.</ce:initials>
+                    <ce:indexed-name>Joubert S.J.</ce:indexed-name>
+                    <ce:surname>Joubert</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Acta Criminologica</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="19" />
+                  <pagerange first="88" last="103" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Herbig, F. J. W and Joubert, S. J. (2006), 'Criminological Semantics: Conservation Criminology - Vision or Vagary?', Acta Criminologica, 19 : 88-103.</ref-fulltext>
+            </reference>
+            <reference id="44">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>An empirical examination of the causes of corporate wrongdoing in the United States</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0002584771</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.W.</ce:initials>
+                    <ce:indexed-name>Hill C.W.</ce:indexed-name>
+                    <ce:surname>Hill</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.C.</ce:initials>
+                    <ce:indexed-name>Kelley P.C.</ce:indexed-name>
+                    <ce:surname>Kelley</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>B.R.</ce:initials>
+                    <ce:indexed-name>Agle B.R.</ce:indexed-name>
+                    <ce:surname>Agle</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Human Relations</ref-sourcetitle>
+                <ref-publicationyear first="1992" />
+                <ref-volisspag>
+                  <voliss volume="45" />
+                  <pagerange first="1055" last="1076" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Hill, C. W., Kelley, P. C. and Agle, B. R. (1992), 'An Empirical Examination of the Causes of Corporate Wrongdoing in the United States', Human Relations, 45 : 1055-1076</ref-fulltext>
+            </reference>
+            <reference id="45">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749092999</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.S.</ce:initials>
+                    <ce:indexed-name>Jackson A.S.</ce:indexed-name>
+                    <ce:surname>Jackson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Shuman A.</ce:indexed-name>
+                    <ce:surname>Shuman</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>G.</ce:initials>
+                    <ce:indexed-name>Dayaneni G.</ce:indexed-name>
+                    <ce:surname>Dayaneni</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Toxic Sweatshops: How UNICOR Prison Recycling Harms Workers, Communities, the Environment and the Recycling Industry</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-text>prepared by Center for Environmental Health, Prison Activist Resource Center, Silicon Valley Toxics Coalition &amp; Computer TakeBack Campaign</ref-text>
+              </ref-info>
+              <ref-fulltext>Jackson, A. S., Shuman, A. and Dayaneni, G. (2006), 'Toxic Sweatshops: How UNICOR Prison Recycling Harms Workers, Communities, the Environment and the Recycling Industry 'prepared by Center for Environmental Health, Prison Activist Resource Center, Silicon Valley Toxics Coalition &amp; Computer TakeBack Campaign.</ref-fulltext>
+            </reference>
+            <reference id="46">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Lay views on uncertainty in environmental health risk assessment</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0038582828</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>B.B.</ce:initials>
+                    <ce:indexed-name>Johnson B.B.</ce:indexed-name>
+                    <ce:surname>Johnson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Slovic P.</ce:indexed-name>
+                    <ce:surname>Slovic</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Risk Research</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-volisspag>
+                  <voliss volume="1" />
+                  <pagerange first="261" last="279" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Johnson, B. B. and Slovic, P. (1998), 'Lay Views on Uncertainty in Environmental Health Risk Assessment', Journal of Risk Research, 1 : 261-279</ref-fulltext>
+            </reference>
+            <reference id="47">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Explaining corporate environmental performance: How does regulation matter?</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0037769852</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.A.</ce:initials>
+                    <ce:indexed-name>Kagan R.A.</ce:indexed-name>
+                    <ce:surname>Kagan</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Gunningham N.</ce:indexed-name>
+                    <ce:surname>Gunningham</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Thornton D.</ce:indexed-name>
+                    <ce:surname>Thornton</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Law and Society Review</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="37" />
+                  <pagerange first="51" last="90" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Kagan, R. A., Gunningham, N. and Thornton, D. (2003), 'Explaining Corporate Environmental Performance: How Does Regulation Matter?', Law and Society Review, 37 : 51-90.</ref-fulltext>
+            </reference>
+            <reference id="48">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Prospect theory: An analysis of decision under risk</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0000125532</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Kahneman D.</ce:indexed-name>
+                    <ce:surname>Kahneman</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Tversky A.</ce:indexed-name>
+                    <ce:surname>Tversky</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Econometrica</ref-sourcetitle>
+                <ref-publicationyear first="1979" />
+                <ref-volisspag>
+                  <voliss volume="47" />
+                  <pagerange first="263" last="292" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Kahneman, D. and Tversky, A. (1979), 'Prospect Theory: An Analysis of Decision under Risk', Econometrica, 47 : 263-292</ref-fulltext>
+            </reference>
+            <reference id="49">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The impact of financial performance on frequency of corporate crime: A latent variable test of strain theory</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749093913</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Keane C.</ce:indexed-name>
+                    <ce:surname>Keane</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Canadian Journal of Criminology</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-volisspag>
+                  <voliss volume="35" />
+                  <pagerange first="293" last="308" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Keane, C. (1993), 'The Impact of Financial Performance on Frequency of Corporate Crime: A Latent Variable Test of Strain Theory', Canadian Journal of Criminology, 35 : 293-308.</ref-fulltext>
+            </reference>
+            <reference id="50">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Contemporary values of wildlife in American society</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0007723649</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.R.</ce:initials>
+                    <ce:indexed-name>Kellert S.R.</ce:indexed-name>
+                    <ce:surname>Kellert</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Wildlife Values</ref-sourcetitle>
+                <ref-publicationyear first="1980" />
+                <ref-volisspag>
+                  <pagerange first="31" last="60" />
+                </ref-volisspag>
+                <ref-text>W. W. Shaw and E. H. Zube, eds, Fort Collins, Colorado : US Forest Service, Rocky Mountain Experiment Station</ref-text>
+              </ref-info>
+              <ref-fulltext>Kellert, S. R. (1980), 'Contemporary Values of Wildlife in American Society', in W. W. Shaw and E. H. Zube, eds, Wildlife Values, 31-60. Fort Collins, Colorado : US Forest Service, Rocky Mountain Experiment Station.</ref-fulltext>
+            </reference>
+            <reference id="51">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">48249122101</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Krebs C.</ce:indexed-name>
+                    <ce:surname>Krebs</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Ecological World View</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>Berkeley, CA, USA : University of California Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Krebs, C. (2008), The Ecological World View. Berkeley, CA, USA : University of California Press.</ref-fulltext>
+            </reference>
+            <reference id="52">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Toward a control theory of white-collar offending</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0041120319</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.R.</ce:initials>
+                    <ce:indexed-name>Lasley J.R.</ce:indexed-name>
+                    <ce:surname>Lasley</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Quantitative Criminology</ref-sourcetitle>
+                <ref-publicationyear first="1988" />
+                <ref-volisspag>
+                  <voliss volume="4" />
+                  <pagerange first="347" last="362" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Lasley, J. R. (1988), 'Toward a Control Theory of White-Collar Offending', Journal of Quantitative Criminology, 4 : 347-362</ref-fulltext>
+            </reference>
+            <reference id="53">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Coupled human and natural systems</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">38049143212</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Liu J.</ce:indexed-name>
+                    <ce:surname>Liu</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Dietz T.</ce:indexed-name>
+                    <ce:surname>Dietz</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.R.</ce:initials>
+                    <ce:indexed-name>Carpenter S.R.</ce:indexed-name>
+                    <ce:surname>Carpenter</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Alberti M.</ce:indexed-name>
+                    <ce:surname>Alberti</ce:surname>
+                  </author>
+                  <author seq="5">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Folke C.</ce:indexed-name>
+                    <ce:surname>Folke</ce:surname>
+                  </author>
+                  <author seq="6">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Moran E.</ce:indexed-name>
+                    <ce:surname>Moran</ce:surname>
+                  </author>
+                  <author seq="7">
+                    <ce:initials>A.N.</ce:initials>
+                    <ce:indexed-name>Pell A.N.</ce:indexed-name>
+                    <ce:surname>Pell</ce:surname>
+                  </author>
+                  <author seq="8">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Deadman P.</ce:indexed-name>
+                    <ce:surname>Deadman</ce:surname>
+                  </author>
+                  <author seq="9">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Kratz T.</ce:indexed-name>
+                    <ce:surname>Kratz</ce:surname>
+                  </author>
+                  <author seq="10">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Lubchenco J.</ce:indexed-name>
+                    <ce:surname>Lubchenco</ce:surname>
+                  </author>
+                  <author seq="11">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Ostrom E.</ce:indexed-name>
+                    <ce:surname>Ostrom</ce:surname>
+                  </author>
+                  <author seq="12">
+                    <ce:initials>Z.</ce:initials>
+                    <ce:indexed-name>Ouyang Z.</ce:indexed-name>
+                    <ce:surname>Ouyang</ce:surname>
+                  </author>
+                  <author seq="13">
+                    <ce:initials>W.</ce:initials>
+                    <ce:indexed-name>Provencher W.</ce:indexed-name>
+                    <ce:surname>Provencher</ce:surname>
+                  </author>
+                  <author seq="14">
+                    <ce:initials>C.L.</ce:initials>
+                    <ce:indexed-name>Redman C.L.</ce:indexed-name>
+                    <ce:surname>Redman</ce:surname>
+                  </author>
+                  <author seq="15">
+                    <ce:initials>S.H.</ce:initials>
+                    <ce:indexed-name>Schneider S.H.</ce:indexed-name>
+                    <ce:surname>Schneider</ce:surname>
+                  </author>
+                  <author seq="16">
+                    <ce:initials>W.W.</ce:initials>
+                    <ce:indexed-name>Taylor W.W.</ce:indexed-name>
+                    <ce:surname>Taylor</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Ambio</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="36" />
+                  <pagerange first="639" last="649" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Liu, J., Dietz, T., Carpenter, S. R., Alberti, M., Folke, C., Moran, E., Pell, A. N., Deadman, P., Kratz, T., Lubchenco, J., Ostrom, E., Ouyang, Z., Provencher, W., Redman, C. L., Schneider, S. H., Taylor, W. W. (2007), 'Coupled Human and Natural Systems', Ambio, 36 : 639-649</ref-fulltext>
+            </reference>
+            <reference id="54">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749123879</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Luther L.</ce:indexed-name>
+                    <ce:surname>Luther</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Managing Electronic Waste: An Analysis of State E-Waste Legislation</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>report prepared for members and committees of Congress</ref-text>
+              </ref-info>
+              <ref-fulltext>Luther, L. (2007), 'Managing Electronic Waste: An Analysis of State E-Waste Legislation 'report prepared for members and committees of Congress.</ref-fulltext>
+            </reference>
+            <reference id="55">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The meaning of green: Contrasting criminological perspectives</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0041877677</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.J.</ce:initials>
+                    <ce:indexed-name>Lynch M.J.</ce:indexed-name>
+                    <ce:surname>Lynch</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.B.</ce:initials>
+                    <ce:indexed-name>Stretesky P.B.</ce:indexed-name>
+                    <ce:surname>Stretesky</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Theoretical Criminology</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="7" />
+                  <pagerange first="217" last="238" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Lynch, M. J. and Stretesky, P. B. (2003), 'The Meaning of Green: Contrasting Criminological Perspectives', Theoretical Criminology, 7 : 217-238</ref-fulltext>
+            </reference>
+            <reference id="56">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Criminological theories and regulatory compliance</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">84928835632</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Makkai T.</ce:indexed-name>
+                    <ce:surname>Makkai</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Braithwaite J.</ce:indexed-name>
+                    <ce:surname>Braithwaite</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Criminology</ref-sourcetitle>
+                <ref-publicationyear first="1991" />
+                <ref-volisspag>
+                  <voliss volume="29" />
+                  <pagerange first="191" last="218" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Makkai, T. and Braithwaite, J. (1991), 'Criminological Theories and Regulatory Compliance', Criminology, 29 : 191-218.</ref-fulltext>
+            </reference>
+            <reference id="57">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Regulation and compliance motivations: Examining different approaches</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">12344338198</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.J.</ce:initials>
+                    <ce:indexed-name>May P.J.</ce:indexed-name>
+                    <ce:surname>May</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Public Administration Review</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss volume="65" />
+                  <pagerange first="31" last="44" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>May, P. J. (2005), 'Regulation and Compliance Motivations: Examining Different Approaches ', Public Administration Review, 65 : 31-44.</ref-fulltext>
+            </reference>
+            <reference id="58">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Motive, opportunity, choice, and corporate illegality</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749109503</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.A.</ce:initials>
+                    <ce:indexed-name>Mc Kendall M.A.</ce:indexed-name>
+                    <ce:surname>Mc Kendall</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.A.</ce:initials>
+                    <ce:indexed-name>Wagner III J.A.</ce:indexed-name>
+                    <ce:surname>Wagner III</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Organization Science: A Journal of the Institute of Management Sciences</ref-sourcetitle>
+                <ref-publicationyear first="1997" />
+                <ref-volisspag>
+                  <voliss volume="8" />
+                  <pagerange first="624" last="648" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>McKendall, M. A. and Wagner, J. A. III (1997), 'Motive, Opportunity, Choice, and Corporate Illegality', Organization Science: A Journal of the Institute of Management Sciences, 8 : 624-648</ref-fulltext>
+            </reference>
+            <reference id="59">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Reassessing racial and socioeconomic disparities in environmental justice research</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33747400202</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Mohai P.</ce:indexed-name>
+                    <ce:surname>Mohai</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Saha R.</ce:indexed-name>
+                    <ce:surname>Saha</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Demography</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="43" />
+                  <pagerange first="383" last="399" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Mohai, P. and Saha, R. (2006), 'Reassessing Racial and Socioeconomic Disparities in Environmental Justice Research', Demography, 43 : 383-399</ref-fulltext>
+            </reference>
+            <reference id="60">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Racial inequality in the distribution of hazardous waste: A national-level assessment</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">36549080228</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Mohai P.</ce:indexed-name>
+                    <ce:surname>Mohai</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Saha R.</ce:indexed-name>
+                    <ce:surname>Saha</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Social Problems</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-volisspag>
+                  <voliss volume="54" />
+                  <pagerange first="343" last="370" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Mohai, P. and Saha, R. (2007), 'Racial Inequality in the Distribution of Hazardous Waste: A National-Level Assessment', Social Problems, 54 : 343-370</ref-fulltext>
+            </reference>
+            <reference id="61">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33748479140</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.B.</ce:initials>
+                    <ce:indexed-name>Mulder M.B.</ce:indexed-name>
+                    <ce:surname>Mulder</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Coppolillo P.</ce:indexed-name>
+                    <ce:surname>Coppolillo</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Conservation: Linking Ecology, Economics, and Culture</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-text>Princeton, NJ : Princeton University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Mulder, M. B. and Coppolillo, P. (2005), Conservation: Linking Ecology, Economics, and Culture. Princeton, NJ : Princeton University Press.</ref-fulltext>
+            </reference>
+            <reference id="62">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Status of the sea turtle trade in alexandria's fish market</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33749005706</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.A.</ce:initials>
+                    <ce:indexed-name>Nada M.A.</ce:indexed-name>
+                    <ce:surname>Nada</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Marine Turtle Newsletter</ref-sourcetitle>
+                <ref-publicationyear first="2001" />
+                <ref-volisspag>
+                  <voliss volume="95" />
+                  <pagerange first="5" last="8" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Nada, M. A. (2001), 'Status of the Sea Turtle Trade in Alexandria's Fish Market', Marine Turtle Newsletter, 95 : 5-8.</ref-fulltext>
+            </reference>
+            <reference id="63">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Risk perception, risk management, and vulnerability to landslides in the hill slopes in the city of la paz, bolivia: A preliminary statement</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">48849105903</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.</ce:initials>
+                    <ce:indexed-name>Nathan F.</ce:indexed-name>
+                    <ce:surname>Nathan</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Disasters</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="32" />
+                  <pagerange first="337" last="357" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Nathan, F. (2008), 'Risk Perception, Risk Management, and Vulnerability to Landslides in the Hill Slopes in the City of La Paz, Bolivia: A Preliminary Statement', Disasters, 32 : 337-357</ref-fulltext>
+            </reference>
+            <reference id="64">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Beliefs about chronic wasting disease risks across multiple states, years, and interest groups</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">48249132503</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.D.</ce:initials>
+                    <ce:indexed-name>Needham M.D.</ce:indexed-name>
+                    <ce:surname>Needham</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.J.</ce:initials>
+                    <ce:indexed-name>Vaske J.J.</ce:indexed-name>
+                    <ce:surname>Vaske</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Human Dimensions of Wildlife</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <voliss volume="11" />
+                  <pagerange first="215" last="220" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Needham, M. D. and Vaske, J. J. (2006), 'Beliefs about Chronic Wasting Disease Risks Across Multiple States, Years, and Interest Groups', Human Dimensions of Wildlife, 11 : 215-220</ref-fulltext>
+            </reference>
+            <reference id="65">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Human-wildlife conflict and gender in protected area borderlands: A case study of costs, perceptions, and vulnerabilities from Uttarakhand (Uttaranchal), India</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">42649119432</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.V.</ce:initials>
+                    <ce:indexed-name>Orga M.V.</ce:indexed-name>
+                    <ce:surname>Orga</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Geoforum</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="39" />
+                  <pagerange first="1408" last="1422" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Orga, M. V. (2008), 'Human-Wildlife Confl ict and Gender in Protected Area Borderlands: A Case Study of Costs, Perceptions, and Vulnerabilities from Uttarakhand (Uttaranchal), India', Geoforum, 39 : 1408-1422</ref-fulltext>
+            </reference>
+            <reference id="66">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Global anomie, dysnomie, and economic crime: Hidden consequences of neoliberalism and globalization in Russia and around the world</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0002485331</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Passas N.</ce:indexed-name>
+                    <ce:surname>Passas</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Social Justice</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-volisspag>
+                  <voliss volume="27" />
+                  <pagerange first="16" last="44" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Passas, N. (2000), 'Global Anomie, Dysnomie, and Economic Crime: Hidden Consequences of Neoliberalism and Globalization in Russia and Around the World', Social Justice, 27 : 16-44.</ref-fulltext>
+            </reference>
+            <reference id="67">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Sanction threats and appeals to morality: Testing a rational choice model of corporate crime</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0030521693</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Paternoster R.</ce:indexed-name>
+                    <ce:surname>Paternoster</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>S.S.</ce:initials>
+                    <ce:indexed-name>Simpson S.S.</ce:indexed-name>
+                    <ce:surname>Simpson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Law and Society Review</ref-sourcetitle>
+                <ref-publicationyear first="1996" />
+                <ref-volisspag>
+                  <voliss volume="30" />
+                  <pagerange first="549" last="585" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Paternoster, R. and Simpson, S. S. (1996), 'Sanction Threats and Appeals to Morality: Testing a Rational Choice Model of Corporate Crime', Law and Society Review, 30 : 549-585</ref-fulltext>
+            </reference>
+            <reference id="68">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">47149119039</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.N.</ce:initials>
+                    <ce:indexed-name>Pellow D.N.</ce:indexed-name>
+                    <ce:surname>Pellow</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Resisting Global Toxics: Transnational Movements for Environmental Justice</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Cambridge, MA: MIT Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Pellow, D. N. (2007), Resisting Global Toxics: Transnational Movements for Environmental Justice. Cambridge, MA: MIT Press.</ref-fulltext>
+            </reference>
+            <reference id="69">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003754536</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Plous S.</ce:indexed-name>
+                    <ce:surname>Plous</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Psychology of Judgment and Decision Making</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-text>New York : McGraw-Hill</ref-text>
+              </ref-info>
+              <ref-fulltext>Plous, S. (1993), The Psychology of Judgment and Decision Making. New York : McGraw-Hill.</ref-fulltext>
+            </reference>
+            <reference id="70">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">57849087658</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>O.</ce:initials>
+                    <ce:indexed-name>Renn O.</ce:indexed-name>
+                    <ce:surname>Renn</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Risk Governance: Coping with Uncertainty in A Complex World</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>London, United Kingdom : Earthscan</ref-text>
+              </ref-info>
+              <ref-fulltext>Renn, O. (2008), Risk Governance: Coping with Uncertainty in a Complex World. London, United Kingdom : Earthscan.</ref-fulltext>
+            </reference>
+            <reference id="71">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Dilemmas in a general theory of planning</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">9944238860</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>H.W.J.</ce:initials>
+                    <ce:indexed-name>Rittel H.W.J.</ce:indexed-name>
+                    <ce:surname>Rittel</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.M.</ce:initials>
+                    <ce:indexed-name>Webber M.M.</ce:indexed-name>
+                    <ce:surname>Webber</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Policy Sciences</ref-sourcetitle>
+                <ref-publicationyear first="1973" />
+                <ref-volisspag>
+                  <voliss volume="4" />
+                  <pagerange first="155" last="169" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Rittel, H. W. J and Webber, M. M. (1973), 'Dilemmas in a General Theory of Planning ', Policy Sciences, 4 : 155-169</ref-fulltext>
+            </reference>
+            <reference id="72">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Discrimination, vulnerability, and justice in the face of risk</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">1442305964</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Satterfield T.</ce:indexed-name>
+                    <ce:surname>Satterfield</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.K.</ce:initials>
+                    <ce:indexed-name>Mertz C.K.</ce:indexed-name>
+                    <ce:surname>Mertz</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Slovic P.</ce:indexed-name>
+                    <ce:surname>Slovic</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Risk Analysis</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="24" />
+                  <pagerange first="115" last="129" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Satterfield, T., Mertz, C. K. and Slovic, P. (2004), 'Discrimination, Vulnerability, and Justice in the Face of Risk', Risk Analysis, 24 : 115-129</ref-fulltext>
+            </reference>
+            <reference id="73">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">8644245880</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.J.</ce:initials>
+                    <ce:indexed-name>Schmalleger F.J.</ce:indexed-name>
+                    <ce:surname>Schmalleger</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Criminology Today: An Integrative Approach</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-text>4th edn. Upper Saddle River NJ : Prentice Hall</ref-text>
+              </ref-info>
+              <ref-fulltext>Schmalleger, F. J. (2005), Criminology Today: An Integrative Approach. 4th edn. Upper Saddle River, NJ : Prentice Hall.</ref-fulltext>
+            </reference>
+            <reference id="74">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Environmental crime</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">33748761910</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Shover N.</ce:indexed-name>
+                    <ce:surname>Shover</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.S.</ce:initials>
+                    <ce:indexed-name>Routhe A.S.</ce:indexed-name>
+                    <ce:surname>Routhe</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Crime and Justice</ref-sourcetitle>
+                <ref-publicationyear first="2005" />
+                <ref-volisspag>
+                  <voliss volume="32" />
+                  <pagerange first="321" last="371" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Shover, N. and Routhe, A. S. (2005), 'Environmental Crime', in M. Tonry, ed., Crime and Justice: A Review of the Research, Vol.32, 321-371 Chicago : University of Chicago Press. (Pubitemid 44408759)</ref-fulltext>
+            </reference>
+            <reference id="75">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749095336</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Toxics in Electronics: 1000s of Chemicals Are Used in Electronic Production</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-website>
+                  <ce:e-address type="url">http://www.etoxics.org/site/PageServer?pagename=svtc-toxics-in- electronics</ce:e-address>
+                </ref-website>
+                <ref-text>Silicon Valley Toxics Coalition available online at(accessed April 2008)</ref-text>
+              </ref-info>
+              <ref-fulltext>Silicon Valley Toxics Coalition (2008), 'Toxics in Electronics: 1000s of Chemicals are Used in Electronic Production', available online at http :// www. etoxics. org/site/PageServer ? pagename = svtc-toxics-in-electronics (accessed April 2008).</ref-fulltext>
+            </reference>
+            <reference id="76">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">57649188630</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.S.</ce:initials>
+                    <ce:indexed-name>Simpson S.S.</ce:indexed-name>
+                    <ce:surname>Simpson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Garner J.</ce:indexed-name>
+                    <ce:surname>Garner</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Gibbs C.</ce:indexed-name>
+                    <ce:surname>Gibbs</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Why Do Corporations Obey Environmental Law? Assessing Punitive and Cooperative Strategies of Corporate Crime Control</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>Final Technical Report submitted to the National Institutes of Justice (NIJ), Grant 2001-LJ-CX- 0020</ref-text>
+              </ref-info>
+              <ref-fulltext>Simpson, S. S., Garner, J. and Gibbs, C. (2007), Why do Corporations Obey Environmental Law? Assessing Punitive and Cooperative Strategies of Corporate Crime Control. Final Technical Report submitted to the National Institutes of Justice (NIJ), Grant 2001-LJ-CX- 0020.</ref-fulltext>
+            </reference>
+            <reference id="77">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>The changing of the guard: Top management team characteristics, organizational strain, and antitrust offending, 1960-1986</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">21944437483</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.S.</ce:initials>
+                    <ce:indexed-name>Simpson S.S.</ce:indexed-name>
+                    <ce:surname>Simpson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.S.</ce:initials>
+                    <ce:indexed-name>Koper C.S.</ce:indexed-name>
+                    <ce:surname>Koper</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Quantitative Criminology</ref-sourcetitle>
+                <ref-publicationyear first="1997" />
+                <ref-volisspag>
+                  <voliss volume="13" />
+                  <pagerange first="373" last="404" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Simpson, S. S. and Koper, C. S. (1997), 'The Changing of the Guard: Top Management Team Characteristics, Organizational Strain, and Antitrust Offending, 1960-1986', Journal of Quantitative Criminology, 13 : 373-404.</ref-fulltext>
+            </reference>
+            <reference id="78">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Measuring corporate crime</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0012458957</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>S.S.</ce:initials>
+                    <ce:indexed-name>Simpson S.S.</ce:indexed-name>
+                    <ce:surname>Simpson</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>A.R.</ce:initials>
+                    <ce:indexed-name>Harris A.R.</ce:indexed-name>
+                    <ce:surname>Harris</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>B.A.</ce:initials>
+                    <ce:indexed-name>Mattson B.A.</ce:indexed-name>
+                    <ce:surname>Mattson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Understanding Corporate Criminality</ref-sourcetitle>
+                <ref-publicationyear first="1993" />
+                <ref-volisspag>
+                  <pagerange first="115" last="140" />
+                </ref-volisspag>
+                <ref-text>M. B. Blankenship, ed., New York : Garland</ref-text>
+              </ref-info>
+              <ref-fulltext>Simpson, S. S., Harris, A. R. and Mattson, B. A. (1993), 'Measuring Corporate Crime ', in M. B. Blankenship, ed., Understanding Corporate Criminality, 115-140 New York : Garland.</ref-fulltext>
+            </reference>
+            <reference id="79">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0142183094</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Situ Y.</ce:indexed-name>
+                    <ce:surname>Situ</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Emmons D.</ce:indexed-name>
+                    <ce:surname>Emmons</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Environmental Crime: The Criminal Justice System's Role in Protecting the Environment</ref-sourcetitle>
+                <ref-publicationyear first="2000" />
+                <ref-text>London : Sage Publications</ref-text>
+              </ref-info>
+              <ref-fulltext>Situ, Y. and Emmons, D. (2000), Environmental Crime: The Criminal Justice System's Role in Protecting the Environment. London : Sage Publications.</ref-fulltext>
+            </reference>
+            <reference id="80">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Perception of risk</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0023324565</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Slovic P.</ce:indexed-name>
+                    <ce:surname>Slovic</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Science</ref-sourcetitle>
+                <ref-publicationyear first="1987" />
+                <ref-volisspag>
+                  <voliss volume="236" />
+                  <pagerange first="280" last="285" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Slovic, P. (1987), 'Perception of Risk', Science, 236 : 280-285</ref-fulltext>
+            </reference>
+            <reference id="81">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>A green field for criminology? A proposal for a perspective</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0346396456</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>South N.</ce:indexed-name>
+                    <ce:surname>South</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Theoretical Criminology</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-volisspag>
+                  <voliss volume="2" />
+                  <pagerange first="211" last="233" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>South, N. (1998), 'A Green Field for Criminology? A Proposal for a Perspective', Theoretical Criminology, 2 : 211-233</ref-fulltext>
+            </reference>
+            <reference id="82">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Editor's introduction</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749087864</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>South N.</ce:indexed-name>
+                    <ce:surname>South</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Beirne P.</ce:indexed-name>
+                    <ce:surname>Beirne</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Theoretical Criminology</ref-sourcetitle>
+                <ref-publicationyear first="1998" />
+                <ref-volisspag>
+                  <voliss volume="2" />
+                  <pagerange first="147" last="148" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>South, N. and Beirne, P. (1998), 'Editor's Introduction', Theoretical Criminology, 2 : 147-148</ref-fulltext>
+            </reference>
+            <reference id="83">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>White collar criminality</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0002035795</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.H.</ce:initials>
+                    <ce:indexed-name>Sutherland E.H.</ce:indexed-name>
+                    <ce:surname>Sutherland</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>American Sociological Review</ref-sourcetitle>
+                <ref-publicationyear first="1940" />
+                <ref-volisspag>
+                  <voliss volume="5" />
+                  <pagerange first="1" last="12" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Sutherland, E. H. (1940), 'White Collar Criminality', American Sociological Review, 5 : 1-12.</ref-fulltext>
+            </reference>
+            <reference id="84">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34248974807</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.H.</ce:initials>
+                    <ce:indexed-name>Sutherland E.H.</ce:indexed-name>
+                    <ce:surname>Sutherland</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>White Collar Crime</ref-sourcetitle>
+                <ref-publicationyear first="1961" />
+                <ref-text>New York : Holt, Rhinehart and Winston</ref-text>
+              </ref-info>
+              <ref-fulltext>Sutherland, E. H. (1961), White Collar Crime. New York : Holt, Rhinehart and Winston.</ref-fulltext>
+            </reference>
+            <reference id="85">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Sources of corporate environmental performance</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0346965661</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Thornton D.</ce:indexed-name>
+                    <ce:surname>Thornton</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.A.</ce:initials>
+                    <ce:indexed-name>Kagan R.A.</ce:indexed-name>
+                    <ce:surname>Kagan</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>N.</ce:initials>
+                    <ce:indexed-name>Gunningham N.</ce:indexed-name>
+                    <ce:surname>Gunningham</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>California Management Review</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="46" />
+                  <pagerange first="127" last="141" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Thornton, D., Kagan, R. A. and Gunningham, N. (2003), 'Sources of Corporate Environmental Performance', California Management Review, 46 : 127-141</ref-fulltext>
+            </reference>
+            <reference id="86">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749098030</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Tonetti R.</ce:indexed-name>
+                    <ce:surname>Tonetti</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>EPA's Regulatory Program for E-Waste</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-website>
+                  <ce:e-address type="url">www.epa.gov/epaoswer/hazwaste/recycle/ecycling/rules.htm</ce:e-address>
+                </ref-website>
+                <ref-text>EPA Office of Solid Waste Presentation, available online at(accessed February 2008)</ref-text>
+              </ref-info>
+              <ref-fulltext>Tonetti, R. (2007a), 'EPA's Regulatory Program for " E-Waste " 'EPA Offi ce of Solid Waste Presentation, available online at www. epa. gov/epaoswer/hazwaste/recycle/ecycling/rule s. htm (accessed February 2008).</ref-fulltext>
+            </reference>
+            <reference id="87">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">72749097542</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Tonetti R.</ce:indexed-name>
+                    <ce:surname>Tonetti</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Export of Used and Scrap Electronics: What You Need to Know</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-website>
+                  <ce:e-address type="url">www.epa.gov/epaoswer/hazwaste/recycle/ecycling/rules.htm</ce:e-address>
+                </ref-website>
+                <ref-text>EPA Office of Solid Waste Presentation, available online at(accessed February 2008)</ref-text>
+              </ref-info>
+              <ref-fulltext>Tonetti, R. (2007b), 'Export of Used and Scrap Electronics: What You Need to Know', EPA Offi ce of Solid Waste Presentation, available online at www. epa. gov/epaoswer/hazwaste/recycle/ecycling/rules. htm (accessed February 2008).</ref-fulltext>
+            </reference>
+            <reference id="88">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Availability: A heuristic for judging frequency and probability</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">34247529903</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.</ce:initials>
+                    <ce:indexed-name>Tversky A.</ce:indexed-name>
+                    <ce:surname>Tversky</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Kahneman D.</ce:indexed-name>
+                    <ce:surname>Kahneman</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Cognitive Psychology</ref-sourcetitle>
+                <ref-publicationyear first="1973" />
+                <ref-volisspag>
+                  <voliss volume="5" />
+                  <pagerange first="207" last="232" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Tversky, A. and Kahneman, D. (1973), 'Availability: A Heuristic for Judging Frequency and Probability', Cognitive Psychology, 5 : 207-232</ref-fulltext>
+            </reference>
+            <reference id="89">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">50849084530</itemid>
+                </refd-itemidlist>
+                <ref-sourcetitle>Management of Electronic Waste in the United States</ref-sourcetitle>
+                <ref-publicationyear first="2007" />
+                <ref-text>United States Environmental Protection Agency (EPA) EPA530-D- 07-1002</ref-text>
+              </ref-info>
+              <ref-fulltext>United States Environmental Protection Agency (EPA) (2007), Management of Electronic Waste in the United States, EPA530-D-07-1002</ref-fulltext>
+            </reference>
+            <reference id="90">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Car versus public transportation? the role of social value orientations in real-life social dilemma</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">21844498228</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Van Vugt M.</ce:indexed-name>
+                    <ce:surname>Van Vugt</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>R.M.</ce:initials>
+                    <ce:indexed-name>Meertens R.M.</ce:indexed-name>
+                    <ce:surname>Meertens</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>P.A.M.</ce:initials>
+                    <ce:indexed-name>Van Lange P.A.M.</ce:indexed-name>
+                    <ce:surname>Van Lange</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Journal of Applied Social Psychology</ref-sourcetitle>
+                <ref-publicationyear first="1995" />
+                <ref-volisspag>
+                  <voliss volume="25" />
+                  <pagerange first="258" last="278" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Van Vugt, M., Meertens, R. M. and Van Lange, P. A. M (1995), 'Car Versus Public Transportation? The Role of Social Value Orientations in Real-Life Social Dilemma ', Journal of Applied Social Psychology, 25 : 258-278</ref-fulltext>
+            </reference>
+            <reference id="91">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>From smokestack to SUV: The individual as regulated entity in the new era of environmental law</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">3242724145</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.P.</ce:initials>
+                    <ce:indexed-name>Vandenbergh M.P.</ce:indexed-name>
+                    <ce:surname>Vandenbergh</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Vanderbilt Law Review</ref-sourcetitle>
+                <ref-publicationyear first="2004" />
+                <ref-volisspag>
+                  <voliss volume="57" />
+                  <pagerange first="515" last="628" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Vandenbergh, M. P. (2004), 'From Smokestack to SUV: The Individual as Regulated Entity in the New Era of Environmental Law', Vanderbilt Law Review, 57 : 515-628.</ref-fulltext>
+            </reference>
+            <reference id="92">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004044453</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Vaughan D.</ce:indexed-name>
+                    <ce:surname>Vaughan</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA</ref-sourcetitle>
+                <ref-publicationyear first="1996" />
+                <ref-text>Chicago : The University of Chicago Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Vaughan, D. (1996), The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA. Chicago : The University of Chicago Press.</ref-fulltext>
+            </reference>
+            <reference id="93">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Health effects related to nanoparticle exposure: Environmental health and safety considerations for assessing hazards and risks</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">51649123914</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.B.</ce:initials>
+                    <ce:indexed-name>Warheit D.B.</ce:indexed-name>
+                    <ce:surname>Warheit</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.M.</ce:initials>
+                    <ce:indexed-name>Sayes C.M.</ce:indexed-name>
+                    <ce:surname>Sayes</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>K.L.</ce:initials>
+                    <ce:indexed-name>Reed K.L.</ce:indexed-name>
+                    <ce:surname>Reed</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Pharmacology and Therapeutics</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-volisspag>
+                  <voliss volume="120" />
+                  <pagerange first="35" last="42" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Warheit, D. B., Sayes, C. M. and Reed, K. L. (2008), 'Health Effects Related to Nanoparticle Exposure: Environmental Health and Safety Considerations for Assessing Hazards and Risks', Pharmacology and Therapeutics, 120 : 35-42.</ref-fulltext>
+            </reference>
+            <reference id="94">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Environmental issues and the criminological imagination</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0142199774</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>White R.</ce:indexed-name>
+                    <ce:surname>White</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Theoretical Criminology</ref-sourcetitle>
+                <ref-publicationyear first="2003" />
+                <ref-volisspag>
+                  <voliss volume="7" />
+                  <pagerange first="483" last="506" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>White, R. (2003), 'Environmental Issues and the Criminological Imagination', Theoretical Criminology, 7 : 483-506.</ref-fulltext>
+            </reference>
+            <reference id="95">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">69849116904</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>White R.</ce:indexed-name>
+                    <ce:surname>White</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Crimes Against Nature: Environmental Criminology and Ecological Justice</ref-sourcetitle>
+                <ref-publicationyear first="2008" />
+                <ref-text>Portland, OR : Willan Publishing</ref-text>
+              </ref-info>
+              <ref-fulltext>White, R. (2008), Crimes against Nature: Environmental Criminology and Ecological Justice. Portland, OR : Willan Publishing.</ref-fulltext>
+            </reference>
+            <reference id="96">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Risk as an interdisciplinary research area</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">41249098746</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.O.</ce:initials>
+                    <ce:indexed-name>Zinn J.O.</ce:indexed-name>
+                    <ce:surname>Zinn</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>P.</ce:initials>
+                    <ce:indexed-name>Taylor-Gooby P.</ce:indexed-name>
+                    <ce:surname>Taylor-Gooby</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Risk in Social Science</ref-sourcetitle>
+                <ref-publicationyear first="2006" />
+                <ref-volisspag>
+                  <pagerange first="20" last="53" />
+                </ref-volisspag>
+                <ref-text>P. Taylor-Gooby and J. Zinn, eds, Oxford, UK : Oxford University Press</ref-text>
+              </ref-info>
+              <ref-fulltext>Zinn, J. O. and Taylor-Gooby, P. (2006), 'Risk as an Interdisciplinary Research Area', in P. Taylor-Gooby and J. Zinn, eds, Risk in Social Science, 20-53. Oxford, UK : Oxford University Press.</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>

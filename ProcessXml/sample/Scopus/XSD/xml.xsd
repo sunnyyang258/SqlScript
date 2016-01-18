@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Elsevier shared OpsBank schema elements
+     Version 5.12.3
+    
+     Copyright © 2008-2015 Elsevier B.V.
+     This is open access material under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.w3.org/XML/1998/namespace">
+
+    <xs:attribute name="lang"/>
+
+</xs:schema>

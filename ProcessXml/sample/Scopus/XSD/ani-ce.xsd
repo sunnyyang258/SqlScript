@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Elsevier shared OpsBank schema elements
+     Version 5.12.3
+    
+     Copyright © 2008-2015 Elsevier B.V.
+     This is open access material under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.elsevier.com/xml/ani/ani" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ani="http://www.elsevier.com/xml/ani/ani">
+
+    <xs:group name="richstring.data">
+        <xs:sequence>
+            <xs:choice minOccurs="0">
+                <xs:element ref="ani:sup"/>
+                <xs:element ref="ani:inf"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:group>
+
+    <xs:element name="sup">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="inf">
+        <xs:complexType mixed="true">
+            <xs:group minOccurs="0" maxOccurs="unbounded" ref="ani:richstring.data"/>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

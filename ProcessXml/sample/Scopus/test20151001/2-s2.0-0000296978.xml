@@ -1,0 +1,868 @@
+<xocs:doc xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd">
+  <xocs:meta>
+    <xocs:eid>2-s2.0-0000296978</xocs:eid>
+    <xocs:oeid>2-s1.0-498K-4810-TWC1-C1PH-00000-00</xocs:oeid>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>358448588</xocs:pui>
+    <xocs:issn>1559128X</xocs:issn>
+    <xocs:volume>32</xocs:volume>
+    <xocs:issue>13</xocs:issue>
+    <xocs:author-surname>Urban</xocs:author-surname>
+    <xocs:author-fi>F</xocs:author-fi>
+    <xocs:firstpage>2339</xocs:firstpage>
+    <xocs:lastpage>2344</xocs:lastpage>
+    <xocs:sort-year>2010</xocs:sort-year>
+    <xocs:sort-yyyymm>201005</xocs:sort-yyyymm>
+    <xocs:pub-year>1993</xocs:pub-year>
+    <xocs:timestamp>2015-02-24T03:47:58.816936-05:00</xocs:timestamp>
+    <cto:doctype>ar</cto:doctype>
+    <cto:group-id>0000296978</cto:group-id>
+    <cto:ref-id>0003808259</cto:ref-id>
+    <cto:ref-id>13044294967</cto:ref-id>
+    <cto:ref-id>0016543754</cto:ref-id>
+    <cto:ref-id>0001660595</cto:ref-id>
+    <cto:ref-id>0020780822</cto:ref-id>
+    <cto:ref-id>0010531334</cto:ref-id>
+    <cto:ref-id>77949422776</cto:ref-id>
+    <cto:ref-id>0016866735</cto:ref-id>
+    <cto:ref-id>5844387508</cto:ref-id>
+    <cto:ref-id>0001081323</cto:ref-id>
+    <cto:ref-id>0010600265</cto:ref-id>
+    <cto:ref-id>0003174225</cto:ref-id>
+    <cto:ref-id>0347767733</cto:ref-id>
+    <cto:ref-id>0342895265</cto:ref-id>
+    <cto:ref-id>0026205732</cto:ref-id>
+    <cto:ref-id>0009790797</cto:ref-id>
+    <cto:ref-id>0001044750</cto:ref-id>
+    <cto:ref-id>0345814520</cto:ref-id>
+    <cto:ref-id>0024068550</cto:ref-id>
+    <cto:ref-id>0004161838</cto:ref-id>
+    <cto:ref-id>0019609648</cto:ref-id>
+    <cto:unique-author>
+      <cto:auth-initials>F.K.</cto:auth-initials>
+      <cto:auth-indexed-name>Urban III F.K.</cto:auth-indexed-name>
+      <cto:auth-surname>Urban III</cto:auth-surname>
+      <cto:auth-id>7005987684</cto:auth-id>
+    </cto:unique-author>
+  </xocs:meta>
+  <xocs:item>
+    <item>
+      <ait:process-info>
+        <ait:date-delivered day="23" month="02" timestamp="2015-02-23T22:26:29.000029+00:00" year="2015" />
+        <ait:date-sort day="01" month="05" year="2010" />
+        <ait:status stage="S300" state="update" type="core" />
+      </ait:process-info>
+      <bibrecord>
+        <item-info>
+          <copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+          <itemidlist>
+            <itemid idtype="PUI">358448588</itemid>
+            <itemid idtype="CAR-ID">74553748</itemid>
+            <itemid idtype="CPX">20101112775867</itemid>
+            <itemid idtype="SCP">0000296978</itemid>
+            <itemid idtype="SGR">0000296978</itemid>
+          </itemidlist>
+          <history>
+            <date-created day="19" month="03" year="2010" />
+          </history>
+          <dbcollection>CPX</dbcollection>
+          <dbcollection>Scopusbase</dbcollection>
+        </item-info>
+        <head>
+          <citation-info>
+            <citation-type code="ar" />
+            <citation-language xml:lang="eng" />
+            <abstract-language xml:lang="eng" />
+            <author-keywords>
+              <author-keyword>Absorbing film optical properties</author-keyword>
+              <author-keyword>Ellipsometry algorithm</author-keyword>
+              <author-keyword>Ellipsometry computations</author-keyword>
+            </author-keywords>
+          </citation-info>
+          <citation-title>
+            <titletext original="y" xml:lang="eng">Ellipsometry algorithm for absorbing films</titletext>
+          </citation-title>
+          <author-group>
+            <author auid="7005987684" seq="1" type="auth">
+              <ce:initials>F.K.</ce:initials>
+              <ce:indexed-name>Urban III F.K.</ce:indexed-name>
+              <ce:surname>Urban III</ce:surname>
+              <ce:given-name>Frank K.</ce:given-name>
+              <preferred-name>
+                <ce:initials>F.K.</ce:initials>
+                <ce:indexed-name>Urban F.</ce:indexed-name>
+                <ce:surname>Urban</ce:surname>
+                <ce:given-name>Frank K.</ce:given-name>
+              </preferred-name>
+            </author>
+            <affiliation afid="60015206" country="usa" dptid="109910414">
+              <organization>Department of Electrical and Computer Engineering, College of Engineering and Design, Florida International University</organization>
+              <city-group>University Park, Miami, FL 33199</city-group>
+            </affiliation>
+          </author-group>
+          <correspondence>
+            <person>
+              <ce:initials>F. K.</ce:initials>
+              <ce:indexed-name>Urban III F. K.</ce:indexed-name>
+              <ce:surname>Urban III</ce:surname>
+            </person>
+            <affiliation country="usa">
+              <organization>Department of Electrical and Computer Engineering, College of Engineering and Design, Florida International University</organization>
+              <city-group>University Park, Miami, FL 33199</city-group>
+            </affiliation>
+          </correspondence>
+          <abstracts>
+            <abstract original="y" xml:lang="eng">
+              <ce:para>Easy sample preparation and measurement makes ellipsometry attractive for surface and film investigations; however, specialized numerical methods are normally required to relate measurements to unknown physical attributes of reflecting surfaces. Although solution techniques have been developed, the problem of data analysis is by no means solved. This paper presents an alternative method for computation of the thickness and optical properties of an absorbing film overlying a known substrate from ellipsometer data obtained at two light incidence angles. Tests for selected cases required no a priori knowledge of the film, in contrast to other methods. © 1993 Optical Society of America.</ce:para>
+            </abstract>
+          </abstracts>
+          <source country="usa" srcid="29593" type="j">
+            <sourcetitle>Applied Optics</sourcetitle>
+            <sourcetitle-abbrev>Appl. Opt.</sourcetitle-abbrev>
+            <translated-sourcetitle xml:lang="eng">Applied Optics</translated-sourcetitle>
+            <issn type="electronic">15394522</issn>
+            <issn type="print">1559128X</issn>
+            <codencode>APOPA</codencode>
+            <volisspag>
+              <voliss issue="13" volume="32" />
+              <pagerange first="2339" last="2344" />
+            </volisspag>
+            <publicationyear first="1993" />
+            <publicationdate>
+              <year>2010</year>
+              <month>05</month>
+              <day>01</day>
+              <date-text xfab-added="true">1 May 2010</date-text>
+            </publicationdate>
+            <website>
+              <ce:e-address type="email">http://www.opticsinfobase.org/view_article.cfm?gotourl=http%3A%2F%2Fwww%2Eopticsinfobase%2Eorg%2FDirectPDFAccess%2F10FCEED2%2DBDB9%2D137E%2DCF2B013EE33698FB%5F40915%2Epdf%3Fda%3D1%26id%3D40915%26seq%3D0&amp;org=Elsevier%20Inc</ce:e-address>
+            </website>
+            <publisher>
+              <publishername>Optical Society of American (OSA)</publishername>
+              <ce:e-address type="email">info@osa.org</ce:e-address>
+            </publisher>
+          </source>
+          <enhancement>
+            <descriptorgroup>
+              <descriptors controlled="y" type="CCV">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Ellipsometry</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Film preparation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Numerical methods</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Optical properties</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Surface chemistry</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="n" type="CFL">
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Absorbing film optical properties</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Absorbing films</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Alternative methods</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Apriori</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Data analysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Ellipsometers</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Light incidence angles</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Reflecting surface</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Sample preparation</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b" candidate="n">Solution techniques</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="CMH">
+                <descriptor>
+                  <mainterm weight="a" candidate="n">Optical films</mainterm>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="ASJC">
+                <classification>3107</classification>
+              </classifications>
+              <classifications type="CPXCLASS">
+                <classification>
+                  <classification-code>712.1</classification-code>
+                  <classification-description>Semiconducting Materials</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>741.1</classification-code>
+                  <classification-description>Light and Optics</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>741.3</classification-code>
+                  <classification-description>Optical Devices and Systems</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>801.4</classification-code>
+                  <classification-description>Physical Chemistry</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>813.1</classification-code>
+                  <classification-description>Coating Techniques</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>921.6</classification-code>
+                  <classification-description>Numerical Methods</classification-description>
+                </classification>
+                <classification>
+                  <classification-code>941.4</classification-code>
+                  <classification-description>Optical Variables Measurements</classification-description>
+                </classification>
+              </classifications>
+              <classifications type="FLXCLASS">
+                <classification>
+                  <classification-code>902</classification-code>
+                  <classification-description>FLUIDEX; Related Topics</classification-description>
+                </classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+        <tail>
+          <bibliography refcount="21">
+            <reference id="1">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003808259</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.M.A.</ce:initials>
+                    <ce:indexed-name>Azzam R.M.A.</ce:indexed-name>
+                    <ce:surname>Azzam</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.M.</ce:initials>
+                    <ce:indexed-name>Bashara N.M.</ce:indexed-name>
+                    <ce:surname>Bashara</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Ellipsometry and Polarized Light</ref-sourcetitle>
+                <ref-publicationyear first="1977" />
+                <ref-text>North-Holland, New York</ref-text>
+              </ref-info>
+              <ref-fulltext>R. M. A. Azzam and N. M. Bashara, Ellipsometry and Polarized Light (North-Holland, New York, 1977).</ref-fulltext>
+            </reference>
+            <reference id="2">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Thickness calculations for a transparent film from ellipsometric measurements</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">13044294967</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Ghezzo M.</ce:indexed-name>
+                    <ce:surname>Ghezzo</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Opt. Soc. Am.</ref-sourcetitle>
+                <ref-publicationyear first="1968" />
+                <ref-volisspag>
+                  <voliss volume="58" />
+                  <pagerange first="368" last="372" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>M. Ghezzo, "Thickness calculations for a transparent film from ellipsometric measurements," J. Opt. Soc. Am. 58, 368-372 (1968).</ref-fulltext>
+            </reference>
+            <reference id="3">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ellipsometric method for separate measurements of n and d of a transparent film</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0016543754</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Yamaguchi T.</ce:indexed-name>
+                    <ce:surname>Yamaguchi</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>H.</ce:initials>
+                    <ce:indexed-name>Takahashi H.</ce:indexed-name>
+                    <ce:surname>Takahashi</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1975" />
+                <ref-volisspag>
+                  <voliss volume="14" />
+                  <pagerange first="2010" last="2015" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>T. Yamaguchi and H. Takahashi, "Ellipsometric method for separate measurements of n and d of a transparent film," Appl. Opt. 14,2010-2015 (1975).</ref-fulltext>
+            </reference>
+            <reference id="4">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>In situ ellipsometric study of optical properties of ultrathin films</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0001660595</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Yamamoto M.</ce:indexed-name>
+                    <ce:surname>Yamamoto</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Namioka T.</ce:indexed-name>
+                    <ce:surname>Namioka</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1992" />
+                <ref-volisspag>
+                  <voliss volume="31" />
+                  <pagerange first="1612" last="1621" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>M. Yamamoto and T. Namioka, "In situ ellipsometric study of optical properties of ultrathin films," Appl. Opt. 31, 1612-1621 (1992).</ref-fulltext>
+            </reference>
+            <reference id="5">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Method for numerical inversion of the ellipsometry equations for transparent films</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0020780822</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Yoriume Y.</ce:indexed-name>
+                    <ce:surname>Yoriume</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Opt. Soc. Am.</ref-sourcetitle>
+                <ref-publicationyear first="1983" />
+                <ref-volisspag>
+                  <voliss volume="73" />
+                  <pagerange first="888" last="891" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Y. Yoriume, "Method for numerical inversion of the ellipsometry equations for transparent films," J. Opt. Soc. Am. 73, 888-891 (1983).</ref-fulltext>
+            </reference>
+            <reference id="6">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Computational techniques for the use of the exact Drude equations in reflection problems</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0010531334</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.L.</ce:initials>
+                    <ce:indexed-name>McCrackin F.L.</ce:indexed-name>
+                    <ce:surname>McCrackin</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.P.</ce:initials>
+                    <ce:indexed-name>Colson J.P.</ce:indexed-name>
+                    <ce:surname>Colson</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Ellipsometry in the Measurement of Surfaces and Films</ref-sourcetitle>
+                <ref-publicationyear first="1964" />
+                <ref-volisspag>
+                  <voliss volume="256" />
+                  <pagerange first="61" last="82" />
+                </ref-volisspag>
+                <ref-text>E. Passaglia, R. R. Stromberg, and J. Kruger, eds., Natl. Bur. Stand. Misc. Publ.</ref-text>
+              </ref-info>
+              <ref-fulltext>F. L. McCrackin and J. P. Colson, "Computational techniques for the use of the exact Drude equations in reflection problems," in Ellipsometry in the Measurement of Surfaces and Films, E. Passaglia, R. R. Stromberg, and J. Kruger, eds., Natl. Bur. Stand. Misc. Publ. 256, 61-82 (1964).</ref-fulltext>
+            </reference>
+            <reference id="7">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ellipsometry of absorbing films</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">77949422776</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>L.V.</ce:initials>
+                    <ce:indexed-name>Semenenko L.V.</ce:indexed-name>
+                    <ce:surname>Semenenko</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>K.K.</ce:initials>
+                    <ce:indexed-name>Svitashev K.K.</ce:indexed-name>
+                    <ce:surname>Svitashev</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>A.I.</ce:initials>
+                    <ce:indexed-name>Semenenko A.I.</ce:indexed-name>
+                    <ce:surname>Semenenko</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>V.K.</ce:initials>
+                    <ce:indexed-name>Sokolov V.K.</ce:indexed-name>
+                    <ce:surname>Sokolov</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Opt. Spektrosk.</ref-sourcetitle>
+                <ref-publicationyear first="1972" />
+                <ref-volisspag>
+                  <voliss volume="32" />
+                  <pagerange first="1204" last="1210" />
+                </ref-volisspag>
+                <ref-text>[Opt. Spectrosc. (USSR) 32, 655-658 (1972)]</ref-text>
+              </ref-info>
+              <ref-fulltext>L. V. Semenenko, K. K. Svitashev, A. I. Semenenko, and V. K. Sokolov, "Ellipsometry of absorbing films," Opt. Spektrosk. 32, 1204-1210 (1972) [Opt. Spectrosc. (USSR) 32, 655-658 (1972)].</ref-fulltext>
+            </reference>
+            <reference id="8">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Spectroscopic ellipsometry of solids</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0016866735</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>D.</ce:initials>
+                    <ce:indexed-name>Aspnes D.</ce:indexed-name>
+                    <ce:surname>Aspnes</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Optical Properties of Solids: New Developments</ref-sourcetitle>
+                <ref-publicationyear first="1976" />
+                <ref-volisspag>
+                  <pagerange first="799" last="846" />
+                </ref-volisspag>
+                <ref-text>B. O. Seraphin, ed. Elsevier, New York</ref-text>
+              </ref-info>
+              <ref-fulltext>D. Aspnes, "Spectroscopic ellipsometry of solids," in Optical Properties of Solids: New Developments, B. 0. Seraphin, ed. (Elsevier, New York, 1976). pp. 799-846.</ref-fulltext>
+            </reference>
+            <reference id="9">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">5844387508</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.B.</ce:initials>
+                    <ce:indexed-name>Winterbottom A.B.</ce:indexed-name>
+                    <ce:surname>Winterbottom</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Optical Studies of Metal Surfaces</ref-sourcetitle>
+                <ref-publicationyear first="1956" />
+                <ref-text>I Kommisjon Hos F. Bruns, Trondheim, Norway</ref-text>
+              </ref-info>
+              <ref-fulltext>A. B. Winterbottom, Optical Studies of Metal Surfaces (I Kommisjon Hos F. Bruns, Trondheim, Norway, 1956).</ref-fulltext>
+            </reference>
+            <reference id="10">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ellipsometer data analysis with a small programmable desk calculator</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0001081323</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>A.R.</ce:initials>
+                    <ce:indexed-name>Reinberg A.R.</ce:indexed-name>
+                    <ce:surname>Reinberg</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1972" />
+                <ref-volisspag>
+                  <voliss volume="11" />
+                  <pagerange first="1273" last="1274" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>A. R. Reinberg, "Ellipsometer data analysis with a small programmable desk calculator," Appl. Opt. 11, 1273-1274 (1972).</ref-fulltext>
+            </reference>
+            <reference id="11">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Numerical method for the ellipsometric determination of optical constants and thickness of thin films with microcomputers</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0010600265</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>T.</ce:initials>
+                    <ce:indexed-name>Easwarakhanthan T.</ce:indexed-name>
+                    <ce:surname>Easwarakhanthan</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Michel C.</ce:indexed-name>
+                    <ce:surname>Michel</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Ravelet S.</ce:indexed-name>
+                    <ce:surname>Ravelet</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Surf. Sci.</ref-sourcetitle>
+                <ref-publicationyear first="1988" />
+                <ref-volisspag>
+                  <voliss volume="197" />
+                  <pagerange first="339" last="345" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>T. Easwarakhanthan, C. Michel, and S. Ravelet, "Numerical method for the ellipsometric determination of optical constants and thickness of thin films with microcomputers," Surf. Sci. 197,339-345 (1988).</ref-fulltext>
+            </reference>
+            <reference id="12">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Determination of thickness and optical constants of thin films from photometric and ellipsometric measurements</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0003174225</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Elizalde E.</ce:indexed-name>
+                    <ce:surname>Elizalde</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>J.M.</ce:initials>
+                    <ce:indexed-name>Frigerio J.M.</ce:indexed-name>
+                    <ce:surname>Frigerio</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Rivory J.</ce:indexed-name>
+                    <ce:surname>Rivory</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1986" />
+                <ref-volisspag>
+                  <voliss volume="25" />
+                  <pagerange first="4557" last="4561" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>E. Elizalde, J. M. Frigerio, and J. Rivory, "Determination of thickness and optical constants of thin films from photometric and ellipsometric measurements," Appl. Opt. 25, 4557-4561 (1986).</ref-fulltext>
+            </reference>
+            <reference id="13">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Analytic inversion of ellipsometric data for an unsupported nonabsorbing uniform layer</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0347767733</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Lekner J.</ce:indexed-name>
+                    <ce:surname>Lekner</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Opt. Soc. Am. A</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-volisspag>
+                  <voliss volume="7" />
+                  <pagerange first="1875" last="1877" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>J. Lekner, "Analytic inversion of ellipsometric data for an unsupported nonabsorbing uniform layer," J. Opt. Soc. Am. A 7, 1875-1877 (1990).</ref-fulltext>
+            </reference>
+            <reference id="14">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ellipsometry measurement of the complex refractive index and thickness of polysilicon thin films</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0342895265</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.H.</ce:initials>
+                    <ce:indexed-name>Ho J.H.</ce:indexed-name>
+                    <ce:surname>Ho</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.L.</ce:initials>
+                    <ce:indexed-name>Lee C.L.</ce:indexed-name>
+                    <ce:surname>Lee</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>T.F.</ce:initials>
+                    <ce:indexed-name>Lei T.F.</ce:indexed-name>
+                    <ce:surname>Lei</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>T.S.</ce:initials>
+                    <ce:indexed-name>Chao T.S.</ce:indexed-name>
+                    <ce:surname>Chao</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Opt. Soc. Am. A</ref-sourcetitle>
+                <ref-publicationyear first="1990" />
+                <ref-volisspag>
+                  <voliss volume="7" />
+                  <pagerange first="196" last="205" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>J. H. Ho, C. L. Lee, T. F. Lei, and T. S. Chao, "Ellipsometry measurement of the complex refractive index and thickness of polysilicon thin films," J. Opt. Soc. Am. A 7, 196-205 (1990).</ref-fulltext>
+            </reference>
+            <reference id="15">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ellipsometric methods for the determination of the parameters of non-absorbing uniaxial anisotropic films</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0026205732</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Zhu R.</ce:indexed-name>
+                    <ce:surname>Zhu</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>C.</ce:initials>
+                    <ce:indexed-name>Lin C.</ce:indexed-name>
+                    <ce:surname>Lin</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Wei Y.</ce:indexed-name>
+                    <ce:surname>Wei</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Thin Solid Films</ref-sourcetitle>
+                <ref-publicationyear first="1991" />
+                <ref-volisspag>
+                  <voliss volume="203" />
+                  <pagerange first="213" last="219" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>R. Zhu, C. Lin, and Y. Wei, "Ellipsometric methods for the determination of the parameters of non-absorbing uniaxial anisotropic films," Thin Solid Films 203, 213-219 (1991).</ref-fulltext>
+            </reference>
+            <reference id="16">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Variable angle of incidence spectroscopic ellipsometry: Application to GaAs-AlGalx As multiple heterostructures</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0009790797</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>P.G.</ce:initials>
+                    <ce:indexed-name>Snyder P.G.</ce:indexed-name>
+                    <ce:surname>Snyder</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>M.C.</ce:initials>
+                    <ce:indexed-name>Rost M.C.</ce:indexed-name>
+                    <ce:surname>Rost</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>G.H.</ce:initials>
+                    <ce:indexed-name>Bu-Abbud G.H.</ce:indexed-name>
+                    <ce:surname>Bu-Abbud</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>J.S.</ce:initials>
+                    <ce:indexed-name>Woollam J.S.</ce:indexed-name>
+                    <ce:surname>Woollam</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Apply. Phys.</ref-sourcetitle>
+                <ref-publicationyear first="1986" />
+                <ref-volisspag>
+                  <voliss volume="60" />
+                  <pagerange first="3293" last="3301" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>P. G. Snyder, M. C. Rost, G. H. Bu-Abbud, and J. S. Woollam, "Variable angle of incidence spectroscopic ellipsometry: application to GaAs-AlGalx As multiple heterostructures," J. Apply. Phys. 60, 3293-3301 (1986).</ref-fulltext>
+            </reference>
+            <reference id="17">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Sensitivity extrema in multiple-angle ellipsometry</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0001044750</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Humlicek J.</ce:indexed-name>
+                    <ce:surname>Humlicek</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Opt. Soc. Am. A</ref-sourcetitle>
+                <ref-publicationyear first="1985" />
+                <ref-volisspag>
+                  <voliss volume="2" />
+                  <pagerange first="713" last="722" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>J. Humlicek, "Sensitivity extrema in multiple-angle ellipsometry," J. Opt. Soc. Am. A 2, 713-722 (1985).</ref-fulltext>
+            </reference>
+            <reference id="18">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Multiple-angle ellipsometry of Si-SiO2 polycrystalline Si system</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0345814520</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>Y.</ce:initials>
+                    <ce:indexed-name>Gaillyovd Y.</ce:indexed-name>
+                    <ce:surname>Gaillyovd</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>E.</ce:initials>
+                    <ce:indexed-name>Schmidt E.</ce:indexed-name>
+                    <ce:surname>Schmidt</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>J.</ce:initials>
+                    <ce:indexed-name>Humlfiek J.</ce:indexed-name>
+                    <ce:surname>Humlfiek</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>J. Opt. Soc. Am. A</ref-sourcetitle>
+                <ref-publicationyear first="1985" />
+                <ref-volisspag>
+                  <voliss volume="2" />
+                  <pagerange first="723" last="726" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>Y. Gaillyovd, E. Schmidt, and J. Humlfiek, "Multiple-angle ellipsometry of Si-SiO2 polycrystalline Si system," J. Opt. Soc. Am. A 2, 723-726 (1985).</ref-fulltext>
+            </reference>
+            <reference id="19">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Ellipsometer measurement of thickness and optical properties of thin absorbing films</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0024068550</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>F.K.</ce:initials>
+                    <ce:indexed-name>Urban III F.K.</ce:indexed-name>
+                    <ce:surname>Urban III</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Surf. Sci.</ref-sourcetitle>
+                <ref-publicationyear first="1988" />
+                <ref-volisspag>
+                  <voliss volume="33-34" />
+                  <pagerange first="934" last="941" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>F. K. Urban III, "Ellipsometer measurement of thickness and optical properties of thin absorbing films," Appl. Surf. Sci. 33/34, 934-941 (1988).</ref-fulltext>
+            </reference>
+            <reference id="20">
+              <ref-info>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0004161838</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>W.H.</ce:initials>
+                    <ce:indexed-name>Press W.H.</ce:indexed-name>
+                    <ce:surname>Press</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>B.P.</ce:initials>
+                    <ce:indexed-name>Flannery B.P.</ce:indexed-name>
+                    <ce:surname>Flannery</ce:surname>
+                  </author>
+                  <author seq="3">
+                    <ce:initials>S.A.</ce:initials>
+                    <ce:indexed-name>Tenkolsky S.A.</ce:indexed-name>
+                    <ce:surname>Tenkolsky</ce:surname>
+                  </author>
+                  <author seq="4">
+                    <ce:initials>W.T.</ce:initials>
+                    <ce:indexed-name>Vetterling W.T.</ce:indexed-name>
+                    <ce:surname>Vetterling</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Numerical Recipes, the Art of Scientific Computing (FORTRAN Version)</ref-sourcetitle>
+                <ref-publicationyear first="1989" />
+                <ref-volisspag>
+                  <pagerange first="523" last="528" />
+                </ref-volisspag>
+                <ref-text>Cambridge U. Press, Cambridge</ref-text>
+              </ref-info>
+              <ref-fulltext>W. H. Press, B. P. Flannery, S. A. Tenkolsky, and W. T. Vetterling, Numerical Recipes, the Art of Scientific Computing (FORTRAN Version) (Cambridge U. Press, Cambridge, 1989), pp. 523-528.</ref-fulltext>
+            </reference>
+            <reference id="21">
+              <ref-info>
+                <ref-title>
+                  <ref-titletext>Parameter correlation and precision in multiple-angle ellipsometry</ref-titletext>
+                </ref-title>
+                <refd-itemidlist>
+                  <itemid idtype="SGR">0019609648</itemid>
+                </refd-itemidlist>
+                <ref-authors>
+                  <author seq="1">
+                    <ce:initials>G.H.</ce:initials>
+                    <ce:indexed-name>Bu-Abbud G.H.</ce:indexed-name>
+                    <ce:surname>Bu-Abbud</ce:surname>
+                  </author>
+                  <author seq="2">
+                    <ce:initials>N.M.</ce:initials>
+                    <ce:indexed-name>Bashara N.M.</ce:indexed-name>
+                    <ce:surname>Bashara</ce:surname>
+                  </author>
+                </ref-authors>
+                <ref-sourcetitle>Appl. Opt.</ref-sourcetitle>
+                <ref-publicationyear first="1981" />
+                <ref-volisspag>
+                  <voliss volume="20" />
+                  <pagerange first="3020" last="3026" />
+                </ref-volisspag>
+              </ref-info>
+              <ref-fulltext>G. H. Bu-Abbud and N. M. Bashara, "Parameter correlation and precision in multiple-angle ellipsometry," Appl. Opt. 20, 3020-3026 (1981).</ref-fulltext>
+            </reference>
+          </bibliography>
+        </tail>
+      </bibrecord>
+    </item>
+  </xocs:item>
+</xocs:doc>
